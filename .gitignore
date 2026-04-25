@@ -1,0 +1,41 @@
+# Python / notebook cache
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+*.docx
+
+# Local virtual environments
+.venv/
+venv/
+env/
+
+# YOLO / CV generated outputs
+runs/
+*.pt
+
+# Large project datasets and archives
+CV_project#1/data/
+CV_project#1/voc3/
+CV_project#1/voc3_large/
+CV_project#1/datasets_*/
+CV_project#1/protocol_split_cv1/
+
+# Training run directories
+CV_project#1/*_runs/
+CV_project#1/ablation_runs/
+CV_project#1/repeat_runs*/
+CV_project#1/two_stage_runs/
+CV_project#1/protocol_*_runs/
+CV_project#1/fresh_final_runs/
+CV_project#1/same_dataset_runs/
+CV_project#1/runs/
+
+# Keep final reports and curated submission artifacts trackable
+!CV_project#1/outputs/
+CV_project#1/outputs/**
+!CV_project#1/outputs/reports/
+!CV_project#1/outputs/reports/20211435.md
+!CV_project#1/outputs/reports/20211435.pdf
+!CV_project#1/outputs/reports/20211435.docx
+!CV_project#1/submission/
+!CV_project#1/submission/**

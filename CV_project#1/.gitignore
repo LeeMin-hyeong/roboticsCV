@@ -1,0 +1,34 @@
+# Local caches
+__pycache__/
+.ipynb_checkpoints/
+
+# Downloaded VOC data and generated YOLO datasets
+data/
+voc3/
+voc3_large/
+datasets_*/
+protocol_split_cv1/
+
+# Training and validation runs
+runs/
+*_runs/
+ablation_runs/
+repeat_runs*/
+two_stage_runs/
+protocol_*_runs/
+fresh_final_runs/
+same_dataset_runs/
+
+# Model weights and binary checkpoints
+*.pt
+
+# Generated outputs: keep only final public report files by default
+outputs/**
+!outputs/reports/
+!outputs/reports/20211435.md
+!outputs/reports/20211435.pdf
+!outputs/reports/20211435.docx
+
+# Curated lightweight package for Git/submission
+!submission/
+!submission/**

@@ -1,0 +1,30 @@
+{
+  "b0_map50": 0.8250420136589606,
+  "seed_map50_deltas": [
+    0.05445757019308428,
+    0.03674763638503231,
+    0.056831139297113586,
+    0.04728432066329513,
+    0.05432529228394234
+  ],
+  "seed_level": {
+    "mean_delta_map50": 0.04992919176449353,
+    "std_delta_map50": 0.008188674130718929,
+    "positive_seed_count": 5,
+    "seed_count": 5,
+    "p_sign_test_one_sided": 0.03125,
+    "p_permutation_signflip_one_sided": 0.03125,
+    "bootstrap": {
+      "mean": 0.04992919176449353,
+      "ci95_low": 0.04287167382310113,
+      "ci95_high": 0.055380542252867614,
+      "p_boot_one_sided": 0.0
+    }
+  },
+  "paired_bootstrap_image_level_ap50": {
+    "mean": 0.010553366741609768,
+    "ci95_low": -0.0003755861219334795,
+    "ci95_high": 0.022602025088945807,
+    "p_boot_one_sided": 0.0294
+  }
+}

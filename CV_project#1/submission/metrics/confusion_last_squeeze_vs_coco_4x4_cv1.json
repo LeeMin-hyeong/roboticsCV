@@ -1,0 +1,67 @@
+{
+  "classes": [
+    "person",
+    "car",
+    "dog",
+    "bg/other"
+  ],
+  "conf": 0.15,
+  "match_iou": 0.5,
+  "dataset_test_txt": "C:\\Users\\lmhst\\git\\roboticsCV\\CV_project#1\\datasets_last_squeeze_voc07\\test.txt",
+  "baseline_weights": "yolov8n.pt",
+  "final_weights": "C:\\Users\\lmhst\\git\\roboticsCV\\CV_project#1\\last_squeeze_runs\\squeeze_refine1\\weights\\best.pt",
+  "counts_png": "C:\\Users\\lmhst\\git\\roboticsCV\\CV_project#1\\outputs\\figures\\confusion_last_squeeze_vs_coco_4x4_counts_cv1.png",
+  "normalized_png": "C:\\Users\\lmhst\\git\\roboticsCV\\CV_project#1\\outputs\\figures\\confusion_last_squeeze_vs_coco_4x4_normalized_cv1.png",
+  "baseline_counts": [
+    [
+      160,
+      0,
+      0,
+      44
+    ],
+    [
+      0,
+      56,
+      0,
+      6
+    ],
+    [
+      0,
+      0,
+      13,
+      5
+    ],
+    [
+      106,
+      25,
+      2,
+      0
+    ]
+  ],
+  "final_counts": [
+    [
+      163,
+      0,
+      1,
+      40
+    ],
+    [
+      0,
+      58,
+      0,
+      4
+    ],
+    [
+      0,
+      0,
+      15,
+      3
+    ],
+    [
+      88,
+      43,
+      6,
+      0
+    ]
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "seeds": [
+    101,
+    202,
+    303,
+    404,
+    505
+  ],
+  "train_cfg": {
+    "epochs": 18,
+    "imgsz": 640,
+    "batch": 16,
+    "optimizer": "SGD",
+    "lr0": 0.00035,
+    "lrf": 0.02,
+    "momentum": 0.937,
+    "weight_decay": 0.00045,
+    "warmup_epochs": 1.0,
+    "box": 7.8,
+    "cls": 0.45,
+    "dfl": 1.35,
+    "hsv_h": 0.01,
+    "hsv_s": 0.6,
+    "hsv_v": 0.3,
+    "translate": 0.05,
+    "scale": 0.35,
+    "fliplr": 0.5,
+    "mosaic": 0.05,
+    "mixup": 0.0,
+    "cutmix": 0.0,
+    "close_mosaic": 1,
+    "freeze": 0,
+    "patience": 20
+  },
+  "test_count": 100,
+  "b0": {
+    "map50": 0.8250420136589606,
+    "map75": 0.6812804544373297,
+    "map50_95": 0.6245405860086132,
+    "class_ap50_95": {
+      "person": 0.5595116651372634,
+      "car": 0.6728495392037288,
+      "dog": 0.6412605536848474
+    }
+  },
+  "seed_level": {
+    "mean_delta_map50_95": 0.03806091533258029,
+    "std_delta_map50_95": 0.004895866903109561,
+    "positive_seed_count": 5,
+    "seed_count": 5,
+    "p_sign_test_one_sided": 0.03125,
+    "p_permutation_signflip_one_sided": 0.03125,
+    "bootstrap": {
+      "mean": 0.03806091533258029,
+      "ci95_low": 0.03420148958446403,
+      "ci95_high": 0.041756523558904024,
+      "p_boot_one_sided": 0.0,
+      "n_boot": 20000
+    }
+  },
+  "paired_bootstrap_image_level": {
+    "mean": 0.00833881374644893,
+    "ci95_low": -0.002170730795496271,
+    "ci95_high": 0.020170422147007202,
+    "p_boot_one_sided": 0.0612,
+    "n_boot": 20000
+  },
+  "paths": {
+    "seed_csv": "C:\\Users\\lmhst\\git\\roboticsCV\\CV_project#1\\outputs\\tables\\last_squeeze_seed_repeat_cv1.csv",
+    "bootstrap_json": "C:\\Users\\lmhst\\git\\roboticsCV\\CV_project#1\\outputs\\metrics\\last_squeeze_seed_repeat_bootstrap_cv1.json",
+    "seed_plot": "C:\\Users\\lmhst\\git\\roboticsCV\\CV_project#1\\outputs\\figures\\last_squeeze_seed_repeat_delta_cv1.png",
+    "bootstrap_plot": "C:\\Users\\lmhst\\git\\roboticsCV\\CV_project#1\\outputs\\figures\\last_squeeze_seed_repeat_bootstrap_cv1.png"
+  }
+}

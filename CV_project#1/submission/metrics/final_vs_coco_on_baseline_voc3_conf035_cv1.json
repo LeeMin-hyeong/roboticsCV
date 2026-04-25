@@ -1,0 +1,160 @@
+{
+  "dataset": "C:\\Users\\lmhst\\git\\roboticsCV\\CV_project#1\\voc3\\data.yaml",
+  "val_images": 50,
+  "operating_point": {
+    "before_conf": 0.15,
+    "after_conf": 0.35,
+    "nms_iou": 0.7,
+    "max_det": 300,
+    "match_iou": 0.5
+  },
+  "before": {
+    "weights": "yolov8n.pt",
+    "map": {
+      "map50": 0.275085376772311,
+      "map50_95": 0.19509637818385783
+    },
+    "stats": {
+      "precision": 0.6536312849162011,
+      "recall": 0.8125,
+      "f1": 0.7244582043343654,
+      "tp": 117,
+      "fp": 62,
+      "fn": 27,
+      "class_metrics": {
+        "person": {
+          "precision": 0.609375,
+          "recall": 0.7722772277227723,
+          "f1": 0.6812227074235808,
+          "tp": 78,
+          "fp": 50,
+          "fn": 23
+        },
+        "car": {
+          "precision": 0.717948717948718,
+          "recall": 0.9333333333333333,
+          "f1": 0.8115942028985509,
+          "tp": 28,
+          "fp": 11,
+          "fn": 2
+        },
+        "dog": {
+          "precision": 0.9166666666666666,
+          "recall": 0.8461538461538461,
+          "f1": 0.8799999999999999,
+          "tp": 11,
+          "fp": 1,
+          "fn": 2
+        }
+      }
+    },
+    "cm_counts": [
+      [
+        78,
+        0,
+        0,
+        23
+      ],
+      [
+        0,
+        28,
+        0,
+        2
+      ],
+      [
+        0,
+        0,
+        11,
+        2
+      ],
+      [
+        50,
+        11,
+        1,
+        0
+      ]
+    ]
+  },
+  "after": {
+    "weights": "C:\\Users\\lmhst\\git\\roboticsCV\\CV_project#1\\last_squeeze_runs\\squeeze_refine1\\weights\\best.pt",
+    "map": {
+      "map50": 0.870847013258922,
+      "map50_95": 0.623875454861034
+    },
+    "stats": {
+      "precision": 0.7925925925925926,
+      "recall": 0.7430555555555556,
+      "f1": 0.7670250896057348,
+      "tp": 107,
+      "fp": 28,
+      "fn": 37,
+      "class_metrics": {
+        "person": {
+          "precision": 0.8068181818181818,
+          "recall": 0.7029702970297029,
+          "f1": 0.7513227513227512,
+          "tp": 71,
+          "fp": 17,
+          "fn": 30
+        },
+        "car": {
+          "precision": 0.7222222222222222,
+          "recall": 0.8666666666666667,
+          "f1": 0.7878787878787877,
+          "tp": 26,
+          "fp": 10,
+          "fn": 4
+        },
+        "dog": {
+          "precision": 0.9090909090909091,
+          "recall": 0.7692307692307693,
+          "f1": 0.8333333333333333,
+          "tp": 10,
+          "fp": 1,
+          "fn": 3
+        }
+      }
+    },
+    "cm_counts": [
+      [
+        71,
+        0,
+        0,
+        30
+      ],
+      [
+        0,
+        26,
+        0,
+        4
+      ],
+      [
+        0,
+        0,
+        10,
+        3
+      ],
+      [
+        17,
+        10,
+        1,
+        0
+      ]
+    ]
+  },
+  "delta_after_minus_before": {
+    "map50": 0.595761636486611,
+    "map50_95": 0.4287790766771762,
+    "f1": 0.042566885271369426,
+    "precision": 0.13896130767639148,
+    "recall": -0.06944444444444442,
+    "tp": -10,
+    "fp": -34,
+    "fn": 10
+  },
+  "figures": {
+    "metrics": "C:\\Users\\lmhst\\git\\roboticsCV\\CV_project#1\\outputs\\figures\\final_vs_coco_on_baseline_voc3_metrics_cv1.png",
+    "cm_counts": "C:\\Users\\lmhst\\git\\roboticsCV\\CV_project#1\\outputs\\figures\\final_vs_coco_on_baseline_voc3_confusion_counts_cv1.png",
+    "cm_normalized": "C:\\Users\\lmhst\\git\\roboticsCV\\CV_project#1\\outputs\\figures\\final_vs_coco_on_baseline_voc3_confusion_normalized_cv1.png"
+  }
+}
