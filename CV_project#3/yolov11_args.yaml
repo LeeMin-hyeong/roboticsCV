@@ -107,4 +107,4 @@ auto_augment: randaugment
 erasing: 0.4
 cfg: null
 tracker: botsort.yaml
-save_dir: /home/gunwoo/yolo/runs/detect/runs/yolov11_rf/tools_rf
+save_dir: .
