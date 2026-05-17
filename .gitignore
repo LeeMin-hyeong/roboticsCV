@@ -39,3 +39,5 @@ CV_project#1/outputs/**
 !CV_project#1/outputs/reports/20211435.docx
 !CV_project#1/submission/
 !CV_project#1/submission/**
+*dataset
+*dataset_yolo_report

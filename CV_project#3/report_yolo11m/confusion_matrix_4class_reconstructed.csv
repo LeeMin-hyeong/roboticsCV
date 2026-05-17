@@ -1,0 +1,5 @@
+predicted\true,Hammer,Pliers,Screwdriver,Wrench
+Hammer,0.890,0.000,0.000,0.010
+Pliers,0.000,0.961,0.010,0.010
+Screwdriver,0.010,0.020,0.890,0.010
+Wrench,0.000,0.000,0.000,0.890

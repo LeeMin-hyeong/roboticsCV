@@ -1,0 +1,5 @@
+metric,best_value,best_epoch,source_column
+best_mAP50_95,0.69299,124,metrics/mAP50-95(B)
+best_mAP50,0.86456,124,metrics/mAP50(B)
+best_precision,0.88118,67,metrics/precision(B)
+best_recall,0.83828,105,metrics/recall(B)
