@@ -1,0 +1,629 @@
+﻿image_id,file,model,num_gt,num_pred,time_sec
+239,000040_jpg.rf.bT4he29T80Fn7o8HeqTY.jpg,YOLO fine-tuned,1,3,0.628961
+239,000040_jpg.rf.bT4he29T80Fn7o8HeqTY.jpg,OWL-ViT,1,1,0.127823
+239,000040_jpg.rf.bT4he29T80Fn7o8HeqTY.jpg,OWLv2,1,3,0.298078
+239,000040_jpg.rf.bT4he29T80Fn7o8HeqTY.jpg,Grounding DINO,1,20,0.425395
+150,000006_jpg.rf.NA8irFPqWj5BQIEQqQKE.jpg,YOLO fine-tuned,1,5,0.020061
+150,000006_jpg.rf.NA8irFPqWj5BQIEQqQKE.jpg,OWL-ViT,1,3,0.038669
+150,000006_jpg.rf.NA8irFPqWj5BQIEQqQKE.jpg,OWLv2,1,4,0.197039
+150,000006_jpg.rf.NA8irFPqWj5BQIEQqQKE.jpg,Grounding DINO,1,18,0.251231
+222,000027_jpg.rf.ogYtV0FvHMVep2FtmJmi.jpg,YOLO fine-tuned,1,1,0.018908
+222,000027_jpg.rf.ogYtV0FvHMVep2FtmJmi.jpg,OWL-ViT,1,2,0.039736
+222,000027_jpg.rf.ogYtV0FvHMVep2FtmJmi.jpg,OWLv2,1,4,0.194577
+222,000027_jpg.rf.ogYtV0FvHMVep2FtmJmi.jpg,Grounding DINO,1,31,0.243012
+23,000034_jpg.rf.zonFoW0Q7zNo6xP2JNEX.jpg,YOLO fine-tuned,1,3,0.020111
+23,000034_jpg.rf.zonFoW0Q7zNo6xP2JNEX.jpg,OWL-ViT,1,1,0.043736
+23,000034_jpg.rf.zonFoW0Q7zNo6xP2JNEX.jpg,OWLv2,1,1,0.201316
+23,000034_jpg.rf.zonFoW0Q7zNo6xP2JNEX.jpg,Grounding DINO,1,21,0.248065
+162,000026_jpg.rf.SxA8QPjIvJ5JgrEShXoc.jpg,YOLO fine-tuned,1,2,0.083244
+162,000026_jpg.rf.SxA8QPjIvJ5JgrEShXoc.jpg,OWL-ViT,1,1,0.041724
+162,000026_jpg.rf.SxA8QPjIvJ5JgrEShXoc.jpg,OWLv2,1,3,0.194227
+162,000026_jpg.rf.SxA8QPjIvJ5JgrEShXoc.jpg,Grounding DINO,1,15,0.330056
+80,000030_jpg.rf.t5lebffhlSqr7r164T84.jpg,YOLO fine-tuned,4,10,0.077528
+80,000030_jpg.rf.t5lebffhlSqr7r164T84.jpg,OWL-ViT,4,1,0.038590
+80,000030_jpg.rf.t5lebffhlSqr7r164T84.jpg,OWLv2,4,38,0.194133
+80,000030_jpg.rf.t5lebffhlSqr7r164T84.jpg,Grounding DINO,4,40,0.258634
+102,000027_jpg.rf.LbsoxVoS003Wo58B8bJo.jpg,YOLO fine-tuned,3,8,0.019822
+102,000027_jpg.rf.LbsoxVoS003Wo58B8bJo.jpg,OWL-ViT,3,4,0.038060
+102,000027_jpg.rf.LbsoxVoS003Wo58B8bJo.jpg,OWLv2,3,10,0.196416
+102,000027_jpg.rf.LbsoxVoS003Wo58B8bJo.jpg,Grounding DINO,3,34,0.250288
+107,000032_jpg.rf.MWMxSQQlaYDVMRpkug8J.jpg,YOLO fine-tuned,1,2,0.019221
+107,000032_jpg.rf.MWMxSQQlaYDVMRpkug8J.jpg,OWL-ViT,1,2,0.039499
+107,000032_jpg.rf.MWMxSQQlaYDVMRpkug8J.jpg,OWLv2,1,2,0.196514
+107,000032_jpg.rf.MWMxSQQlaYDVMRpkug8J.jpg,Grounding DINO,1,24,0.240672
+93,000039_jpg.rf.KneEXJI4FKOrb2may25c.jpg,YOLO fine-tuned,7,9,0.079352
+93,000039_jpg.rf.KneEXJI4FKOrb2may25c.jpg,OWL-ViT,7,20,0.039250
+93,000039_jpg.rf.KneEXJI4FKOrb2may25c.jpg,OWLv2,7,20,0.198101
+93,000039_jpg.rf.KneEXJI4FKOrb2may25c.jpg,Grounding DINO,7,34,0.303209
+242,000046_jpg.rf.adzY4tN7tLZQvmVJReo0.jpg,YOLO fine-tuned,5,41,0.025412
+242,000046_jpg.rf.adzY4tN7tLZQvmVJReo0.jpg,OWL-ViT,5,26,0.045621
+242,000046_jpg.rf.adzY4tN7tLZQvmVJReo0.jpg,OWLv2,5,45,0.199315
+242,000046_jpg.rf.adzY4tN7tLZQvmVJReo0.jpg,Grounding DINO,5,54,0.317128
+202,000020_jpg.rf.a8WG5AxzIUK7Fsg9Xqg7.jpg,YOLO fine-tuned,1,2,0.080256
+202,000020_jpg.rf.a8WG5AxzIUK7Fsg9Xqg7.jpg,OWL-ViT,1,1,0.039733
+202,000020_jpg.rf.a8WG5AxzIUK7Fsg9Xqg7.jpg,OWLv2,1,5,0.195690
+202,000020_jpg.rf.a8WG5AxzIUK7Fsg9Xqg7.jpg,Grounding DINO,1,11,0.280810
+127,000019_jpg.rf.BROeQxfxMMjmCJTSuVuC.jpg,YOLO fine-tuned,1,1,0.079395
+127,000019_jpg.rf.BROeQxfxMMjmCJTSuVuC.jpg,OWL-ViT,1,2,0.038857
+127,000019_jpg.rf.BROeQxfxMMjmCJTSuVuC.jpg,OWLv2,1,1,0.195270
+127,000019_jpg.rf.BROeQxfxMMjmCJTSuVuC.jpg,Grounding DINO,1,12,0.276016
+234,000021_jpg.rf.b1rDbdW66H8Z7Rw4Mxg9.jpg,YOLO fine-tuned,1,1,0.019420
+234,000021_jpg.rf.b1rDbdW66H8Z7Rw4Mxg9.jpg,OWL-ViT,1,10,0.040814
+234,000021_jpg.rf.b1rDbdW66H8Z7Rw4Mxg9.jpg,OWLv2,1,3,0.200193
+234,000021_jpg.rf.b1rDbdW66H8Z7Rw4Mxg9.jpg,Grounding DINO,1,30,0.273970
+243,000036_jpg.rf.eeYHwfs8pRFD6kVwU0Pj.jpg,YOLO fine-tuned,1,1,0.025949
+243,000036_jpg.rf.eeYHwfs8pRFD6kVwU0Pj.jpg,OWL-ViT,1,2,0.037350
+243,000036_jpg.rf.eeYHwfs8pRFD6kVwU0Pj.jpg,OWLv2,1,2,0.195518
+243,000036_jpg.rf.eeYHwfs8pRFD6kVwU0Pj.jpg,Grounding DINO,1,15,0.297648
+30,000002_jpg.rf.3ivZ2dz8EypXKjwi2Mm4.jpg,YOLO fine-tuned,1,2,0.021324
+30,000002_jpg.rf.3ivZ2dz8EypXKjwi2Mm4.jpg,OWL-ViT,1,3,0.042662
+30,000002_jpg.rf.3ivZ2dz8EypXKjwi2Mm4.jpg,OWLv2,1,1,0.200689
+30,000002_jpg.rf.3ivZ2dz8EypXKjwi2Mm4.jpg,Grounding DINO,1,23,0.247221
+108,000008_jpg.rf.8gUhF2dN1QO2GptOCgQb.jpg,YOLO fine-tuned,1,14,0.018626
+108,000008_jpg.rf.8gUhF2dN1QO2GptOCgQb.jpg,OWL-ViT,1,15,0.037303
+108,000008_jpg.rf.8gUhF2dN1QO2GptOCgQb.jpg,OWLv2,1,26,0.197892
+108,000008_jpg.rf.8gUhF2dN1QO2GptOCgQb.jpg,Grounding DINO,1,60,0.342146
+35,000013_jpg.rf.1cZ0rM2R2tsCyyBq56Gm.jpg,YOLO fine-tuned,1,5,0.018897
+35,000013_jpg.rf.1cZ0rM2R2tsCyyBq56Gm.jpg,OWL-ViT,1,2,0.038703
+35,000013_jpg.rf.1cZ0rM2R2tsCyyBq56Gm.jpg,OWLv2,1,4,0.195970
+35,000013_jpg.rf.1cZ0rM2R2tsCyyBq56Gm.jpg,Grounding DINO,1,17,0.286590
+130,000023_jpg.rf.D3rRLdqE9Aal6ZOVapZv.jpg,YOLO fine-tuned,1,1,0.020087
+130,000023_jpg.rf.D3rRLdqE9Aal6ZOVapZv.jpg,OWL-ViT,1,1,0.042950
+130,000023_jpg.rf.D3rRLdqE9Aal6ZOVapZv.jpg,OWLv2,1,4,0.195061
+130,000023_jpg.rf.D3rRLdqE9Aal6ZOVapZv.jpg,Grounding DINO,1,28,0.246931
+34,000042_jpg.rf.2hzQxKkdeWW2V8VR63fQ.jpg,YOLO fine-tuned,1,1,0.018881
+34,000042_jpg.rf.2hzQxKkdeWW2V8VR63fQ.jpg,OWL-ViT,1,3,0.038963
+34,000042_jpg.rf.2hzQxKkdeWW2V8VR63fQ.jpg,OWLv2,1,8,0.195317
+34,000042_jpg.rf.2hzQxKkdeWW2V8VR63fQ.jpg,Grounding DINO,1,22,0.252379
+184,000004_jpg.rf.XBdZEYcLZx7RSg191Bjs.jpg,YOLO fine-tuned,8,21,0.018504
+184,000004_jpg.rf.XBdZEYcLZx7RSg191Bjs.jpg,OWL-ViT,8,24,0.038086
+184,000004_jpg.rf.XBdZEYcLZx7RSg191Bjs.jpg,OWLv2,8,18,0.198603
+184,000004_jpg.rf.XBdZEYcLZx7RSg191Bjs.jpg,Grounding DINO,8,33,0.250357
+209,000018_jpg.rf.kntQLBiuSVPEmoz6obHs.jpg,YOLO fine-tuned,1,1,0.085275
+209,000018_jpg.rf.kntQLBiuSVPEmoz6obHs.jpg,OWL-ViT,1,3,0.039169
+209,000018_jpg.rf.kntQLBiuSVPEmoz6obHs.jpg,OWLv2,1,1,0.198777
+209,000018_jpg.rf.kntQLBiuSVPEmoz6obHs.jpg,Grounding DINO,1,22,0.349206
+237,000024_jpg.rf.pRr7CuEJ2T8O9VJUW5Bs.jpg,YOLO fine-tuned,1,2,0.081594
+237,000024_jpg.rf.pRr7CuEJ2T8O9VJUW5Bs.jpg,OWL-ViT,1,2,0.041390
+237,000024_jpg.rf.pRr7CuEJ2T8O9VJUW5Bs.jpg,OWLv2,1,3,0.200799
+237,000024_jpg.rf.pRr7CuEJ2T8O9VJUW5Bs.jpg,Grounding DINO,1,25,0.279220
+63,000025_jpg.rf.sQbq9ARxqLmLNw5UKwLb.jpg,YOLO fine-tuned,1,2,0.019431
+63,000025_jpg.rf.sQbq9ARxqLmLNw5UKwLb.jpg,OWL-ViT,1,8,0.039238
+63,000025_jpg.rf.sQbq9ARxqLmLNw5UKwLb.jpg,OWLv2,1,52,0.198045
+63,000025_jpg.rf.sQbq9ARxqLmLNw5UKwLb.jpg,Grounding DINO,1,47,0.247003
+11,000014_jpg.rf.xT0pKLI8WaHYASVbBKe0.jpg,YOLO fine-tuned,1,4,0.018029
+11,000014_jpg.rf.xT0pKLI8WaHYASVbBKe0.jpg,OWL-ViT,1,5,0.038215
+11,000014_jpg.rf.xT0pKLI8WaHYASVbBKe0.jpg,OWLv2,1,3,0.195990
+11,000014_jpg.rf.xT0pKLI8WaHYASVbBKe0.jpg,Grounding DINO,1,24,0.258031
+200,000029_jpg.rf.ksViHqYGXsm3T5ENqvoV.jpg,YOLO fine-tuned,1,1,0.017882
+200,000029_jpg.rf.ksViHqYGXsm3T5ENqvoV.jpg,OWL-ViT,1,3,0.037993
+200,000029_jpg.rf.ksViHqYGXsm3T5ENqvoV.jpg,OWLv2,1,2,0.200881
+200,000029_jpg.rf.ksViHqYGXsm3T5ENqvoV.jpg,Grounding DINO,1,25,0.272484
+165,000028_jpg.rf.SybkOfjN65ZMTwZCgFtm.jpg,YOLO fine-tuned,1,2,0.035971
+165,000028_jpg.rf.SybkOfjN65ZMTwZCgFtm.jpg,OWL-ViT,1,2,0.043429
+165,000028_jpg.rf.SybkOfjN65ZMTwZCgFtm.jpg,OWLv2,1,4,0.202690
+165,000028_jpg.rf.SybkOfjN65ZMTwZCgFtm.jpg,Grounding DINO,1,30,0.249462
+189,000013_jpg.rf.YZIbwk5CUZdDxHtnceIw.jpg,YOLO fine-tuned,1,1,0.020375
+189,000013_jpg.rf.YZIbwk5CUZdDxHtnceIw.jpg,OWL-ViT,1,2,0.039976
+189,000013_jpg.rf.YZIbwk5CUZdDxHtnceIw.jpg,OWLv2,1,2,0.199198
+189,000013_jpg.rf.YZIbwk5CUZdDxHtnceIw.jpg,Grounding DINO,1,26,0.336141
+240,000044_jpg.rf.eqVnJde9USrbZzrR80rY.jpg,YOLO fine-tuned,11,16,0.091839
+240,000044_jpg.rf.eqVnJde9USrbZzrR80rY.jpg,OWL-ViT,11,16,0.040575
+240,000044_jpg.rf.eqVnJde9USrbZzrR80rY.jpg,OWLv2,11,20,0.198073
+240,000044_jpg.rf.eqVnJde9USrbZzrR80rY.jpg,Grounding DINO,11,60,0.358716
+186,000034_jpg.rf.Xkxr7gN3MnRoTVjqjwWo.jpg,YOLO fine-tuned,1,2,0.019401
+186,000034_jpg.rf.Xkxr7gN3MnRoTVjqjwWo.jpg,OWL-ViT,1,5,0.039019
+186,000034_jpg.rf.Xkxr7gN3MnRoTVjqjwWo.jpg,OWLv2,1,3,0.196810
+186,000034_jpg.rf.Xkxr7gN3MnRoTVjqjwWo.jpg,Grounding DINO,1,30,0.255981
+91,000032_jpg.rf.KJu64MM2slE4BqjjTTAO.jpg,YOLO fine-tuned,2,2,0.020136
+91,000032_jpg.rf.KJu64MM2slE4BqjjTTAO.jpg,OWL-ViT,2,1,0.043018
+91,000032_jpg.rf.KJu64MM2slE4BqjjTTAO.jpg,OWLv2,2,1,0.196510
+91,000032_jpg.rf.KJu64MM2slE4BqjjTTAO.jpg,Grounding DINO,2,7,0.674485
+111,000046_jpg.rf.LHWz2UL00jcuv4CnPX24.jpg,YOLO fine-tuned,1,5,0.028466
+111,000046_jpg.rf.LHWz2UL00jcuv4CnPX24.jpg,OWL-ViT,1,3,0.117955
+111,000046_jpg.rf.LHWz2UL00jcuv4CnPX24.jpg,OWLv2,1,1,3.425744
+111,000046_jpg.rf.LHWz2UL00jcuv4CnPX24.jpg,Grounding DINO,1,26,0.377548
+146,000016_jpg.rf.OdaFk7AtdkIftosMtNwV.jpg,YOLO fine-tuned,1,6,0.020912
+146,000016_jpg.rf.OdaFk7AtdkIftosMtNwV.jpg,OWL-ViT,1,1,0.137484
+146,000016_jpg.rf.OdaFk7AtdkIftosMtNwV.jpg,OWLv2,1,43,3.416296
+146,000016_jpg.rf.OdaFk7AtdkIftosMtNwV.jpg,Grounding DINO,1,18,0.380107
+86,000019_jpg.rf.IvGcibObQFzXebndwnmm.jpg,YOLO fine-tuned,2,8,0.019139
+86,000019_jpg.rf.IvGcibObQFzXebndwnmm.jpg,OWL-ViT,2,24,0.139221
+86,000019_jpg.rf.IvGcibObQFzXebndwnmm.jpg,OWLv2,2,76,3.419643
+86,000019_jpg.rf.IvGcibObQFzXebndwnmm.jpg,Grounding DINO,2,68,0.398348
+203,000006_jpg.rf.lbB2drPCTuAPAhyEv2fm.jpg,YOLO fine-tuned,1,2,0.019369
+203,000006_jpg.rf.lbB2drPCTuAPAhyEv2fm.jpg,OWL-ViT,1,1,0.137668
+203,000006_jpg.rf.lbB2drPCTuAPAhyEv2fm.jpg,OWLv2,1,3,3.420462
+203,000006_jpg.rf.lbB2drPCTuAPAhyEv2fm.jpg,Grounding DINO,1,25,0.492581
+105,000007_jpg.rf.Mf9Tgk3xl9Fqlu9s5ATC.jpg,YOLO fine-tuned,1,2,0.036529
+105,000007_jpg.rf.Mf9Tgk3xl9Fqlu9s5ATC.jpg,OWL-ViT,1,7,0.136941
+105,000007_jpg.rf.Mf9Tgk3xl9Fqlu9s5ATC.jpg,OWLv2,1,3,3.415301
+105,000007_jpg.rf.Mf9Tgk3xl9Fqlu9s5ATC.jpg,Grounding DINO,1,24,0.575440
+219,000050_jpg.rf.mcG36K63YoPk1gpe9Wcu.jpg,YOLO fine-tuned,1,2,0.022112
+219,000050_jpg.rf.mcG36K63YoPk1gpe9Wcu.jpg,OWL-ViT,1,2,0.152236
+219,000050_jpg.rf.mcG36K63YoPk1gpe9Wcu.jpg,OWLv2,1,2,3.672357
+219,000050_jpg.rf.mcG36K63YoPk1gpe9Wcu.jpg,Grounding DINO,1,25,0.506836
+116,000042_jpg.rf.7nxwgRhJOjVtDSMpEPAC.jpg,YOLO fine-tuned,2,2,0.019032
+116,000042_jpg.rf.7nxwgRhJOjVtDSMpEPAC.jpg,OWL-ViT,2,6,0.135778
+116,000042_jpg.rf.7nxwgRhJOjVtDSMpEPAC.jpg,OWLv2,2,7,3.943452
+116,000042_jpg.rf.7nxwgRhJOjVtDSMpEPAC.jpg,Grounding DINO,2,37,0.543628
+151,000001_jpg.rf.Op0pdWRTEFeF969HSoq7.jpg,YOLO fine-tuned,1,3,0.022542
+151,000001_jpg.rf.Op0pdWRTEFeF969HSoq7.jpg,OWL-ViT,1,1,0.147632
+151,000001_jpg.rf.Op0pdWRTEFeF969HSoq7.jpg,OWLv2,1,1,3.463655
+151,000001_jpg.rf.Op0pdWRTEFeF969HSoq7.jpg,Grounding DINO,1,15,0.503580
+117,000000_jpg.rf.72oSGSMFgP1RAR4Ss5rN.jpg,YOLO fine-tuned,1,4,0.106405
+117,000000_jpg.rf.72oSGSMFgP1RAR4Ss5rN.jpg,OWL-ViT,1,1,0.154993
+117,000000_jpg.rf.72oSGSMFgP1RAR4Ss5rN.jpg,OWLv2,1,1,3.418273
+117,000000_jpg.rf.72oSGSMFgP1RAR4Ss5rN.jpg,Grounding DINO,1,27,0.334666
+128,000009_jpg.rf.83zYbQ21kHVGpOaIaN57.jpg,YOLO fine-tuned,1,5,0.018898
+128,000009_jpg.rf.83zYbQ21kHVGpOaIaN57.jpg,OWL-ViT,1,3,0.131292
+128,000009_jpg.rf.83zYbQ21kHVGpOaIaN57.jpg,OWLv2,1,2,3.564857
+128,000009_jpg.rf.83zYbQ21kHVGpOaIaN57.jpg,Grounding DINO,1,29,0.492353
+36,000002_jpg.rf.0wjqHuj6BmLinty1A5Qj.jpg,YOLO fine-tuned,1,2,0.022400
+36,000002_jpg.rf.0wjqHuj6BmLinty1A5Qj.jpg,OWL-ViT,1,4,0.147293
+36,000002_jpg.rf.0wjqHuj6BmLinty1A5Qj.jpg,OWLv2,1,3,3.443243
+36,000002_jpg.rf.0wjqHuj6BmLinty1A5Qj.jpg,Grounding DINO,1,29,0.387324
+244,000045_jpg.rf.egQndTJsEIPz4qUD1QZ4.jpg,YOLO fine-tuned,5,10,0.019079
+244,000045_jpg.rf.egQndTJsEIPz4qUD1QZ4.jpg,OWL-ViT,5,15,0.133585
+244,000045_jpg.rf.egQndTJsEIPz4qUD1QZ4.jpg,OWLv2,5,25,3.393414
+244,000045_jpg.rf.egQndTJsEIPz4qUD1QZ4.jpg,Grounding DINO,5,62,0.400825
+101,000022_jpg.rf.Jm5gyx9UUkQPxFpWRwKi.jpg,YOLO fine-tuned,1,4,0.084222
+101,000022_jpg.rf.Jm5gyx9UUkQPxFpWRwKi.jpg,OWL-ViT,1,8,0.132929
+101,000022_jpg.rf.Jm5gyx9UUkQPxFpWRwKi.jpg,OWLv2,1,17,3.391892
+101,000022_jpg.rf.Jm5gyx9UUkQPxFpWRwKi.jpg,Grounding DINO,1,37,0.486425
+254,000000_jpg.rf.hSWfPONUI1svcsrp5q4N.jpg,YOLO fine-tuned,1,3,0.022170
+254,000000_jpg.rf.hSWfPONUI1svcsrp5q4N.jpg,OWL-ViT,1,2,0.133500
+254,000000_jpg.rf.hSWfPONUI1svcsrp5q4N.jpg,OWLv2,1,1,3.418422
+254,000000_jpg.rf.hSWfPONUI1svcsrp5q4N.jpg,Grounding DINO,1,20,0.379588
+169,000002_jpg.rf.STb9ziQsZHUn12domF2Y.jpg,YOLO fine-tuned,1,1,0.019382
+169,000002_jpg.rf.STb9ziQsZHUn12domF2Y.jpg,OWL-ViT,1,4,0.132136
+169,000002_jpg.rf.STb9ziQsZHUn12domF2Y.jpg,OWLv2,1,1,3.412544
+169,000002_jpg.rf.STb9ziQsZHUn12domF2Y.jpg,Grounding DINO,1,19,0.560199
+104,000035_jpg.rf.KG8LHzG5PNV4o81azgH4.jpg,YOLO fine-tuned,5,8,0.019725
+104,000035_jpg.rf.KG8LHzG5PNV4o81azgH4.jpg,OWL-ViT,5,10,0.138383
+104,000035_jpg.rf.KG8LHzG5PNV4o81azgH4.jpg,OWLv2,5,31,3.403244
+104,000035_jpg.rf.KG8LHzG5PNV4o81azgH4.jpg,Grounding DINO,5,67,0.408609
+174,000006_jpg.rf.UgetGaay4ofoXgfOdAyb.jpg,YOLO fine-tuned,1,1,0.018195
+174,000006_jpg.rf.UgetGaay4ofoXgfOdAyb.jpg,OWL-ViT,1,1,0.132596
+174,000006_jpg.rf.UgetGaay4ofoXgfOdAyb.jpg,OWLv2,1,1,3.388513
+174,000006_jpg.rf.UgetGaay4ofoXgfOdAyb.jpg,Grounding DINO,1,24,0.367614
+6,000001_jpg.rf.x6Ehc4k24qixdJQU4lcq.jpg,YOLO fine-tuned,1,1,0.018318
+6,000001_jpg.rf.x6Ehc4k24qixdJQU4lcq.jpg,OWL-ViT,1,2,0.135581
+6,000001_jpg.rf.x6Ehc4k24qixdJQU4lcq.jpg,OWLv2,1,3,3.387569
+6,000001_jpg.rf.x6Ehc4k24qixdJQU4lcq.jpg,Grounding DINO,1,27,0.540949
+44,000025_jpg.rf.qmCeO9uy0kP3T7rx6vBS.jpg,YOLO fine-tuned,1,3,0.019062
+44,000025_jpg.rf.qmCeO9uy0kP3T7rx6vBS.jpg,OWL-ViT,1,4,0.137495
+44,000025_jpg.rf.qmCeO9uy0kP3T7rx6vBS.jpg,OWLv2,1,3,3.405914
+44,000025_jpg.rf.qmCeO9uy0kP3T7rx6vBS.jpg,Grounding DINO,1,25,0.515640
+21,000015_jpg.rf.zj39RgzxxNxRvwIEqW1D.jpg,YOLO fine-tuned,1,1,0.019576
+21,000015_jpg.rf.zj39RgzxxNxRvwIEqW1D.jpg,OWL-ViT,1,3,0.131689
+21,000015_jpg.rf.zj39RgzxxNxRvwIEqW1D.jpg,OWLv2,1,2,3.398109
+21,000015_jpg.rf.zj39RgzxxNxRvwIEqW1D.jpg,Grounding DINO,1,16,0.389429
+249,000048_jpg.rf.fbigsDNSgiw44ik3stRg.jpg,YOLO fine-tuned,1,2,0.019148
+249,000048_jpg.rf.fbigsDNSgiw44ik3stRg.jpg,OWL-ViT,1,3,0.133634
+249,000048_jpg.rf.fbigsDNSgiw44ik3stRg.jpg,OWLv2,1,3,3.403354
+249,000048_jpg.rf.fbigsDNSgiw44ik3stRg.jpg,Grounding DINO,1,18,0.427768
+185,000027_jpg.rf.UMWB8jkJoVs6cCBclDsr.jpg,YOLO fine-tuned,1,1,0.019029
+185,000027_jpg.rf.UMWB8jkJoVs6cCBclDsr.jpg,OWL-ViT,1,3,0.135068
+185,000027_jpg.rf.UMWB8jkJoVs6cCBclDsr.jpg,OWLv2,1,3,3.393890
+185,000027_jpg.rf.UMWB8jkJoVs6cCBclDsr.jpg,Grounding DINO,1,21,0.383964
+32,000014_jpg.rf.09V2wj49QFtsKLFE5b0I.jpg,YOLO fine-tuned,1,2,0.021484
+32,000014_jpg.rf.09V2wj49QFtsKLFE5b0I.jpg,OWL-ViT,1,2,0.135116
+32,000014_jpg.rf.09V2wj49QFtsKLFE5b0I.jpg,OWLv2,1,3,3.394424
+32,000014_jpg.rf.09V2wj49QFtsKLFE5b0I.jpg,Grounding DINO,1,16,0.381802
+236,000008_jpg.rf.cvTw7IdIbRCQRqS9HMVZ.jpg,YOLO fine-tuned,1,3,0.021053
+236,000008_jpg.rf.cvTw7IdIbRCQRqS9HMVZ.jpg,OWL-ViT,1,2,0.133586
+236,000008_jpg.rf.cvTw7IdIbRCQRqS9HMVZ.jpg,OWLv2,1,2,3.395689
+236,000008_jpg.rf.cvTw7IdIbRCQRqS9HMVZ.jpg,Grounding DINO,1,21,0.391769
+232,000007_jpg.rf.brURzw8f0crAIEqoWwP3.jpg,YOLO fine-tuned,1,1,0.019489
+232,000007_jpg.rf.brURzw8f0crAIEqoWwP3.jpg,OWL-ViT,1,3,0.137986
+232,000007_jpg.rf.brURzw8f0crAIEqoWwP3.jpg,OWLv2,1,3,3.396087
+232,000007_jpg.rf.brURzw8f0crAIEqoWwP3.jpg,Grounding DINO,1,21,0.368405
+110,000022_jpg.rf.6J2shyYE9T2wejGJM9Qd.jpg,YOLO fine-tuned,1,4,0.019480
+110,000022_jpg.rf.6J2shyYE9T2wejGJM9Qd.jpg,OWL-ViT,1,1,0.136194
+110,000022_jpg.rf.6J2shyYE9T2wejGJM9Qd.jpg,OWLv2,1,1,3.393579
+110,000022_jpg.rf.6J2shyYE9T2wejGJM9Qd.jpg,Grounding DINO,1,18,0.439403
+190,000013_jpg.rf.CoZ4BcpdvclSc7MiNxlg.jpg,YOLO fine-tuned,1,2,0.018912
+190,000013_jpg.rf.CoZ4BcpdvclSc7MiNxlg.jpg,OWL-ViT,1,1,0.134117
+190,000013_jpg.rf.CoZ4BcpdvclSc7MiNxlg.jpg,OWLv2,1,4,3.421148
+190,000013_jpg.rf.CoZ4BcpdvclSc7MiNxlg.jpg,Grounding DINO,1,18,0.414357
+183,000045_jpg.rf.XQyXtug4YupEmWl8Qud8.jpg,YOLO fine-tuned,1,2,0.019491
+183,000045_jpg.rf.XQyXtug4YupEmWl8Qud8.jpg,OWL-ViT,1,5,0.137644
+183,000045_jpg.rf.XQyXtug4YupEmWl8Qud8.jpg,OWLv2,1,20,3.413112
+183,000045_jpg.rf.XQyXtug4YupEmWl8Qud8.jpg,Grounding DINO,1,27,0.368001
+157,000037_jpg.rf.P9uJEvCgMIKAgmyeArjL.jpg,YOLO fine-tuned,1,1,0.019578
+157,000037_jpg.rf.P9uJEvCgMIKAgmyeArjL.jpg,OWL-ViT,1,7,0.135440
+157,000037_jpg.rf.P9uJEvCgMIKAgmyeArjL.jpg,OWLv2,1,3,3.400062
+157,000037_jpg.rf.P9uJEvCgMIKAgmyeArjL.jpg,Grounding DINO,1,22,0.390516
+76,000004_jpg.rf.vbJxac9VnnLJFb2OiKk6.jpg,YOLO fine-tuned,1,1,0.079570
+76,000004_jpg.rf.vbJxac9VnnLJFb2OiKk6.jpg,OWL-ViT,1,4,0.131795
+76,000004_jpg.rf.vbJxac9VnnLJFb2OiKk6.jpg,OWLv2,1,7,3.422760
+76,000004_jpg.rf.vbJxac9VnnLJFb2OiKk6.jpg,Grounding DINO,1,25,0.430716
+33,000039_jpg.rf.0Dhq7PNW1SdGsD0EfpON.jpg,YOLO fine-tuned,1,1,0.019351
+33,000039_jpg.rf.0Dhq7PNW1SdGsD0EfpON.jpg,OWL-ViT,1,1,0.137759
+33,000039_jpg.rf.0Dhq7PNW1SdGsD0EfpON.jpg,OWLv2,1,10,3.408516
+33,000039_jpg.rf.0Dhq7PNW1SdGsD0EfpON.jpg,Grounding DINO,1,20,0.441178
+95,000027_jpg.rf.L8bxRi3svOqL88YNiYC1.jpg,YOLO fine-tuned,1,2,0.019083
+95,000027_jpg.rf.L8bxRi3svOqL88YNiYC1.jpg,OWL-ViT,1,4,0.136450
+95,000027_jpg.rf.L8bxRi3svOqL88YNiYC1.jpg,OWLv2,1,5,3.403791
+95,000027_jpg.rf.L8bxRi3svOqL88YNiYC1.jpg,Grounding DINO,1,34,0.391702
+8,000012_jpg.rf.x3V3pc1cvgmhWHx1ZSIo.jpg,YOLO fine-tuned,1,1,0.024008
+8,000012_jpg.rf.x3V3pc1cvgmhWHx1ZSIo.jpg,OWL-ViT,1,2,0.134402
+8,000012_jpg.rf.x3V3pc1cvgmhWHx1ZSIo.jpg,OWLv2,1,2,3.416682
+8,000012_jpg.rf.x3V3pc1cvgmhWHx1ZSIo.jpg,Grounding DINO,1,28,0.389669
+40,000039_jpg.rf.4XciKyTxwSuB5oEY1mSp.jpg,YOLO fine-tuned,6,14,0.018594
+40,000039_jpg.rf.4XciKyTxwSuB5oEY1mSp.jpg,OWL-ViT,6,14,0.137160
+40,000039_jpg.rf.4XciKyTxwSuB5oEY1mSp.jpg,OWLv2,6,36,3.414263
+40,000039_jpg.rf.4XciKyTxwSuB5oEY1mSp.jpg,Grounding DINO,6,52,0.387999
+37,000015_jpg.rf.4Yg8xLkYOHGmvWZYD1so.jpg,YOLO fine-tuned,1,1,0.018396
+37,000015_jpg.rf.4Yg8xLkYOHGmvWZYD1so.jpg,OWL-ViT,1,2,0.138843
+37,000015_jpg.rf.4Yg8xLkYOHGmvWZYD1so.jpg,OWLv2,1,4,3.435157
+37,000015_jpg.rf.4Yg8xLkYOHGmvWZYD1so.jpg,Grounding DINO,1,30,0.525775
+252,000023_jpg.rf.gMC2MjvtkP11fkwfsFNd.jpg,YOLO fine-tuned,7,16,0.022031
+252,000023_jpg.rf.gMC2MjvtkP11fkwfsFNd.jpg,OWL-ViT,7,8,0.143865
+252,000023_jpg.rf.gMC2MjvtkP11fkwfsFNd.jpg,OWLv2,7,21,3.415554
+252,000023_jpg.rf.gMC2MjvtkP11fkwfsFNd.jpg,Grounding DINO,7,36,0.381747
+147,000001_jpg.rf.SEn2Iz1pwmg9DPSS812J.jpg,YOLO fine-tuned,3,5,0.020535
+147,000001_jpg.rf.SEn2Iz1pwmg9DPSS812J.jpg,OWL-ViT,3,5,0.134556
+147,000001_jpg.rf.SEn2Iz1pwmg9DPSS812J.jpg,OWLv2,3,4,3.396431
+147,000001_jpg.rf.SEn2Iz1pwmg9DPSS812J.jpg,Grounding DINO,3,28,0.425367
+187,000049_jpg.rf.XsERIUR58yV1EKnylAEO.jpg,YOLO fine-tuned,1,2,0.019719
+187,000049_jpg.rf.XsERIUR58yV1EKnylAEO.jpg,OWL-ViT,1,2,0.138801
+187,000049_jpg.rf.XsERIUR58yV1EKnylAEO.jpg,OWLv2,1,3,3.422577
+187,000049_jpg.rf.XsERIUR58yV1EKnylAEO.jpg,Grounding DINO,1,25,0.405753
+123,000023_jpg.rf.C6MIzhJaAOFtao4Sfgsp.jpg,YOLO fine-tuned,1,2,0.020550
+123,000023_jpg.rf.C6MIzhJaAOFtao4Sfgsp.jpg,OWL-ViT,1,3,0.143391
+123,000023_jpg.rf.C6MIzhJaAOFtao4Sfgsp.jpg,OWLv2,1,1,3.543508
+123,000023_jpg.rf.C6MIzhJaAOFtao4Sfgsp.jpg,Grounding DINO,1,21,0.505386
+180,000010_jpg.rf.Xx7gnit2KpJaGKFVWfux.jpg,YOLO fine-tuned,1,3,0.019331
+180,000010_jpg.rf.Xx7gnit2KpJaGKFVWfux.jpg,OWL-ViT,1,5,0.137243
+180,000010_jpg.rf.Xx7gnit2KpJaGKFVWfux.jpg,OWLv2,1,2,3.406845
+180,000010_jpg.rf.Xx7gnit2KpJaGKFVWfux.jpg,Grounding DINO,1,33,0.325579
+64,000003_jpg.rf.tOp19wtG0F7JbH4yx2x1.jpg,YOLO fine-tuned,1,3,0.019028
+64,000003_jpg.rf.tOp19wtG0F7JbH4yx2x1.jpg,OWL-ViT,1,1,0.136168
+64,000003_jpg.rf.tOp19wtG0F7JbH4yx2x1.jpg,OWLv2,1,2,3.413780
+64,000003_jpg.rf.tOp19wtG0F7JbH4yx2x1.jpg,Grounding DINO,1,18,0.439706
+77,000012_jpg.rf.EnU5zuSbWxgkTbjiAdf1.jpg,YOLO fine-tuned,1,1,0.019063
+77,000012_jpg.rf.EnU5zuSbWxgkTbjiAdf1.jpg,OWL-ViT,1,1,0.135805
+77,000012_jpg.rf.EnU5zuSbWxgkTbjiAdf1.jpg,OWLv2,1,1,3.393460
+77,000012_jpg.rf.EnU5zuSbWxgkTbjiAdf1.jpg,Grounding DINO,1,19,0.551393
+4,000010_jpg.rf.ww2yRfBluOBmez8Z86cK.jpg,YOLO fine-tuned,1,1,0.019098
+4,000010_jpg.rf.ww2yRfBluOBmez8Z86cK.jpg,OWL-ViT,1,3,0.141629
+4,000010_jpg.rf.ww2yRfBluOBmez8Z86cK.jpg,OWLv2,1,1,3.399339
+4,000010_jpg.rf.ww2yRfBluOBmez8Z86cK.jpg,Grounding DINO,1,25,0.525118
+81,000034_jpg.rf.HCz2mU59QDELN7tTzjNS.jpg,YOLO fine-tuned,1,4,0.018575
+81,000034_jpg.rf.HCz2mU59QDELN7tTzjNS.jpg,OWL-ViT,1,2,0.139904
+81,000034_jpg.rf.HCz2mU59QDELN7tTzjNS.jpg,OWLv2,1,1,3.435504
+81,000034_jpg.rf.HCz2mU59QDELN7tTzjNS.jpg,Grounding DINO,1,20,0.374887
+230,000008_jpg.rf.cWspYvZnMpK13HAUZReC.jpg,YOLO fine-tuned,3,5,0.020186
+230,000008_jpg.rf.cWspYvZnMpK13HAUZReC.jpg,OWL-ViT,3,14,0.137087
+230,000008_jpg.rf.cWspYvZnMpK13HAUZReC.jpg,OWLv2,3,19,3.442358
+230,000008_jpg.rf.cWspYvZnMpK13HAUZReC.jpg,Grounding DINO,3,25,0.359819
+217,000005_jpg.rf.o7oxrNfXUuKZRjAbswhL.jpg,YOLO fine-tuned,1,2,0.019558
+217,000005_jpg.rf.o7oxrNfXUuKZRjAbswhL.jpg,OWL-ViT,1,5,0.135576
+217,000005_jpg.rf.o7oxrNfXUuKZRjAbswhL.jpg,OWLv2,1,4,3.401726
+217,000005_jpg.rf.o7oxrNfXUuKZRjAbswhL.jpg,Grounding DINO,1,19,0.380876
+17,000031_jpg.rf.2Yty3ULFDbVFsczgkTFB.jpg,YOLO fine-tuned,1,4,0.019090
+17,000031_jpg.rf.2Yty3ULFDbVFsczgkTFB.jpg,OWL-ViT,1,33,0.145058
+17,000031_jpg.rf.2Yty3ULFDbVFsczgkTFB.jpg,OWLv2,1,39,3.515565
+17,000031_jpg.rf.2Yty3ULFDbVFsczgkTFB.jpg,Grounding DINO,1,45,0.527252
+75,000014_jpg.rf.w5LeIqpeRurUX3mH4iMH.jpg,YOLO fine-tuned,1,3,0.019948
+75,000014_jpg.rf.w5LeIqpeRurUX3mH4iMH.jpg,OWL-ViT,1,2,0.133904
+75,000014_jpg.rf.w5LeIqpeRurUX3mH4iMH.jpg,OWLv2,1,1,3.397861
+75,000014_jpg.rf.w5LeIqpeRurUX3mH4iMH.jpg,Grounding DINO,1,25,0.380015
+53,000017_jpg.rf.riiImVDrl7mfS5HbbsNO.jpg,YOLO fine-tuned,1,5,0.018469
+53,000017_jpg.rf.riiImVDrl7mfS5HbbsNO.jpg,OWL-ViT,1,3,0.136380
+53,000017_jpg.rf.riiImVDrl7mfS5HbbsNO.jpg,OWLv2,1,2,3.413206
+53,000017_jpg.rf.riiImVDrl7mfS5HbbsNO.jpg,Grounding DINO,1,28,0.558054
+50,000041_jpg.rf.rgcJDzkp3eazhAqudaeC.jpg,YOLO fine-tuned,1,4,0.018612
+50,000041_jpg.rf.rgcJDzkp3eazhAqudaeC.jpg,OWL-ViT,1,4,0.139877
+50,000041_jpg.rf.rgcJDzkp3eazhAqudaeC.jpg,OWLv2,1,1,3.421748
+50,000041_jpg.rf.rgcJDzkp3eazhAqudaeC.jpg,Grounding DINO,1,23,0.478334
+228,000033_jpg.rf.m1DsHR7ZJbtsX82MXKHy.jpg,YOLO fine-tuned,1,4,0.019614
+228,000033_jpg.rf.m1DsHR7ZJbtsX82MXKHy.jpg,OWL-ViT,1,1,0.132986
+228,000033_jpg.rf.m1DsHR7ZJbtsX82MXKHy.jpg,OWLv2,1,6,3.408073
+228,000033_jpg.rf.m1DsHR7ZJbtsX82MXKHy.jpg,Grounding DINO,1,14,0.394385
+166,000005_jpg.rf.T7Ee8WuqBmDXVo8S8cYt.jpg,YOLO fine-tuned,1,3,0.019234
+166,000005_jpg.rf.T7Ee8WuqBmDXVo8S8cYt.jpg,OWL-ViT,1,3,0.136783
+166,000005_jpg.rf.T7Ee8WuqBmDXVo8S8cYt.jpg,OWLv2,1,5,3.416452
+166,000005_jpg.rf.T7Ee8WuqBmDXVo8S8cYt.jpg,Grounding DINO,1,37,0.398174
+251,000042_jpg.rf.ftBeAchq8Jp2ly7EYDfp.jpg,YOLO fine-tuned,5,17,0.020041
+251,000042_jpg.rf.ftBeAchq8Jp2ly7EYDfp.jpg,OWL-ViT,5,13,0.150260
+251,000042_jpg.rf.ftBeAchq8Jp2ly7EYDfp.jpg,OWLv2,5,33,3.422912
+251,000042_jpg.rf.ftBeAchq8Jp2ly7EYDfp.jpg,Grounding DINO,5,37,0.378540
+141,000047_jpg.rf.OvQHKkJW0T94wmfn39YE.jpg,YOLO fine-tuned,1,2,0.019009
+141,000047_jpg.rf.OvQHKkJW0T94wmfn39YE.jpg,OWL-ViT,1,5,0.135569
+141,000047_jpg.rf.OvQHKkJW0T94wmfn39YE.jpg,OWLv2,1,16,3.444040
+141,000047_jpg.rf.OvQHKkJW0T94wmfn39YE.jpg,Grounding DINO,1,36,0.377211
+5,000045_jpg.rf.hviYxbGfBJ67nmldnn3S.jpg,YOLO fine-tuned,1,1,0.018545
+5,000045_jpg.rf.hviYxbGfBJ67nmldnn3S.jpg,OWL-ViT,1,3,0.142236
+5,000045_jpg.rf.hviYxbGfBJ67nmldnn3S.jpg,OWLv2,1,1,3.426978
+5,000045_jpg.rf.hviYxbGfBJ67nmldnn3S.jpg,Grounding DINO,1,27,0.390436
+167,000021_jpg.rf.TI95AjNRVJjZyudVSmPg.jpg,YOLO fine-tuned,11,31,0.019794
+167,000021_jpg.rf.TI95AjNRVJjZyudVSmPg.jpg,OWL-ViT,11,32,0.136923
+167,000021_jpg.rf.TI95AjNRVJjZyudVSmPg.jpg,OWLv2,11,51,3.406456
+167,000021_jpg.rf.TI95AjNRVJjZyudVSmPg.jpg,Grounding DINO,11,41,0.411656
+211,000009_jpg.rf.lkEOnS5rUT7mvzhAr4nV.jpg,YOLO fine-tuned,1,5,0.018243
+211,000009_jpg.rf.lkEOnS5rUT7mvzhAr4nV.jpg,OWL-ViT,1,2,0.135339
+211,000009_jpg.rf.lkEOnS5rUT7mvzhAr4nV.jpg,OWLv2,1,3,3.490726
+211,000009_jpg.rf.lkEOnS5rUT7mvzhAr4nV.jpg,Grounding DINO,1,14,0.561541
+89,000012_jpg.rf.JHcYpzjnFA9mxAxzGTyY.jpg,YOLO fine-tuned,3,15,0.021345
+89,000012_jpg.rf.JHcYpzjnFA9mxAxzGTyY.jpg,OWL-ViT,3,6,0.144022
+89,000012_jpg.rf.JHcYpzjnFA9mxAxzGTyY.jpg,OWLv2,3,7,3.439176
+89,000012_jpg.rf.JHcYpzjnFA9mxAxzGTyY.jpg,Grounding DINO,3,34,0.387519
+214,000005_jpg.rf.lvaU5HSXfwMRwrVhVlV0.jpg,YOLO fine-tuned,1,3,0.018454
+214,000005_jpg.rf.lvaU5HSXfwMRwrVhVlV0.jpg,OWL-ViT,1,3,0.137263
+214,000005_jpg.rf.lvaU5HSXfwMRwrVhVlV0.jpg,OWLv2,1,2,3.443689
+214,000005_jpg.rf.lvaU5HSXfwMRwrVhVlV0.jpg,Grounding DINO,1,24,0.442320
+161,000038_jpg.rf.Slku2r3csHjVkTWe6FhZ.jpg,YOLO fine-tuned,1,1,0.018945
+161,000038_jpg.rf.Slku2r3csHjVkTWe6FhZ.jpg,OWL-ViT,1,2,0.141679
+161,000038_jpg.rf.Slku2r3csHjVkTWe6FhZ.jpg,OWLv2,1,3,3.447601
+161,000038_jpg.rf.Slku2r3csHjVkTWe6FhZ.jpg,Grounding DINO,1,34,0.383111
+143,000016_jpg.rf.BNlpbeoOb7vSaIHNSjWH.jpg,YOLO fine-tuned,4,9,0.020198
+143,000016_jpg.rf.BNlpbeoOb7vSaIHNSjWH.jpg,OWL-ViT,4,17,0.146041
+143,000016_jpg.rf.BNlpbeoOb7vSaIHNSjWH.jpg,OWLv2,4,16,3.410395
+143,000016_jpg.rf.BNlpbeoOb7vSaIHNSjWH.jpg,Grounding DINO,4,36,0.361354
+31,000020_jpg.rf.2cC5jD4EmeK4vMW98S2i.jpg,YOLO fine-tuned,1,3,0.018103
+31,000020_jpg.rf.2cC5jD4EmeK4vMW98S2i.jpg,OWL-ViT,1,1,0.135967
+31,000020_jpg.rf.2cC5jD4EmeK4vMW98S2i.jpg,OWLv2,1,3,3.402771
+31,000020_jpg.rf.2cC5jD4EmeK4vMW98S2i.jpg,Grounding DINO,1,18,0.522880
+198,000037_jpg.rf.X6LThY6UfqoVoUlQIBZG.jpg,YOLO fine-tuned,1,5,0.018287
+198,000037_jpg.rf.X6LThY6UfqoVoUlQIBZG.jpg,OWL-ViT,1,5,0.135526
+198,000037_jpg.rf.X6LThY6UfqoVoUlQIBZG.jpg,OWLv2,1,3,3.408770
+198,000037_jpg.rf.X6LThY6UfqoVoUlQIBZG.jpg,Grounding DINO,1,34,0.564742
+212,000010_jpg.rf.kknlHVyGCsRY6BrX4QAz.jpg,YOLO fine-tuned,1,5,0.018979
+212,000010_jpg.rf.kknlHVyGCsRY6BrX4QAz.jpg,OWL-ViT,1,16,0.137252
+212,000010_jpg.rf.kknlHVyGCsRY6BrX4QAz.jpg,OWLv2,1,29,3.421505
+212,000010_jpg.rf.kknlHVyGCsRY6BrX4QAz.jpg,Grounding DINO,1,35,0.541950
+106,000002_jpg.rf.LMI8Tqzh7Mt7WZRmPnc5.jpg,YOLO fine-tuned,1,1,0.019460
+106,000002_jpg.rf.LMI8Tqzh7Mt7WZRmPnc5.jpg,OWL-ViT,1,1,0.137541
+106,000002_jpg.rf.LMI8Tqzh7Mt7WZRmPnc5.jpg,OWLv2,1,1,3.416456
+106,000002_jpg.rf.LMI8Tqzh7Mt7WZRmPnc5.jpg,Grounding DINO,1,17,0.382424
+84,000047_jpg.rf.wdA00erG35YCTiewFPmw.jpg,YOLO fine-tuned,1,5,0.019069
+84,000047_jpg.rf.wdA00erG35YCTiewFPmw.jpg,OWL-ViT,1,5,0.138052
+84,000047_jpg.rf.wdA00erG35YCTiewFPmw.jpg,OWLv2,1,6,3.435126
+84,000047_jpg.rf.wdA00erG35YCTiewFPmw.jpg,Grounding DINO,1,21,0.492396
+99,000008_jpg.rf.LwSdm9P44wbdVLcz8AJm.jpg,YOLO fine-tuned,1,1,0.081376
+99,000008_jpg.rf.LwSdm9P44wbdVLcz8AJm.jpg,OWL-ViT,1,1,0.135900
+99,000008_jpg.rf.LwSdm9P44wbdVLcz8AJm.jpg,OWLv2,1,1,3.467987
+99,000008_jpg.rf.LwSdm9P44wbdVLcz8AJm.jpg,Grounding DINO,1,26,0.443706
+41,000033_jpg.rf.4PtlNNzmypDg1g5OLeLY.jpg,YOLO fine-tuned,1,9,0.019447
+41,000033_jpg.rf.4PtlNNzmypDg1g5OLeLY.jpg,OWL-ViT,1,10,0.148419
+41,000033_jpg.rf.4PtlNNzmypDg1g5OLeLY.jpg,OWLv2,1,18,3.471006
+41,000033_jpg.rf.4PtlNNzmypDg1g5OLeLY.jpg,Grounding DINO,1,42,0.411627
+224,000015_jpg.rf.bH0lz5KYe96hu5kW97di.jpg,YOLO fine-tuned,1,2,0.021097
+224,000015_jpg.rf.bH0lz5KYe96hu5kW97di.jpg,OWL-ViT,1,6,0.142294
+224,000015_jpg.rf.bH0lz5KYe96hu5kW97di.jpg,OWLv2,1,3,3.428051
+224,000015_jpg.rf.bH0lz5KYe96hu5kW97di.jpg,Grounding DINO,1,30,0.498309
+195,000040_jpg.rf.ipqs76dxva5eJLuQ8qXK.jpg,YOLO fine-tuned,1,1,0.018908
+195,000040_jpg.rf.ipqs76dxva5eJLuQ8qXK.jpg,OWL-ViT,1,1,0.139608
+195,000040_jpg.rf.ipqs76dxva5eJLuQ8qXK.jpg,OWLv2,1,1,3.437783
+195,000040_jpg.rf.ipqs76dxva5eJLuQ8qXK.jpg,Grounding DINO,1,22,0.374190
+15,000044_jpg.rf.288OWnYx1n0PaedCZzVU.jpg,YOLO fine-tuned,1,2,0.019595
+15,000044_jpg.rf.288OWnYx1n0PaedCZzVU.jpg,OWL-ViT,1,3,0.138420
+15,000044_jpg.rf.288OWnYx1n0PaedCZzVU.jpg,OWLv2,1,6,3.408613
+15,000044_jpg.rf.288OWnYx1n0PaedCZzVU.jpg,Grounding DINO,1,15,0.394241
+192,000032_jpg.rf.ac8GRc8AAGyHkHTu5KjK.jpg,YOLO fine-tuned,1,1,0.021221
+192,000032_jpg.rf.ac8GRc8AAGyHkHTu5KjK.jpg,OWL-ViT,1,1,0.135637
+192,000032_jpg.rf.ac8GRc8AAGyHkHTu5KjK.jpg,OWLv2,1,1,3.402349
+192,000032_jpg.rf.ac8GRc8AAGyHkHTu5KjK.jpg,Grounding DINO,1,18,0.392557
+134,000042_jpg.rf.Mw5jT5R7hObtzGy8jS29.jpg,YOLO fine-tuned,1,2,0.019980
+134,000042_jpg.rf.Mw5jT5R7hObtzGy8jS29.jpg,OWL-ViT,1,2,0.134952
+134,000042_jpg.rf.Mw5jT5R7hObtzGy8jS29.jpg,OWLv2,1,1,3.412162
+134,000042_jpg.rf.Mw5jT5R7hObtzGy8jS29.jpg,Grounding DINO,1,26,0.372786
+226,000022_jpg.rf.pqeVahh8XNNpeDRSVam9.jpg,YOLO fine-tuned,1,1,0.018369
+226,000022_jpg.rf.pqeVahh8XNNpeDRSVam9.jpg,OWL-ViT,1,2,0.141739
+226,000022_jpg.rf.pqeVahh8XNNpeDRSVam9.jpg,OWLv2,1,4,3.446319
+226,000022_jpg.rf.pqeVahh8XNNpeDRSVam9.jpg,Grounding DINO,1,16,0.409378
+196,000032_jpg.rf.isTFqLmAspQAoqAfBdlR.jpg,YOLO fine-tuned,8,14,0.084167
+196,000032_jpg.rf.isTFqLmAspQAoqAfBdlR.jpg,OWL-ViT,8,32,0.135770
+196,000032_jpg.rf.isTFqLmAspQAoqAfBdlR.jpg,OWLv2,8,38,3.435567
+196,000032_jpg.rf.isTFqLmAspQAoqAfBdlR.jpg,Grounding DINO,8,31,0.473182
+79,000030_jpg.rf.FB6ltQDJ7qSUM48U8mrw.jpg,YOLO fine-tuned,1,4,0.019138
+79,000030_jpg.rf.FB6ltQDJ7qSUM48U8mrw.jpg,OWL-ViT,1,7,0.138148
+79,000030_jpg.rf.FB6ltQDJ7qSUM48U8mrw.jpg,OWLv2,1,7,3.568696
+79,000030_jpg.rf.FB6ltQDJ7qSUM48U8mrw.jpg,Grounding DINO,1,23,0.383790
+201,000038_jpg.rf.i1LInxs7hUNTFjtJzPeR.jpg,YOLO fine-tuned,1,2,0.019047
+201,000038_jpg.rf.i1LInxs7hUNTFjtJzPeR.jpg,OWL-ViT,1,2,0.144322
+201,000038_jpg.rf.i1LInxs7hUNTFjtJzPeR.jpg,OWLv2,1,2,3.497629
+201,000038_jpg.rf.i1LInxs7hUNTFjtJzPeR.jpg,Grounding DINO,1,22,0.380130
+14,000038_jpg.rf.yrpFy5fXd4xRczuRsZPx.jpg,YOLO fine-tuned,9,15,0.018214
+14,000038_jpg.rf.yrpFy5fXd4xRczuRsZPx.jpg,OWL-ViT,9,38,0.132011
+14,000038_jpg.rf.yrpFy5fXd4xRczuRsZPx.jpg,OWLv2,9,41,3.406759
+14,000038_jpg.rf.yrpFy5fXd4xRczuRsZPx.jpg,Grounding DINO,9,57,0.516938
+19,000036_jpg.rf.0JtwZJAbbIve3NvAzORT.jpg,YOLO fine-tuned,1,1,0.019514
+19,000036_jpg.rf.0JtwZJAbbIve3NvAzORT.jpg,OWL-ViT,1,2,0.132183
+19,000036_jpg.rf.0JtwZJAbbIve3NvAzORT.jpg,OWLv2,1,1,3.407141
+19,000036_jpg.rf.0JtwZJAbbIve3NvAzORT.jpg,Grounding DINO,1,24,0.428537
+118,000040_jpg.rf.CWiDPWfbsBec4xmfzuxs.jpg,YOLO fine-tuned,1,2,0.086937
+118,000040_jpg.rf.CWiDPWfbsBec4xmfzuxs.jpg,OWL-ViT,1,2,0.137558
+118,000040_jpg.rf.CWiDPWfbsBec4xmfzuxs.jpg,OWLv2,1,1,3.415014
+118,000040_jpg.rf.CWiDPWfbsBec4xmfzuxs.jpg,Grounding DINO,1,15,0.507786
+10,000017_jpg.rf.xzz4K4rPpWDRvFMOArgf.jpg,YOLO fine-tuned,1,1,0.019394
+10,000017_jpg.rf.xzz4K4rPpWDRvFMOArgf.jpg,OWL-ViT,1,1,0.134381
+10,000017_jpg.rf.xzz4K4rPpWDRvFMOArgf.jpg,OWLv2,1,2,3.416548
+10,000017_jpg.rf.xzz4K4rPpWDRvFMOArgf.jpg,Grounding DINO,1,24,0.374729
+87,000026_jpg.rf.IAR49DjAbBv7VhdWBXcl.jpg,YOLO fine-tuned,1,1,0.018314
+87,000026_jpg.rf.IAR49DjAbBv7VhdWBXcl.jpg,OWL-ViT,1,2,0.132060
+87,000026_jpg.rf.IAR49DjAbBv7VhdWBXcl.jpg,OWLv2,1,1,3.423090
+87,000026_jpg.rf.IAR49DjAbBv7VhdWBXcl.jpg,Grounding DINO,1,20,0.381100
+227,000025_jpg.rf.ogBZLfgOMJj3NmdhyDlj.jpg,YOLO fine-tuned,1,3,0.019956
+227,000025_jpg.rf.ogBZLfgOMJj3NmdhyDlj.jpg,OWL-ViT,1,2,0.131715
+227,000025_jpg.rf.ogBZLfgOMJj3NmdhyDlj.jpg,OWLv2,1,6,3.413549
+227,000025_jpg.rf.ogBZLfgOMJj3NmdhyDlj.jpg,Grounding DINO,1,38,0.497158
+122,000034_jpg.rf.A6Ocr3B8ED0MYh8RgfmA.jpg,YOLO fine-tuned,1,3,0.018409
+122,000034_jpg.rf.A6Ocr3B8ED0MYh8RgfmA.jpg,OWL-ViT,1,1,0.134706
+122,000034_jpg.rf.A6Ocr3B8ED0MYh8RgfmA.jpg,OWLv2,1,1,3.403975
+122,000034_jpg.rf.A6Ocr3B8ED0MYh8RgfmA.jpg,Grounding DINO,1,23,0.514645
+148,000009_jpg.rf.Pv1a1jL9nhoa3hP7gZvY.jpg,YOLO fine-tuned,1,2,0.019968
+148,000009_jpg.rf.Pv1a1jL9nhoa3hP7gZvY.jpg,OWL-ViT,1,1,0.142702
+148,000009_jpg.rf.Pv1a1jL9nhoa3hP7gZvY.jpg,OWLv2,1,4,3.407000
+148,000009_jpg.rf.Pv1a1jL9nhoa3hP7gZvY.jpg,Grounding DINO,1,20,0.398777
+98,000030_jpg.rf.LY1064xm5hKgfBesXY35.jpg,YOLO fine-tuned,12,30,0.019506
+98,000030_jpg.rf.LY1064xm5hKgfBesXY35.jpg,OWL-ViT,12,14,0.134746
+98,000030_jpg.rf.LY1064xm5hKgfBesXY35.jpg,OWLv2,12,23,3.407609
+98,000030_jpg.rf.LY1064xm5hKgfBesXY35.jpg,Grounding DINO,12,35,0.366711
+25,000036_jpg.rf.zYJ3hoFqD2z3iNY80iVT.jpg,YOLO fine-tuned,2,13,0.019483
+25,000036_jpg.rf.zYJ3hoFqD2z3iNY80iVT.jpg,OWL-ViT,2,5,0.133020
+25,000036_jpg.rf.zYJ3hoFqD2z3iNY80iVT.jpg,OWLv2,2,3,3.404530
+25,000036_jpg.rf.zYJ3hoFqD2z3iNY80iVT.jpg,Grounding DINO,2,34,0.475748
+241,000004_jpg.rf.e33VSBFvNMf2vjhbQTdq.jpg,YOLO fine-tuned,1,1,0.021809
+241,000004_jpg.rf.e33VSBFvNMf2vjhbQTdq.jpg,OWL-ViT,1,5,0.138472
+241,000004_jpg.rf.e33VSBFvNMf2vjhbQTdq.jpg,OWLv2,1,4,3.417035
+241,000004_jpg.rf.e33VSBFvNMf2vjhbQTdq.jpg,Grounding DINO,1,32,0.523009
+58,000031_jpg.rf.rkc6fYmxUMHyUllbcjLw.jpg,YOLO fine-tuned,1,1,0.019518
+58,000031_jpg.rf.rkc6fYmxUMHyUllbcjLw.jpg,OWL-ViT,1,2,0.136011
+58,000031_jpg.rf.rkc6fYmxUMHyUllbcjLw.jpg,OWLv2,1,6,3.410803
+58,000031_jpg.rf.rkc6fYmxUMHyUllbcjLw.jpg,Grounding DINO,1,27,0.391231
+181,000047_jpg.rf.YSJK7fkm68Chn7vwefPL.jpg,YOLO fine-tuned,1,3,0.079501
+181,000047_jpg.rf.YSJK7fkm68Chn7vwefPL.jpg,OWL-ViT,1,4,0.137214
+181,000047_jpg.rf.YSJK7fkm68Chn7vwefPL.jpg,OWLv2,1,1,3.424080
+181,000047_jpg.rf.YSJK7fkm68Chn7vwefPL.jpg,Grounding DINO,1,18,0.462271
+27,000016_jpg.rf.0ZRbTd0cQFawUjjFGaBp.jpg,YOLO fine-tuned,1,2,0.019805
+27,000016_jpg.rf.0ZRbTd0cQFawUjjFGaBp.jpg,OWL-ViT,1,4,0.135177
+27,000016_jpg.rf.0ZRbTd0cQFawUjjFGaBp.jpg,OWLv2,1,4,3.406713
+27,000016_jpg.rf.0ZRbTd0cQFawUjjFGaBp.jpg,Grounding DINO,1,31,0.512981
+119,000023_jpg.rf.ImwsKFqtiN87kOdfLUTR.jpg,YOLO fine-tuned,1,2,0.017722
+119,000023_jpg.rf.ImwsKFqtiN87kOdfLUTR.jpg,OWL-ViT,1,3,0.133675
+119,000023_jpg.rf.ImwsKFqtiN87kOdfLUTR.jpg,OWLv2,1,3,3.409090
+119,000023_jpg.rf.ImwsKFqtiN87kOdfLUTR.jpg,Grounding DINO,1,19,0.492530
+131,000041_jpg.rf.EDNLwn7WH9HaVzwQL6Vz.jpg,YOLO fine-tuned,1,1,0.019117
+131,000041_jpg.rf.EDNLwn7WH9HaVzwQL6Vz.jpg,OWL-ViT,1,2,0.132967
+131,000041_jpg.rf.EDNLwn7WH9HaVzwQL6Vz.jpg,OWLv2,1,1,3.414517
+131,000041_jpg.rf.EDNLwn7WH9HaVzwQL6Vz.jpg,Grounding DINO,1,22,0.532042
+24,000029_jpg.rf.1YQmzj9NV1k5wlWLqe6t.jpg,YOLO fine-tuned,1,5,0.019959
+24,000029_jpg.rf.1YQmzj9NV1k5wlWLqe6t.jpg,OWL-ViT,1,2,0.133607
+24,000029_jpg.rf.1YQmzj9NV1k5wlWLqe6t.jpg,OWLv2,1,3,3.399303
+24,000029_jpg.rf.1YQmzj9NV1k5wlWLqe6t.jpg,Grounding DINO,1,16,0.379251
+49,000000_jpg.rf.qMhimcrkLYDPdPN8PSA0.jpg,YOLO fine-tuned,1,2,0.018799
+49,000000_jpg.rf.qMhimcrkLYDPdPN8PSA0.jpg,OWL-ViT,1,2,0.133977
+49,000000_jpg.rf.qMhimcrkLYDPdPN8PSA0.jpg,OWLv2,1,3,3.403261
+49,000000_jpg.rf.qMhimcrkLYDPdPN8PSA0.jpg,Grounding DINO,1,27,0.561814
+206,000044_jpg.rf.YBtOnkjUBPsffpTxhVqs.jpg,YOLO fine-tuned,1,0,0.033540
+206,000044_jpg.rf.YBtOnkjUBPsffpTxhVqs.jpg,OWL-ViT,1,0,0.141418
+206,000044_jpg.rf.YBtOnkjUBPsffpTxhVqs.jpg,OWLv2,1,0,3.410359
+206,000044_jpg.rf.YBtOnkjUBPsffpTxhVqs.jpg,Grounding DINO,1,16,0.554352
+62,000041_jpg.rf.sDyqb7ip1KQK7IgRZEmg.jpg,YOLO fine-tuned,1,2,0.019556
+62,000041_jpg.rf.sDyqb7ip1KQK7IgRZEmg.jpg,OWL-ViT,1,3,0.133319
+62,000041_jpg.rf.sDyqb7ip1KQK7IgRZEmg.jpg,OWLv2,1,5,3.418037
+62,000041_jpg.rf.sDyqb7ip1KQK7IgRZEmg.jpg,Grounding DINO,1,26,0.455518
+43,000017_jpg.rf.3nbYDOq8h8j7dIU5P0bU.jpg,YOLO fine-tuned,1,2,0.019515
+43,000017_jpg.rf.3nbYDOq8h8j7dIU5P0bU.jpg,OWL-ViT,1,2,0.133726
+43,000017_jpg.rf.3nbYDOq8h8j7dIU5P0bU.jpg,OWLv2,1,1,3.413852
+43,000017_jpg.rf.3nbYDOq8h8j7dIU5P0bU.jpg,Grounding DINO,1,21,0.387421
+178,000004_jpg.rf.VN6IJjKmLhiJUsvejMkP.jpg,YOLO fine-tuned,2,11,0.019419
+178,000004_jpg.rf.VN6IJjKmLhiJUsvejMkP.jpg,OWL-ViT,2,5,0.135713
+178,000004_jpg.rf.VN6IJjKmLhiJUsvejMkP.jpg,OWLv2,2,8,3.411836
+178,000004_jpg.rf.VN6IJjKmLhiJUsvejMkP.jpg,Grounding DINO,2,22,0.373038
+9,000046_jpg.rf.xcCe9PmbKHFbgu1RO7lk.jpg,YOLO fine-tuned,3,7,0.018482
+9,000046_jpg.rf.xcCe9PmbKHFbgu1RO7lk.jpg,OWL-ViT,3,11,0.135559
+9,000046_jpg.rf.xcCe9PmbKHFbgu1RO7lk.jpg,OWLv2,3,24,3.402946
+9,000046_jpg.rf.xcCe9PmbKHFbgu1RO7lk.jpg,Grounding DINO,3,33,0.369159
+156,000018_jpg.rf.PYTcmRhJ25HgkOcBQkRf.jpg,YOLO fine-tuned,1,5,0.019184
+156,000018_jpg.rf.PYTcmRhJ25HgkOcBQkRf.jpg,OWL-ViT,1,5,0.141024
+156,000018_jpg.rf.PYTcmRhJ25HgkOcBQkRf.jpg,OWLv2,1,25,3.463214
+156,000018_jpg.rf.PYTcmRhJ25HgkOcBQkRf.jpg,Grounding DINO,1,37,0.380491
+145,000005_jpg.rf.NuqPE6baBlqz01zWVsxs.jpg,YOLO fine-tuned,1,1,0.020317
+145,000005_jpg.rf.NuqPE6baBlqz01zWVsxs.jpg,OWL-ViT,1,3,0.136674
+145,000005_jpg.rf.NuqPE6baBlqz01zWVsxs.jpg,OWLv2,1,1,3.480783
+145,000005_jpg.rf.NuqPE6baBlqz01zWVsxs.jpg,Grounding DINO,1,17,0.391816
+125,000019_jpg.rf.BtRijfrUHT6XrUP51l9X.jpg,YOLO fine-tuned,7,26,0.017977
+125,000019_jpg.rf.BtRijfrUHT6XrUP51l9X.jpg,OWL-ViT,7,11,0.135554
+125,000019_jpg.rf.BtRijfrUHT6XrUP51l9X.jpg,OWLv2,7,51,3.406251
+125,000019_jpg.rf.BtRijfrUHT6XrUP51l9X.jpg,Grounding DINO,7,45,0.376773
+57,000009_jpg.rf.riMh3WijGzoS2Dq3ChTz.jpg,YOLO fine-tuned,1,1,0.018489
+57,000009_jpg.rf.riMh3WijGzoS2Dq3ChTz.jpg,OWL-ViT,1,3,0.138619
+57,000009_jpg.rf.riMh3WijGzoS2Dq3ChTz.jpg,OWLv2,1,2,3.410987
+57,000009_jpg.rf.riMh3WijGzoS2Dq3ChTz.jpg,Grounding DINO,1,21,0.486002
+132,000013_jpg.rf.BvTwsNGmPBKRmKLfkRFI.jpg,YOLO fine-tuned,1,2,0.019967
+132,000013_jpg.rf.BvTwsNGmPBKRmKLfkRFI.jpg,OWL-ViT,1,1,0.137783
+132,000013_jpg.rf.BvTwsNGmPBKRmKLfkRFI.jpg,OWLv2,1,1,3.408703
+132,000013_jpg.rf.BvTwsNGmPBKRmKLfkRFI.jpg,Grounding DINO,1,16,0.381924
+220,000043_jpg.rf.miJDXaZcxgDT94IfKYON.jpg,YOLO fine-tuned,9,16,0.019554
+220,000043_jpg.rf.miJDXaZcxgDT94IfKYON.jpg,OWL-ViT,9,25,0.136305
+220,000043_jpg.rf.miJDXaZcxgDT94IfKYON.jpg,OWLv2,9,50,3.401031
+220,000043_jpg.rf.miJDXaZcxgDT94IfKYON.jpg,Grounding DINO,9,33,0.406318
+160,000029_jpg.rf.SGPtdLRgCeJHHYYoLF0h.jpg,YOLO fine-tuned,1,2,0.019446
+160,000029_jpg.rf.SGPtdLRgCeJHHYYoLF0h.jpg,OWL-ViT,1,1,0.134848
+160,000029_jpg.rf.SGPtdLRgCeJHHYYoLF0h.jpg,OWLv2,1,1,3.421677
+160,000029_jpg.rf.SGPtdLRgCeJHHYYoLF0h.jpg,Grounding DINO,1,20,0.386247
+2,000044_jpg.rf.hd3OTyQeg1LtNQowo4IL.jpg,YOLO fine-tuned,1,3,0.017982
+2,000044_jpg.rf.hd3OTyQeg1LtNQowo4IL.jpg,OWL-ViT,1,2,0.132937
+2,000044_jpg.rf.hd3OTyQeg1LtNQowo4IL.jpg,OWLv2,1,1,3.412704
+2,000044_jpg.rf.hd3OTyQeg1LtNQowo4IL.jpg,Grounding DINO,1,16,0.385918
+38,000024_jpg.rf.55gJ5tXl0NduLRgZWEVa.jpg,YOLO fine-tuned,2,8,0.019309
+38,000024_jpg.rf.55gJ5tXl0NduLRgZWEVa.jpg,OWL-ViT,2,11,0.132222
+38,000024_jpg.rf.55gJ5tXl0NduLRgZWEVa.jpg,OWLv2,2,13,3.418239
+38,000024_jpg.rf.55gJ5tXl0NduLRgZWEVa.jpg,Grounding DINO,2,35,0.391140
+71,000028_jpg.rf.uM3xzPlAJG3ugo9raG5r.jpg,YOLO fine-tuned,4,12,0.021873
+71,000028_jpg.rf.uM3xzPlAJG3ugo9raG5r.jpg,OWL-ViT,4,34,0.134801
+71,000028_jpg.rf.uM3xzPlAJG3ugo9raG5r.jpg,OWLv2,4,52,3.481482
+71,000028_jpg.rf.uM3xzPlAJG3ugo9raG5r.jpg,Grounding DINO,4,58,0.434357
+197,000011_jpg.rf.aGS5zIz5jEZOP75DQKZB.jpg,YOLO fine-tuned,1,6,0.019270
+197,000011_jpg.rf.aGS5zIz5jEZOP75DQKZB.jpg,OWL-ViT,1,2,0.135360
+197,000011_jpg.rf.aGS5zIz5jEZOP75DQKZB.jpg,OWLv2,1,5,3.408620
+197,000011_jpg.rf.aGS5zIz5jEZOP75DQKZB.jpg,Grounding DINO,1,33,0.389588
+225,000007_jpg.rf.oFo6aIqAXakRDEn2CQvR.jpg,YOLO fine-tuned,1,3,0.018556
+225,000007_jpg.rf.oFo6aIqAXakRDEn2CQvR.jpg,OWL-ViT,1,8,0.141147
+225,000007_jpg.rf.oFo6aIqAXakRDEn2CQvR.jpg,OWLv2,1,27,3.421629
+225,000007_jpg.rf.oFo6aIqAXakRDEn2CQvR.jpg,Grounding DINO,1,36,0.410770
+173,000022_jpg.rf.UUcHrT4KcscJgZ8skowh.jpg,YOLO fine-tuned,1,3,0.022102
+173,000022_jpg.rf.UUcHrT4KcscJgZ8skowh.jpg,OWL-ViT,1,2,0.135350
+173,000022_jpg.rf.UUcHrT4KcscJgZ8skowh.jpg,OWLv2,1,1,3.418541
+173,000022_jpg.rf.UUcHrT4KcscJgZ8skowh.jpg,Grounding DINO,1,19,0.464627
+109,000043_jpg.rf.6FSa4hMv6x2mYde2LHkU.jpg,YOLO fine-tuned,1,3,0.018243
+109,000043_jpg.rf.6FSa4hMv6x2mYde2LHkU.jpg,OWL-ViT,1,5,0.133728
+109,000043_jpg.rf.6FSa4hMv6x2mYde2LHkU.jpg,OWLv2,1,7,3.405682
+109,000043_jpg.rf.6FSa4hMv6x2mYde2LHkU.jpg,Grounding DINO,1,29,0.481962
+103,000051_jpg.rf.HGJEUBDgdmp91PMsahMr.jpg,YOLO fine-tuned,1,1,0.019074
+103,000051_jpg.rf.HGJEUBDgdmp91PMsahMr.jpg,OWL-ViT,1,1,0.133094
+103,000051_jpg.rf.HGJEUBDgdmp91PMsahMr.jpg,OWLv2,1,4,3.408538
+103,000051_jpg.rf.HGJEUBDgdmp91PMsahMr.jpg,Grounding DINO,1,25,0.395427
+126,000007_jpg.rf.C8D0vH9ZxC7Q182Y2CDr.jpg,YOLO fine-tuned,4,10,0.022129
+126,000007_jpg.rf.C8D0vH9ZxC7Q182Y2CDr.jpg,OWL-ViT,4,11,0.135940
+126,000007_jpg.rf.C8D0vH9ZxC7Q182Y2CDr.jpg,OWLv2,4,16,3.405870
+126,000007_jpg.rf.C8D0vH9ZxC7Q182Y2CDr.jpg,Grounding DINO,4,31,0.400003
+191,000003_jpg.rf.a2Rj2s3TOfmqdGCaVt6h.jpg,YOLO fine-tuned,1,4,0.020111
+191,000003_jpg.rf.a2Rj2s3TOfmqdGCaVt6h.jpg,OWL-ViT,1,8,0.138019
+191,000003_jpg.rf.a2Rj2s3TOfmqdGCaVt6h.jpg,OWLv2,1,8,3.405075
+191,000003_jpg.rf.a2Rj2s3TOfmqdGCaVt6h.jpg,Grounding DINO,1,33,0.499215
+97,000050_jpg.rf.M7gMP20RkKbhdT7D6vVr.jpg,YOLO fine-tuned,3,3,0.019180
+97,000050_jpg.rf.M7gMP20RkKbhdT7D6vVr.jpg,OWL-ViT,3,6,0.134408
+97,000050_jpg.rf.M7gMP20RkKbhdT7D6vVr.jpg,OWLv2,3,5,3.414101
+97,000050_jpg.rf.M7gMP20RkKbhdT7D6vVr.jpg,Grounding DINO,3,32,0.526475
+65,000039_jpg.rf.sA487H8W4bNwWlkTQjj0.jpg,YOLO fine-tuned,1,1,0.018210
+65,000039_jpg.rf.sA487H8W4bNwWlkTQjj0.jpg,OWL-ViT,1,4,0.135813
+65,000039_jpg.rf.sA487H8W4bNwWlkTQjj0.jpg,OWLv2,1,4,3.400598
+65,000039_jpg.rf.sA487H8W4bNwWlkTQjj0.jpg,Grounding DINO,1,30,0.500097
+229,000036_jpg.rf.p6p2AcWnAxRuWCfuNZ4l.jpg,YOLO fine-tuned,1,4,0.021574
+229,000036_jpg.rf.p6p2AcWnAxRuWCfuNZ4l.jpg,OWL-ViT,1,1,0.138952
+229,000036_jpg.rf.p6p2AcWnAxRuWCfuNZ4l.jpg,OWLv2,1,2,3.487429
+229,000036_jpg.rf.p6p2AcWnAxRuWCfuNZ4l.jpg,Grounding DINO,1,18,0.385284
+88,000048_jpg.rf.IcqUiecmji9s78rw5z6I.jpg,YOLO fine-tuned,1,1,0.018094
+88,000048_jpg.rf.IcqUiecmji9s78rw5z6I.jpg,OWL-ViT,1,2,0.138958
+88,000048_jpg.rf.IcqUiecmji9s78rw5z6I.jpg,OWLv2,1,1,3.440202
+88,000048_jpg.rf.IcqUiecmji9s78rw5z6I.jpg,Grounding DINO,1,21,0.377559
+142,000048_jpg.rf.N5ZbABLWhb8tE5it4UDj.jpg,YOLO fine-tuned,4,7,0.018480
+142,000048_jpg.rf.N5ZbABLWhb8tE5it4UDj.jpg,OWL-ViT,4,8,0.138572
+142,000048_jpg.rf.N5ZbABLWhb8tE5it4UDj.jpg,OWLv2,4,9,3.404791
+142,000048_jpg.rf.N5ZbABLWhb8tE5it4UDj.jpg,Grounding DINO,4,38,0.383274
+0,000012_jpg.rf.hmBdSFVScfyZEgJWqp6Y.jpg,YOLO fine-tuned,2,13,0.019049
+0,000012_jpg.rf.hmBdSFVScfyZEgJWqp6Y.jpg,OWL-ViT,2,10,0.133756
+0,000012_jpg.rf.hmBdSFVScfyZEgJWqp6Y.jpg,OWLv2,2,22,3.430510
+0,000012_jpg.rf.hmBdSFVScfyZEgJWqp6Y.jpg,Grounding DINO,2,40,0.378604
+155,000011_jpg.rf.QZwgOQS82eXYdiOTfvuZ.jpg,YOLO fine-tuned,1,2,0.019331
+155,000011_jpg.rf.QZwgOQS82eXYdiOTfvuZ.jpg,OWL-ViT,1,3,0.144114
+155,000011_jpg.rf.QZwgOQS82eXYdiOTfvuZ.jpg,OWLv2,1,1,3.425028
+155,000011_jpg.rf.QZwgOQS82eXYdiOTfvuZ.jpg,Grounding DINO,1,29,0.557466
+248,000031_jpg.rf.fMGmsbaiLlU1ErJUo8iR.jpg,YOLO fine-tuned,1,1,0.020281
+248,000031_jpg.rf.fMGmsbaiLlU1ErJUo8iR.jpg,OWL-ViT,1,2,0.137358
+248,000031_jpg.rf.fMGmsbaiLlU1ErJUo8iR.jpg,OWLv2,1,1,3.396182
+248,000031_jpg.rf.fMGmsbaiLlU1ErJUo8iR.jpg,Grounding DINO,1,13,0.361005
+172,000011_jpg.rf.TB220UTfvTrjvp2GjDug.jpg,YOLO fine-tuned,5,6,0.018918
+172,000011_jpg.rf.TB220UTfvTrjvp2GjDug.jpg,OWL-ViT,5,20,0.135094
+172,000011_jpg.rf.TB220UTfvTrjvp2GjDug.jpg,OWLv2,5,12,3.411543
+172,000011_jpg.rf.TB220UTfvTrjvp2GjDug.jpg,Grounding DINO,5,31,0.376404
+56,000018_jpg.rf.5Kl0StOw8Xi4TZt0awyH.jpg,YOLO fine-tuned,1,2,0.019886
+56,000018_jpg.rf.5Kl0StOw8Xi4TZt0awyH.jpg,OWL-ViT,1,3,0.141082
+56,000018_jpg.rf.5Kl0StOw8Xi4TZt0awyH.jpg,OWLv2,1,3,3.456788
+56,000018_jpg.rf.5Kl0StOw8Xi4TZt0awyH.jpg,Grounding DINO,1,27,0.530954

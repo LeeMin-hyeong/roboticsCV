@@ -1,0 +1,83 @@
+[
+  {
+    "image_id": 1322,
+    "file": "Hammer (992)_JPEG.rf.VpkLAuKNBL33JlstWME8.JPEG",
+    "classes": [
+      "hammer"
+    ],
+    "num_gt": 1
+  },
+  {
+    "image_id": 3855,
+    "file": "p--52-_jpg.rf.12rvqFd8bGEb5xU5NIT8.jpg",
+    "classes": [
+      "pliers"
+    ],
+    "num_gt": 1
+  },
+  {
+    "image_id": 2383,
+    "file": "p--14-_jpg.rf.EdzTBV6LdZjjdHr8f4RV.jpg",
+    "classes": [
+      "pliers"
+    ],
+    "num_gt": 1
+  },
+  {
+    "image_id": 2393,
+    "file": "Hammer (2126)_JPEG.rf.42Sd73JHt5V83NUootIM.JPEG",
+    "classes": [
+      "hammer"
+    ],
+    "num_gt": 1
+  },
+  {
+    "image_id": 3352,
+    "file": "000465_jpg.rf.SMf7SVUI70sNGeLW6ozl.jpg",
+    "classes": [
+      "drill"
+    ],
+    "num_gt": 3
+  },
+  {
+    "image_id": 1160,
+    "file": "000524_jpg.rf.PUHBa9Uv0bIN3gDimbHp.jpg",
+    "classes": [
+      "drill"
+    ],
+    "num_gt": 2
+  },
+  {
+    "image_id": 2474,
+    "file": "000098_jpg.rf.xzRV5U6O6QhScxZKI84h.jpg",
+    "classes": [
+      "screwdriver"
+    ],
+    "num_gt": 1
+  },
+  {
+    "image_id": 5098,
+    "file": "Wrench (179)_JPEG.rf.0T9a9UfXcLETXbMAulgD.JPEG",
+    "classes": [
+      "wrench"
+    ],
+    "num_gt": 1
+  },
+  {
+    "image_id": 1618,
+    "file": "Wrench (1058)_JPEG.rf.HaiglNq1IOQkTEERZGWy.JPEG",
+    "classes": [
+      "screwdriver",
+      "wrench"
+    ],
+    "num_gt": 2
+  },
+  {
+    "image_id": 4649,
+    "file": "Wrench (526)_JPEG.rf.ZArCpH4X8LkMyfljmXR2.JPEG",
+    "classes": [
+      "wrench"
+    ],
+    "num_gt": 1
+  }
+]

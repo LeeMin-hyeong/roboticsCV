@@ -1,0 +1,1262 @@
+[
+  {
+    "image_id": 239,
+    "file": "000040_jpg.rf.bT4he29T80Fn7o8HeqTY.jpg",
+    "classes": [
+      "hammer"
+    ],
+    "num_gt": 1
+  },
+  {
+    "image_id": 150,
+    "file": "000006_jpg.rf.NA8irFPqWj5BQIEQqQKE.jpg",
+    "classes": [
+      "pliers"
+    ],
+    "num_gt": 1
+  },
+  {
+    "image_id": 222,
+    "file": "000027_jpg.rf.ogYtV0FvHMVep2FtmJmi.jpg",
+    "classes": [
+      "screwdriver"
+    ],
+    "num_gt": 1
+  },
+  {
+    "image_id": 23,
+    "file": "000034_jpg.rf.zonFoW0Q7zNo6xP2JNEX.jpg",
+    "classes": [
+      "wrench"
+    ],
+    "num_gt": 1
+  },
+  {
+    "image_id": 162,
+    "file": "000026_jpg.rf.SxA8QPjIvJ5JgrEShXoc.jpg",
+    "classes": [
+      "pliers"
+    ],
+    "num_gt": 1
+  },
+  {
+    "image_id": 80,
+    "file": "000030_jpg.rf.t5lebffhlSqr7r164T84.jpg",
+    "classes": [
+      "screwdriver"
+    ],
+    "num_gt": 4
+  },
+  {
+    "image_id": 102,
+    "file": "000027_jpg.rf.LbsoxVoS003Wo58B8bJo.jpg",
+    "classes": [
+      "pliers"
+    ],
+    "num_gt": 3
+  },
+  {
+    "image_id": 107,
+    "file": "000032_jpg.rf.MWMxSQQlaYDVMRpkug8J.jpg",
+    "classes": [
+      "wrench"
+    ],
+    "num_gt": 1
+  },
+  {
+    "image_id": 93,
+    "file": "000039_jpg.rf.KneEXJI4FKOrb2may25c.jpg",
+    "classes": [
+      "wrench"
+    ],
+    "num_gt": 7
+  },
+  {
+    "image_id": 242,
+    "file": "000046_jpg.rf.adzY4tN7tLZQvmVJReo0.jpg",
+    "classes": [
+      "screwdriver"
+    ],
+    "num_gt": 5
+  },
+  {
+    "image_id": 202,
+    "file": "000020_jpg.rf.a8WG5AxzIUK7Fsg9Xqg7.jpg",
+    "classes": [
+      "hammer"
+    ],
+    "num_gt": 1
+  },
+  {
+    "image_id": 127,
+    "file": "000019_jpg.rf.BROeQxfxMMjmCJTSuVuC.jpg",
+    "classes": [
+      "wrench"
+    ],
+    "num_gt": 1
+  },
+  {
+    "image_id": 234,
+    "file": "000021_jpg.rf.b1rDbdW66H8Z7Rw4Mxg9.jpg",
+    "classes": [
+      "pliers"
+    ],
+    "num_gt": 1
+  },
+  {
+    "image_id": 243,
+    "file": "000036_jpg.rf.eeYHwfs8pRFD6kVwU0Pj.jpg",
+    "classes": [
+      "pliers"
+    ],
+    "num_gt": 1
+  },
+  {
+    "image_id": 30,
+    "file": "000002_jpg.rf.3ivZ2dz8EypXKjwi2Mm4.jpg",
+    "classes": [
+      "wrench"
+    ],
+    "num_gt": 1
+  },
+  {
+    "image_id": 108,
+    "file": "000008_jpg.rf.8gUhF2dN1QO2GptOCgQb.jpg",
+    "classes": [
+      "wrench"
+    ],
+    "num_gt": 1
+  },
+  {
+    "image_id": 35,
+    "file": "000013_jpg.rf.1cZ0rM2R2tsCyyBq56Gm.jpg",
+    "classes": [
+      "hammer"
+    ],
+    "num_gt": 1
+  },
+  {
+    "image_id": 130,
+    "file": "000023_jpg.rf.D3rRLdqE9Aal6ZOVapZv.jpg",
+    "classes": [
+      "screwdriver"
+    ],
+    "num_gt": 1
+  },
+  {
+    "image_id": 34,
+    "file": "000042_jpg.rf.2hzQxKkdeWW2V8VR63fQ.jpg",
+    "classes": [
+      "hammer"
+    ],
+    "num_gt": 1
+  },
+  {
+    "image_id": 184,
+    "file": "000004_jpg.rf.XBdZEYcLZx7RSg191Bjs.jpg",
+    "classes": [
+      "wrench"
+    ],
+    "num_gt": 8
+  },
+  {
+    "image_id": 209,
+    "file": "000018_jpg.rf.kntQLBiuSVPEmoz6obHs.jpg",
+    "classes": [
+      "pliers"
+    ],
+    "num_gt": 1
+  },
+  {
+    "image_id": 237,
+    "file": "000024_jpg.rf.pRr7CuEJ2T8O9VJUW5Bs.jpg",
+    "classes": [
+      "wrench"
+    ],
+    "num_gt": 1
+  },
+  {
+    "image_id": 63,
+    "file": "000025_jpg.rf.sQbq9ARxqLmLNw5UKwLb.jpg",
+    "classes": [
+      "pliers"
+    ],
+    "num_gt": 1
+  },
+  {
+    "image_id": 11,
+    "file": "000014_jpg.rf.xT0pKLI8WaHYASVbBKe0.jpg",
+    "classes": [
+      "screwdriver"
+    ],
+    "num_gt": 1
+  },
+  {
+    "image_id": 200,
+    "file": "000029_jpg.rf.ksViHqYGXsm3T5ENqvoV.jpg",
+    "classes": [
+      "pliers"
+    ],
+    "num_gt": 1
+  },
+  {
+    "image_id": 165,
+    "file": "000028_jpg.rf.SybkOfjN65ZMTwZCgFtm.jpg",
+    "classes": [
+      "screwdriver"
+    ],
+    "num_gt": 1
+  },
+  {
+    "image_id": 189,
+    "file": "000013_jpg.rf.YZIbwk5CUZdDxHtnceIw.jpg",
+    "classes": [
+      "wrench"
+    ],
+    "num_gt": 1
+  },
+  {
+    "image_id": 240,
+    "file": "000044_jpg.rf.eqVnJde9USrbZzrR80rY.jpg",
+    "classes": [
+      "wrench"
+    ],
+    "num_gt": 11
+  },
+  {
+    "image_id": 186,
+    "file": "000034_jpg.rf.Xkxr7gN3MnRoTVjqjwWo.jpg",
+    "classes": [
+      "pliers"
+    ],
+    "num_gt": 1
+  },
+  {
+    "image_id": 91,
+    "file": "000032_jpg.rf.KJu64MM2slE4BqjjTTAO.jpg",
+    "classes": [
+      "wrench"
+    ],
+    "num_gt": 2
+  },
+  {
+    "image_id": 111,
+    "file": "000046_jpg.rf.LHWz2UL00jcuv4CnPX24.jpg",
+    "classes": [
+      "hammer"
+    ],
+    "num_gt": 1
+  },
+  {
+    "image_id": 146,
+    "file": "000016_jpg.rf.OdaFk7AtdkIftosMtNwV.jpg",
+    "classes": [
+      "wrench"
+    ],
+    "num_gt": 1
+  },
+  {
+    "image_id": 86,
+    "file": "000019_jpg.rf.IvGcibObQFzXebndwnmm.jpg",
+    "classes": [
+      "hammer"
+    ],
+    "num_gt": 2
+  },
+  {
+    "image_id": 203,
+    "file": "000006_jpg.rf.lbB2drPCTuAPAhyEv2fm.jpg",
+    "classes": [
+      "screwdriver"
+    ],
+    "num_gt": 1
+  },
+  {
+    "image_id": 105,
+    "file": "000007_jpg.rf.Mf9Tgk3xl9Fqlu9s5ATC.jpg",
+    "classes": [
+      "pliers"
+    ],
+    "num_gt": 1
+  },
+  {
+    "image_id": 219,
+    "file": "000050_jpg.rf.mcG36K63YoPk1gpe9Wcu.jpg",
+    "classes": [
+      "screwdriver"
+    ],
+    "num_gt": 1
+  },
+  {
+    "image_id": 116,
+    "file": "000042_jpg.rf.7nxwgRhJOjVtDSMpEPAC.jpg",
+    "classes": [
+      "pliers"
+    ],
+    "num_gt": 2
+  },
+  {
+    "image_id": 151,
+    "file": "000001_jpg.rf.Op0pdWRTEFeF969HSoq7.jpg",
+    "classes": [
+      "pliers"
+    ],
+    "num_gt": 1
+  },
+  {
+    "image_id": 117,
+    "file": "000000_jpg.rf.72oSGSMFgP1RAR4Ss5rN.jpg",
+    "classes": [
+      "screwdriver"
+    ],
+    "num_gt": 1
+  },
+  {
+    "image_id": 128,
+    "file": "000009_jpg.rf.83zYbQ21kHVGpOaIaN57.jpg",
+    "classes": [
+      "screwdriver"
+    ],
+    "num_gt": 1
+  },
+  {
+    "image_id": 36,
+    "file": "000002_jpg.rf.0wjqHuj6BmLinty1A5Qj.jpg",
+    "classes": [
+      "screwdriver"
+    ],
+    "num_gt": 1
+  },
+  {
+    "image_id": 244,
+    "file": "000045_jpg.rf.egQndTJsEIPz4qUD1QZ4.jpg",
+    "classes": [
+      "hammer",
+      "screwdriver"
+    ],
+    "num_gt": 5
+  },
+  {
+    "image_id": 101,
+    "file": "000022_jpg.rf.Jm5gyx9UUkQPxFpWRwKi.jpg",
+    "classes": [
+      "wrench"
+    ],
+    "num_gt": 1
+  },
+  {
+    "image_id": 254,
+    "file": "000000_jpg.rf.hSWfPONUI1svcsrp5q4N.jpg",
+    "classes": [
+      "wrench"
+    ],
+    "num_gt": 1
+  },
+  {
+    "image_id": 169,
+    "file": "000002_jpg.rf.STb9ziQsZHUn12domF2Y.jpg",
+    "classes": [
+      "pliers"
+    ],
+    "num_gt": 1
+  },
+  {
+    "image_id": 104,
+    "file": "000035_jpg.rf.KG8LHzG5PNV4o81azgH4.jpg",
+    "classes": [
+      "pliers"
+    ],
+    "num_gt": 5
+  },
+  {
+    "image_id": 174,
+    "file": "000006_jpg.rf.UgetGaay4ofoXgfOdAyb.jpg",
+    "classes": [
+      "wrench"
+    ],
+    "num_gt": 1
+  },
+  {
+    "image_id": 6,
+    "file": "000001_jpg.rf.x6Ehc4k24qixdJQU4lcq.jpg",
+    "classes": [
+      "screwdriver"
+    ],
+    "num_gt": 1
+  },
+  {
+    "image_id": 44,
+    "file": "000025_jpg.rf.qmCeO9uy0kP3T7rx6vBS.jpg",
+    "classes": [
+      "hammer"
+    ],
+    "num_gt": 1
+  },
+  {
+    "image_id": 21,
+    "file": "000015_jpg.rf.zj39RgzxxNxRvwIEqW1D.jpg",
+    "classes": [
+      "hammer"
+    ],
+    "num_gt": 1
+  },
+  {
+    "image_id": 249,
+    "file": "000048_jpg.rf.fbigsDNSgiw44ik3stRg.jpg",
+    "classes": [
+      "screwdriver"
+    ],
+    "num_gt": 1
+  },
+  {
+    "image_id": 185,
+    "file": "000027_jpg.rf.UMWB8jkJoVs6cCBclDsr.jpg",
+    "classes": [
+      "wrench"
+    ],
+    "num_gt": 1
+  },
+  {
+    "image_id": 32,
+    "file": "000014_jpg.rf.09V2wj49QFtsKLFE5b0I.jpg",
+    "classes": [
+      "wrench"
+    ],
+    "num_gt": 1
+  },
+  {
+    "image_id": 236,
+    "file": "000008_jpg.rf.cvTw7IdIbRCQRqS9HMVZ.jpg",
+    "classes": [
+      "hammer"
+    ],
+    "num_gt": 1
+  },
+  {
+    "image_id": 232,
+    "file": "000007_jpg.rf.brURzw8f0crAIEqoWwP3.jpg",
+    "classes": [
+      "hammer"
+    ],
+    "num_gt": 1
+  },
+  {
+    "image_id": 110,
+    "file": "000022_jpg.rf.6J2shyYE9T2wejGJM9Qd.jpg",
+    "classes": [
+      "hammer"
+    ],
+    "num_gt": 1
+  },
+  {
+    "image_id": 190,
+    "file": "000013_jpg.rf.CoZ4BcpdvclSc7MiNxlg.jpg",
+    "classes": [
+      "pliers"
+    ],
+    "num_gt": 1
+  },
+  {
+    "image_id": 183,
+    "file": "000045_jpg.rf.XQyXtug4YupEmWl8Qud8.jpg",
+    "classes": [
+      "pliers"
+    ],
+    "num_gt": 1
+  },
+  {
+    "image_id": 157,
+    "file": "000037_jpg.rf.P9uJEvCgMIKAgmyeArjL.jpg",
+    "classes": [
+      "hammer"
+    ],
+    "num_gt": 1
+  },
+  {
+    "image_id": 76,
+    "file": "000004_jpg.rf.vbJxac9VnnLJFb2OiKk6.jpg",
+    "classes": [
+      "wrench"
+    ],
+    "num_gt": 1
+  },
+  {
+    "image_id": 33,
+    "file": "000039_jpg.rf.0Dhq7PNW1SdGsD0EfpON.jpg",
+    "classes": [
+      "pliers"
+    ],
+    "num_gt": 1
+  },
+  {
+    "image_id": 95,
+    "file": "000027_jpg.rf.L8bxRi3svOqL88YNiYC1.jpg",
+    "classes": [
+      "hammer"
+    ],
+    "num_gt": 1
+  },
+  {
+    "image_id": 8,
+    "file": "000012_jpg.rf.x3V3pc1cvgmhWHx1ZSIo.jpg",
+    "classes": [
+      "pliers"
+    ],
+    "num_gt": 1
+  },
+  {
+    "image_id": 40,
+    "file": "000039_jpg.rf.4XciKyTxwSuB5oEY1mSp.jpg",
+    "classes": [
+      "screwdriver"
+    ],
+    "num_gt": 6
+  },
+  {
+    "image_id": 37,
+    "file": "000015_jpg.rf.4Yg8xLkYOHGmvWZYD1so.jpg",
+    "classes": [
+      "screwdriver"
+    ],
+    "num_gt": 1
+  },
+  {
+    "image_id": 252,
+    "file": "000023_jpg.rf.gMC2MjvtkP11fkwfsFNd.jpg",
+    "classes": [
+      "pliers"
+    ],
+    "num_gt": 7
+  },
+  {
+    "image_id": 147,
+    "file": "000001_jpg.rf.SEn2Iz1pwmg9DPSS812J.jpg",
+    "classes": [
+      "wrench"
+    ],
+    "num_gt": 3
+  },
+  {
+    "image_id": 187,
+    "file": "000049_jpg.rf.XsERIUR58yV1EKnylAEO.jpg",
+    "classes": [
+      "screwdriver"
+    ],
+    "num_gt": 1
+  },
+  {
+    "image_id": 123,
+    "file": "000023_jpg.rf.C6MIzhJaAOFtao4Sfgsp.jpg",
+    "classes": [
+      "wrench"
+    ],
+    "num_gt": 1
+  },
+  {
+    "image_id": 180,
+    "file": "000010_jpg.rf.Xx7gnit2KpJaGKFVWfux.jpg",
+    "classes": [
+      "screwdriver"
+    ],
+    "num_gt": 1
+  },
+  {
+    "image_id": 64,
+    "file": "000003_jpg.rf.tOp19wtG0F7JbH4yx2x1.jpg",
+    "classes": [
+      "hammer"
+    ],
+    "num_gt": 1
+  },
+  {
+    "image_id": 77,
+    "file": "000012_jpg.rf.EnU5zuSbWxgkTbjiAdf1.jpg",
+    "classes": [
+      "screwdriver"
+    ],
+    "num_gt": 1
+  },
+  {
+    "image_id": 4,
+    "file": "000010_jpg.rf.ww2yRfBluOBmez8Z86cK.jpg",
+    "classes": [
+      "wrench"
+    ],
+    "num_gt": 1
+  },
+  {
+    "image_id": 81,
+    "file": "000034_jpg.rf.HCz2mU59QDELN7tTzjNS.jpg",
+    "classes": [
+      "wrench"
+    ],
+    "num_gt": 1
+  },
+  {
+    "image_id": 230,
+    "file": "000008_jpg.rf.cWspYvZnMpK13HAUZReC.jpg",
+    "classes": [
+      "pliers"
+    ],
+    "num_gt": 3
+  },
+  {
+    "image_id": 217,
+    "file": "000005_jpg.rf.o7oxrNfXUuKZRjAbswhL.jpg",
+    "classes": [
+      "pliers"
+    ],
+    "num_gt": 1
+  },
+  {
+    "image_id": 17,
+    "file": "000031_jpg.rf.2Yty3ULFDbVFsczgkTFB.jpg",
+    "classes": [
+      "screwdriver"
+    ],
+    "num_gt": 1
+  },
+  {
+    "image_id": 75,
+    "file": "000014_jpg.rf.w5LeIqpeRurUX3mH4iMH.jpg",
+    "classes": [
+      "screwdriver"
+    ],
+    "num_gt": 1
+  },
+  {
+    "image_id": 53,
+    "file": "000017_jpg.rf.riiImVDrl7mfS5HbbsNO.jpg",
+    "classes": [
+      "hammer"
+    ],
+    "num_gt": 1
+  },
+  {
+    "image_id": 50,
+    "file": "000041_jpg.rf.rgcJDzkp3eazhAqudaeC.jpg",
+    "classes": [
+      "pliers"
+    ],
+    "num_gt": 1
+  },
+  {
+    "image_id": 228,
+    "file": "000033_jpg.rf.m1DsHR7ZJbtsX82MXKHy.jpg",
+    "classes": [
+      "wrench"
+    ],
+    "num_gt": 1
+  },
+  {
+    "image_id": 166,
+    "file": "000005_jpg.rf.T7Ee8WuqBmDXVo8S8cYt.jpg",
+    "classes": [
+      "screwdriver"
+    ],
+    "num_gt": 1
+  },
+  {
+    "image_id": 251,
+    "file": "000042_jpg.rf.ftBeAchq8Jp2ly7EYDfp.jpg",
+    "classes": [
+      "screwdriver"
+    ],
+    "num_gt": 5
+  },
+  {
+    "image_id": 141,
+    "file": "000047_jpg.rf.OvQHKkJW0T94wmfn39YE.jpg",
+    "classes": [
+      "screwdriver"
+    ],
+    "num_gt": 1
+  },
+  {
+    "image_id": 5,
+    "file": "000045_jpg.rf.hviYxbGfBJ67nmldnn3S.jpg",
+    "classes": [
+      "screwdriver"
+    ],
+    "num_gt": 1
+  },
+  {
+    "image_id": 167,
+    "file": "000021_jpg.rf.TI95AjNRVJjZyudVSmPg.jpg",
+    "classes": [
+      "hammer"
+    ],
+    "num_gt": 11
+  },
+  {
+    "image_id": 211,
+    "file": "000009_jpg.rf.lkEOnS5rUT7mvzhAr4nV.jpg",
+    "classes": [
+      "pliers"
+    ],
+    "num_gt": 1
+  },
+  {
+    "image_id": 89,
+    "file": "000012_jpg.rf.JHcYpzjnFA9mxAxzGTyY.jpg",
+    "classes": [
+      "wrench"
+    ],
+    "num_gt": 3
+  },
+  {
+    "image_id": 214,
+    "file": "000005_jpg.rf.lvaU5HSXfwMRwrVhVlV0.jpg",
+    "classes": [
+      "wrench"
+    ],
+    "num_gt": 1
+  },
+  {
+    "image_id": 161,
+    "file": "000038_jpg.rf.Slku2r3csHjVkTWe6FhZ.jpg",
+    "classes": [
+      "pliers"
+    ],
+    "num_gt": 1
+  },
+  {
+    "image_id": 143,
+    "file": "000016_jpg.rf.BNlpbeoOb7vSaIHNSjWH.jpg",
+    "classes": [
+      "pliers"
+    ],
+    "num_gt": 4
+  },
+  {
+    "image_id": 31,
+    "file": "000020_jpg.rf.2cC5jD4EmeK4vMW98S2i.jpg",
+    "classes": [
+      "screwdriver"
+    ],
+    "num_gt": 1
+  },
+  {
+    "image_id": 198,
+    "file": "000037_jpg.rf.X6LThY6UfqoVoUlQIBZG.jpg",
+    "classes": [
+      "screwdriver"
+    ],
+    "num_gt": 1
+  },
+  {
+    "image_id": 212,
+    "file": "000010_jpg.rf.kknlHVyGCsRY6BrX4QAz.jpg",
+    "classes": [
+      "hammer"
+    ],
+    "num_gt": 1
+  },
+  {
+    "image_id": 106,
+    "file": "000002_jpg.rf.LMI8Tqzh7Mt7WZRmPnc5.jpg",
+    "classes": [
+      "hammer"
+    ],
+    "num_gt": 1
+  },
+  {
+    "image_id": 84,
+    "file": "000047_jpg.rf.wdA00erG35YCTiewFPmw.jpg",
+    "classes": [
+      "pliers"
+    ],
+    "num_gt": 1
+  },
+  {
+    "image_id": 99,
+    "file": "000008_jpg.rf.LwSdm9P44wbdVLcz8AJm.jpg",
+    "classes": [
+      "screwdriver"
+    ],
+    "num_gt": 1
+  },
+  {
+    "image_id": 41,
+    "file": "000033_jpg.rf.4PtlNNzmypDg1g5OLeLY.jpg",
+    "classes": [
+      "hammer"
+    ],
+    "num_gt": 1
+  },
+  {
+    "image_id": 224,
+    "file": "000015_jpg.rf.bH0lz5KYe96hu5kW97di.jpg",
+    "classes": [
+      "pliers"
+    ],
+    "num_gt": 1
+  },
+  {
+    "image_id": 195,
+    "file": "000040_jpg.rf.ipqs76dxva5eJLuQ8qXK.jpg",
+    "classes": [
+      "screwdriver"
+    ],
+    "num_gt": 1
+  },
+  {
+    "image_id": 15,
+    "file": "000044_jpg.rf.288OWnYx1n0PaedCZzVU.jpg",
+    "classes": [
+      "pliers"
+    ],
+    "num_gt": 1
+  },
+  {
+    "image_id": 192,
+    "file": "000032_jpg.rf.ac8GRc8AAGyHkHTu5KjK.jpg",
+    "classes": [
+      "screwdriver"
+    ],
+    "num_gt": 1
+  },
+  {
+    "image_id": 134,
+    "file": "000042_jpg.rf.Mw5jT5R7hObtzGy8jS29.jpg",
+    "classes": [
+      "wrench"
+    ],
+    "num_gt": 1
+  },
+  {
+    "image_id": 226,
+    "file": "000022_jpg.rf.pqeVahh8XNNpeDRSVam9.jpg",
+    "classes": [
+      "pliers"
+    ],
+    "num_gt": 1
+  },
+  {
+    "image_id": 196,
+    "file": "000032_jpg.rf.isTFqLmAspQAoqAfBdlR.jpg",
+    "classes": [
+      "hammer",
+      "pliers",
+      "screwdriver",
+      "wrench"
+    ],
+    "num_gt": 8
+  },
+  {
+    "image_id": 79,
+    "file": "000030_jpg.rf.FB6ltQDJ7qSUM48U8mrw.jpg",
+    "classes": [
+      "pliers"
+    ],
+    "num_gt": 1
+  },
+  {
+    "image_id": 201,
+    "file": "000038_jpg.rf.i1LInxs7hUNTFjtJzPeR.jpg",
+    "classes": [
+      "screwdriver"
+    ],
+    "num_gt": 1
+  },
+  {
+    "image_id": 14,
+    "file": "000038_jpg.rf.yrpFy5fXd4xRczuRsZPx.jpg",
+    "classes": [
+      "hammer"
+    ],
+    "num_gt": 9
+  },
+  {
+    "image_id": 19,
+    "file": "000036_jpg.rf.0JtwZJAbbIve3NvAzORT.jpg",
+    "classes": [
+      "wrench"
+    ],
+    "num_gt": 1
+  },
+  {
+    "image_id": 118,
+    "file": "000040_jpg.rf.CWiDPWfbsBec4xmfzuxs.jpg",
+    "classes": [
+      "pliers"
+    ],
+    "num_gt": 1
+  },
+  {
+    "image_id": 10,
+    "file": "000017_jpg.rf.xzz4K4rPpWDRvFMOArgf.jpg",
+    "classes": [
+      "wrench"
+    ],
+    "num_gt": 1
+  },
+  {
+    "image_id": 87,
+    "file": "000026_jpg.rf.IAR49DjAbBv7VhdWBXcl.jpg",
+    "classes": [
+      "wrench"
+    ],
+    "num_gt": 1
+  },
+  {
+    "image_id": 227,
+    "file": "000025_jpg.rf.ogBZLfgOMJj3NmdhyDlj.jpg",
+    "classes": [
+      "screwdriver"
+    ],
+    "num_gt": 1
+  },
+  {
+    "image_id": 122,
+    "file": "000034_jpg.rf.A6Ocr3B8ED0MYh8RgfmA.jpg",
+    "classes": [
+      "hammer"
+    ],
+    "num_gt": 1
+  },
+  {
+    "image_id": 148,
+    "file": "000009_jpg.rf.Pv1a1jL9nhoa3hP7gZvY.jpg",
+    "classes": [
+      "hammer"
+    ],
+    "num_gt": 1
+  },
+  {
+    "image_id": 98,
+    "file": "000030_jpg.rf.LY1064xm5hKgfBesXY35.jpg",
+    "classes": [
+      "wrench"
+    ],
+    "num_gt": 12
+  },
+  {
+    "image_id": 25,
+    "file": "000036_jpg.rf.zYJ3hoFqD2z3iNY80iVT.jpg",
+    "classes": [
+      "hammer"
+    ],
+    "num_gt": 2
+  },
+  {
+    "image_id": 241,
+    "file": "000004_jpg.rf.e33VSBFvNMf2vjhbQTdq.jpg",
+    "classes": [
+      "screwdriver"
+    ],
+    "num_gt": 1
+  },
+  {
+    "image_id": 58,
+    "file": "000031_jpg.rf.rkc6fYmxUMHyUllbcjLw.jpg",
+    "classes": [
+      "screwdriver"
+    ],
+    "num_gt": 1
+  },
+  {
+    "image_id": 181,
+    "file": "000047_jpg.rf.YSJK7fkm68Chn7vwefPL.jpg",
+    "classes": [
+      "hammer"
+    ],
+    "num_gt": 1
+  },
+  {
+    "image_id": 27,
+    "file": "000016_jpg.rf.0ZRbTd0cQFawUjjFGaBp.jpg",
+    "classes": [
+      "hammer"
+    ],
+    "num_gt": 1
+  },
+  {
+    "image_id": 119,
+    "file": "000023_jpg.rf.ImwsKFqtiN87kOdfLUTR.jpg",
+    "classes": [
+      "hammer"
+    ],
+    "num_gt": 1
+  },
+  {
+    "image_id": 131,
+    "file": "000041_jpg.rf.EDNLwn7WH9HaVzwQL6Vz.jpg",
+    "classes": [
+      "wrench"
+    ],
+    "num_gt": 1
+  },
+  {
+    "image_id": 24,
+    "file": "000029_jpg.rf.1YQmzj9NV1k5wlWLqe6t.jpg",
+    "classes": [
+      "hammer"
+    ],
+    "num_gt": 1
+  },
+  {
+    "image_id": 49,
+    "file": "000000_jpg.rf.qMhimcrkLYDPdPN8PSA0.jpg",
+    "classes": [
+      "pliers"
+    ],
+    "num_gt": 1
+  },
+  {
+    "image_id": 206,
+    "file": "000044_jpg.rf.YBtOnkjUBPsffpTxhVqs.jpg",
+    "classes": [
+      "pliers"
+    ],
+    "num_gt": 1
+  },
+  {
+    "image_id": 62,
+    "file": "000041_jpg.rf.sDyqb7ip1KQK7IgRZEmg.jpg",
+    "classes": [
+      "hammer"
+    ],
+    "num_gt": 1
+  },
+  {
+    "image_id": 43,
+    "file": "000017_jpg.rf.3nbYDOq8h8j7dIU5P0bU.jpg",
+    "classes": [
+      "screwdriver"
+    ],
+    "num_gt": 1
+  },
+  {
+    "image_id": 178,
+    "file": "000004_jpg.rf.VN6IJjKmLhiJUsvejMkP.jpg",
+    "classes": [
+      "hammer"
+    ],
+    "num_gt": 2
+  },
+  {
+    "image_id": 9,
+    "file": "000046_jpg.rf.xcCe9PmbKHFbgu1RO7lk.jpg",
+    "classes": [
+      "pliers"
+    ],
+    "num_gt": 3
+  },
+  {
+    "image_id": 156,
+    "file": "000018_jpg.rf.PYTcmRhJ25HgkOcBQkRf.jpg",
+    "classes": [
+      "pliers"
+    ],
+    "num_gt": 1
+  },
+  {
+    "image_id": 145,
+    "file": "000005_jpg.rf.NuqPE6baBlqz01zWVsxs.jpg",
+    "classes": [
+      "hammer"
+    ],
+    "num_gt": 1
+  },
+  {
+    "image_id": 125,
+    "file": "000019_jpg.rf.BtRijfrUHT6XrUP51l9X.jpg",
+    "classes": [
+      "screwdriver"
+    ],
+    "num_gt": 7
+  },
+  {
+    "image_id": 57,
+    "file": "000009_jpg.rf.riMh3WijGzoS2Dq3ChTz.jpg",
+    "classes": [
+      "wrench"
+    ],
+    "num_gt": 1
+  },
+  {
+    "image_id": 132,
+    "file": "000013_jpg.rf.BvTwsNGmPBKRmKLfkRFI.jpg",
+    "classes": [
+      "screwdriver"
+    ],
+    "num_gt": 1
+  },
+  {
+    "image_id": 220,
+    "file": "000043_jpg.rf.miJDXaZcxgDT94IfKYON.jpg",
+    "classes": [
+      "screwdriver"
+    ],
+    "num_gt": 9
+  },
+  {
+    "image_id": 160,
+    "file": "000029_jpg.rf.SGPtdLRgCeJHHYYoLF0h.jpg",
+    "classes": [
+      "screwdriver"
+    ],
+    "num_gt": 1
+  },
+  {
+    "image_id": 2,
+    "file": "000044_jpg.rf.hd3OTyQeg1LtNQowo4IL.jpg",
+    "classes": [
+      "screwdriver"
+    ],
+    "num_gt": 1
+  },
+  {
+    "image_id": 38,
+    "file": "000024_jpg.rf.55gJ5tXl0NduLRgZWEVa.jpg",
+    "classes": [
+      "pliers"
+    ],
+    "num_gt": 2
+  },
+  {
+    "image_id": 71,
+    "file": "000028_jpg.rf.uM3xzPlAJG3ugo9raG5r.jpg",
+    "classes": [
+      "wrench"
+    ],
+    "num_gt": 4
+  },
+  {
+    "image_id": 197,
+    "file": "000011_jpg.rf.aGS5zIz5jEZOP75DQKZB.jpg",
+    "classes": [
+      "pliers"
+    ],
+    "num_gt": 1
+  },
+  {
+    "image_id": 225,
+    "file": "000007_jpg.rf.oFo6aIqAXakRDEn2CQvR.jpg",
+    "classes": [
+      "screwdriver"
+    ],
+    "num_gt": 1
+  },
+  {
+    "image_id": 173,
+    "file": "000022_jpg.rf.UUcHrT4KcscJgZ8skowh.jpg",
+    "classes": [
+      "wrench"
+    ],
+    "num_gt": 1
+  },
+  {
+    "image_id": 109,
+    "file": "000043_jpg.rf.6FSa4hMv6x2mYde2LHkU.jpg",
+    "classes": [
+      "pliers"
+    ],
+    "num_gt": 1
+  },
+  {
+    "image_id": 103,
+    "file": "000051_jpg.rf.HGJEUBDgdmp91PMsahMr.jpg",
+    "classes": [
+      "pliers"
+    ],
+    "num_gt": 1
+  },
+  {
+    "image_id": 126,
+    "file": "000007_jpg.rf.C8D0vH9ZxC7Q182Y2CDr.jpg",
+    "classes": [
+      "wrench"
+    ],
+    "num_gt": 4
+  },
+  {
+    "image_id": 191,
+    "file": "000003_jpg.rf.a2Rj2s3TOfmqdGCaVt6h.jpg",
+    "classes": [
+      "wrench"
+    ],
+    "num_gt": 1
+  },
+  {
+    "image_id": 97,
+    "file": "000050_jpg.rf.M7gMP20RkKbhdT7D6vVr.jpg",
+    "classes": [
+      "wrench"
+    ],
+    "num_gt": 3
+  },
+  {
+    "image_id": 65,
+    "file": "000039_jpg.rf.sA487H8W4bNwWlkTQjj0.jpg",
+    "classes": [
+      "hammer"
+    ],
+    "num_gt": 1
+  },
+  {
+    "image_id": 229,
+    "file": "000036_jpg.rf.p6p2AcWnAxRuWCfuNZ4l.jpg",
+    "classes": [
+      "wrench"
+    ],
+    "num_gt": 1
+  },
+  {
+    "image_id": 88,
+    "file": "000048_jpg.rf.IcqUiecmji9s78rw5z6I.jpg",
+    "classes": [
+      "hammer"
+    ],
+    "num_gt": 1
+  },
+  {
+    "image_id": 142,
+    "file": "000048_jpg.rf.N5ZbABLWhb8tE5it4UDj.jpg",
+    "classes": [
+      "wrench"
+    ],
+    "num_gt": 4
+  },
+  {
+    "image_id": 0,
+    "file": "000012_jpg.rf.hmBdSFVScfyZEgJWqp6Y.jpg",
+    "classes": [
+      "hammer"
+    ],
+    "num_gt": 2
+  },
+  {
+    "image_id": 155,
+    "file": "000011_jpg.rf.QZwgOQS82eXYdiOTfvuZ.jpg",
+    "classes": [
+      "hammer"
+    ],
+    "num_gt": 1
+  },
+  {
+    "image_id": 248,
+    "file": "000031_jpg.rf.fMGmsbaiLlU1ErJUo8iR.jpg",
+    "classes": [
+      "wrench"
+    ],
+    "num_gt": 1
+  },
+  {
+    "image_id": 172,
+    "file": "000011_jpg.rf.TB220UTfvTrjvp2GjDug.jpg",
+    "classes": [
+      "pliers"
+    ],
+    "num_gt": 5
+  },
+  {
+    "image_id": 56,
+    "file": "000018_jpg.rf.5Kl0StOw8Xi4TZt0awyH.jpg",
+    "classes": [
+      "hammer"
+    ],
+    "num_gt": 1
+  }
+]

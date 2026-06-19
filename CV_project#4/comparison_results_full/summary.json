@@ -1,0 +1,70 @@
+{
+  "total_images": 508,
+  "yolo": {
+    "correct": 363,
+    "total": 508,
+    "accuracy": 0.7145669291338582,
+    "coverage": 0.9606299212598425,
+    "avg_time_sec": 0.16136925984251968
+  },
+  "foundation": {
+    "correct": 384,
+    "total": 508,
+    "accuracy": 0.7559055118110236,
+    "coverage": 0.9980314960629921,
+    "avg_time_sec": 0.20977048622047242
+  },
+  "by_class": {
+    "hammer": {
+      "count": 101,
+      "yolo": {
+        "correct": 88,
+        "total": 101,
+        "accuracy": 0.8712871287128713,
+        "coverage": 0.9702970297029703,
+        "avg_time_sec": 0.15575928712871287
+      },
+      "foundation": {
+        "correct": 62,
+        "total": 101,
+        "accuracy": 0.6138613861386139,
+        "coverage": 1.0,
+        "avg_time_sec": 0.2035770693069307
+      }
+    },
+    "pliers": {
+      "count": 306,
+      "yolo": {
+        "correct": 176,
+        "total": 306,
+        "accuracy": 0.5751633986928104,
+        "coverage": 0.9444444444444444,
+        "avg_time_sec": 0.16026884967320262
+      },
+      "foundation": {
+        "correct": 234,
+        "total": 306,
+        "accuracy": 0.7647058823529411,
+        "coverage": 0.9967320261437909,
+        "avg_time_sec": 0.21118365359477123
+      }
+    },
+    "screwdriver": {
+      "count": 101,
+      "yolo": {
+        "correct": 99,
+        "total": 101,
+        "accuracy": 0.9801980198019802,
+        "coverage": 1.0,
+        "avg_time_sec": 0.1703131485148515
+      },
+      "foundation": {
+        "correct": 88,
+        "total": 101,
+        "accuracy": 0.8712871287128713,
+        "coverage": 1.0,
+        "avg_time_sec": 0.21168242574257426
+      }
+    }
+  }
+}

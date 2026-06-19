@@ -1,0 +1,509 @@
+﻿file,true_class,yolo_pred,yolo_conf,yolo_found,yolo_correct,yolo_time_sec,foundation_pred,foundation_conf,foundation_found,foundation_correct,foundation_time_sec
+드라이버/드라이버_김지호/IMG_6371.jpeg,screwdriver,screwdriver,0.900400,1,1,0.714154,screwdriver,0.495010,1,1,0.238360
+드라이버/드라이버_김지호/IMG_6385.jpeg,screwdriver,screwdriver,0.782841,1,1,0.176608,screwdriver,0.535405,1,1,0.140284
+드라이버/드라이버_김지호/IMG_6390.jpeg,screwdriver,screwdriver,0.882271,1,1,0.123199,screwdriver,0.580956,1,1,0.163465
+드라이버/드라이버_김지호/IMG_6391.jpeg,screwdriver,screwdriver,0.879412,1,1,0.130380,screwdriver,0.395645,1,1,0.175094
+드라이버/드라이버_김지호/IMG_6375.jpeg,screwdriver,screwdriver,0.829670,1,1,0.132432,screwdriver,0.604569,1,1,0.165675
+드라이버/드라이버_김지호/IMG_6394.jpeg,screwdriver,screwdriver,0.889985,1,1,0.138904,screwdriver,0.380151,1,1,0.180031
+드라이버/드라이버_김지호/IMG_6396.jpeg,screwdriver,screwdriver,0.910701,1,1,0.122884,screwdriver,0.526202,1,1,0.150864
+드라이버/드라이버_김지호/IMG_6384.jpeg,screwdriver,screwdriver,0.895325,1,1,0.137182,screwdriver,0.498738,1,1,0.144052
+드라이버/드라이버_김지호/IMG_6376.jpeg,screwdriver,screwdriver,0.881723,1,1,0.116881,screwdriver,0.540927,1,1,0.140165
+드라이버/드라이버_김지호/IMG_6369.jpeg,screwdriver,screwdriver,0.855213,1,1,0.112817,screwdriver,0.311141,1,1,0.144606
+드라이버/드라이버_김지호/IMG_6373.jpeg,screwdriver,screwdriver,0.841208,1,1,0.110660,screwdriver,0.410678,1,1,0.148896
+드라이버/드라이버_김지호/IMG_6378.jpeg,screwdriver,screwdriver,0.874631,1,1,0.114558,screwdriver,0.688070,1,1,0.147106
+드라이버/드라이버_김지호/IMG_6397.jpeg,screwdriver,screwdriver,0.883368,1,1,0.108619,screwdriver,0.542689,1,1,0.141648
+드라이버/드라이버_김지호/IMG_6403.jpeg,screwdriver,screwdriver,0.877305,1,1,0.117445,screwdriver,0.396281,1,1,0.144057
+드라이버/드라이버_김지호/IMG_6392.jpeg,screwdriver,screwdriver,0.891423,1,1,0.109182,screwdriver,0.380559,1,1,0.148382
+드라이버/드라이버_김지호/IMG_6370.jpeg,screwdriver,screwdriver,0.841467,1,1,0.114656,hammer,0.308654,1,0,0.152437
+망치/IMG_2564.HEIC,hammer,hammer,0.441952,1,1,0.219714,hammer,0.307712,1,1,0.333633
+드라이버/드라이버_김지호/IMG_6379.jpeg,screwdriver,screwdriver,0.851137,1,1,0.117537,screwdriver,0.347068,1,1,0.175718
+드라이버/드라이버_김지호/IMG_6401.jpeg,screwdriver,screwdriver,0.853349,1,1,0.112854,screwdriver,0.631657,1,1,0.174061
+드라이버/드라이버_김지호/IMG_6368.jpeg,screwdriver,screwdriver,0.835707,1,1,0.113228,screwdriver,0.298214,1,1,0.172980
+드라이버/드라이버_김지호/IMG_6372.jpeg,screwdriver,screwdriver,0.892951,1,1,0.113227,screwdriver,0.466260,1,1,0.171245
+드라이버/드라이버_김지호/IMG_6388.jpeg,screwdriver,screwdriver,0.736766,1,1,0.117009,screwdriver,0.198895,1,1,0.171051
+드라이버/드라이버_김지호/IMG_6409.jpeg,screwdriver,screwdriver,0.727984,1,1,0.114368,screwdriver,0.337605,1,1,0.168085
+드라이버/드라이버_김지호/IMG_6406.jpeg,screwdriver,screwdriver,0.806231,1,1,0.114636,screwdriver,0.331938,1,1,0.177151
+드라이버/드라이버_김지호/IMG_6402.jpeg,screwdriver,screwdriver,0.852487,1,1,0.116307,screwdriver,0.670238,1,1,0.170861
+드라이버/드라이버_김지호/IMG_6389.jpeg,screwdriver,screwdriver,0.826255,1,1,0.116131,screwdriver,0.510804,1,1,0.165147
+드라이버/드라이버_김지호/IMG_6414.jpeg,screwdriver,screwdriver,0.859935,1,1,0.115818,screwdriver,0.249879,1,1,0.165704
+드라이버/드라이버_김지호/IMG_6374.jpeg,screwdriver,screwdriver,0.912048,1,1,0.113926,screwdriver,0.519027,1,1,0.162798
+드라이버/드라이버_김지호/IMG_6417.jpeg,screwdriver,screwdriver,0.911564,1,1,0.110143,pliers,0.227944,1,0,0.165232
+드라이버/드라이버_김지호/IMG_6387.jpeg,screwdriver,screwdriver,0.906210,1,1,0.115633,screwdriver,0.580770,1,1,0.153631
+드라이버/드라이버_김지호/IMG_6404.jpeg,screwdriver,screwdriver,0.871794,1,1,0.111116,screwdriver,0.376701,1,1,0.156181
+드라이버/드라이버_김지호/IMG_6420.jpeg,screwdriver,screwdriver,0.841574,1,1,0.125925,screwdriver,0.213948,1,1,0.158729
+드라이버/드라이버_김지호/IMG_6381.jpeg,screwdriver,screwdriver,0.856229,1,1,0.112643,screwdriver,0.448633,1,1,0.161081
+드라이버/드라이버_김지호/IMG_6380.jpeg,screwdriver,screwdriver,0.856431,1,1,0.110365,screwdriver,0.604610,1,1,0.154166
+드라이버/드라이버_김지호/IMG_6410.jpeg,screwdriver,screwdriver,0.917991,1,1,0.112308,screwdriver,0.366493,1,1,0.157188
+드라이버/드라이버_김지호/IMG_6407.jpeg,screwdriver,screwdriver,0.889837,1,1,0.111168,screwdriver,0.218884,1,1,0.151941
+드라이버/드라이버_김지호/IMG_6393.jpeg,screwdriver,screwdriver,0.857542,1,1,0.113453,hammer,0.287815,1,0,0.154160
+드라이버/드라이버_김지호/IMG_6383.jpeg,screwdriver,screwdriver,0.860614,1,1,0.116378,screwdriver,0.533475,1,1,0.163254
+드라이버/드라이버_김지호/IMG_6398.jpeg,screwdriver,screwdriver,0.842523,1,1,0.109323,screwdriver,0.582269,1,1,0.167919
+드라이버/드라이버_김지호/IMG_6408.jpeg,screwdriver,screwdriver,0.876665,1,1,0.111946,screwdriver,0.517852,1,1,0.161294
+드라이버/드라이버_김지호/IMG_6382.jpeg,screwdriver,screwdriver,0.927006,1,1,0.114472,screwdriver,0.512738,1,1,0.165123
+드라이버/드라이버_김지호/IMG_6399.jpeg,screwdriver,screwdriver,0.886906,1,1,0.111099,screwdriver,0.568194,1,1,0.169761
+망치/IMG_2552.HEIC,hammer,hammer,0.663025,1,1,0.202716,hammer,0.259353,1,1,0.304791
+망치/IMG_2532.HEIC,hammer,hammer,0.868159,1,1,0.276250,screwdriver,0.324231,1,0,0.490911
+드라이버/드라이버_김지호/IMG_6377.jpeg,screwdriver,screwdriver,0.877470,1,1,0.106999,screwdriver,0.722482,1,1,0.138050
+드라이버/드라이버_김지호/IMG_6405.jpeg,screwdriver,screwdriver,0.856344,1,1,0.103141,screwdriver,0.349989,1,1,0.127985
+드라이버/드라이버_김지호/IMG_6386.jpeg,screwdriver,screwdriver,0.878121,1,1,0.107656,screwdriver,0.550505,1,1,0.129949
+망치/IMG_2560.HEIC,hammer,hammer,0.847428,1,1,0.190634,hammer,0.384116,1,1,0.270138
+망치/IMG_2563.HEIC,hammer,hammer,0.664833,1,1,0.200730,pliers,0.244022,1,0,0.277717
+망치/IMG_2542.HEIC,hammer,hammer,0.825561,1,1,0.202336,screwdriver,0.263482,1,0,0.274932
+드라이버/드라이버_김지호/IMG_6415.jpeg,screwdriver,screwdriver,0.821628,1,1,0.112264,screwdriver,0.271247,1,1,0.177557
+드라이버/드라이버_김지호/IMG_6412.jpeg,screwdriver,screwdriver,0.837567,1,1,0.108948,screwdriver,0.527261,1,1,0.163702
+드라이버/드라이버_김지호/IMG_6413.jpeg,screwdriver,screwdriver,0.837365,1,1,0.110494,screwdriver,0.434116,1,1,0.168053
+망치/IMG_2562.HEIC,hammer,hammer,0.788092,1,1,0.289404,hammer,0.349461,1,1,0.374631
+망치/IMG_2550.HEIC,hammer,hammer,0.886943,1,1,0.196160,screwdriver,0.220399,1,0,0.264634
+망치/IMG_2541.HEIC,hammer,hammer,0.858563,1,1,0.201514,hammer,0.289130,1,1,0.249567
+망치/IMG_2553.HEIC,hammer,hammer,0.869797,1,1,0.195582,hammer,0.248827,1,1,0.270037
+망치/IMG_2523.HEIC,hammer,hammer,0.872159,1,1,0.262494,hammer,0.266697,1,1,0.366921
+망치/IMG_2511.HEIC,hammer,hammer,0.825412,1,1,0.282310,hammer,0.385959,1,1,0.245716
+드라이버/드라이버_김지호/IMG_6411.jpeg,screwdriver,screwdriver,0.786069,1,1,0.107743,screwdriver,0.481057,1,1,0.139388
+드라이버/드라이버_김지호/IMG_6421.jpeg,screwdriver,screwdriver,0.837808,1,1,0.104346,screwdriver,0.630006,1,1,0.140907
+망치/IMG_2529.HEIC,hammer,hammer,0.904169,1,1,0.179166,hammer,0.399916,1,1,0.224210
+드라이버/드라이버_김지호/IMG_6416.jpeg,screwdriver,screwdriver,0.540868,1,1,0.109505,hammer,0.153408,1,0,0.157123
+망치/IMG_2551.HEIC,hammer,wrench,0.385157,1,0,0.195142,pliers,0.237842,1,0,0.262036
+망치/IMG_2510.HEIC,hammer,hammer,0.898687,1,1,0.275808,pliers,0.230641,1,0,0.356521
+망치/IMG_2502.HEIC,hammer,hammer,0.835811,1,1,0.196021,screwdriver,0.305758,1,0,0.234906
+망치/IMG_2503.HEIC,hammer,hammer,0.918116,1,1,0.183870,hammer,0.399741,1,1,0.234331
+망치/IMG_2520.HEIC,hammer,hammer,0.764740,1,1,0.267613,pliers,0.248475,1,0,0.308716
+망치/IMG_2468.HEIC,hammer,hammer,0.896355,1,1,0.185516,hammer,0.368122,1,1,0.228840
+망치/IMG_0267.JPG,hammer,hammer,0.833522,1,1,0.084151,pliers,0.242421,1,0,0.115272
+망치/IMG_2530.HEIC,hammer,hammer,0.874575,1,1,0.276985,hammer,0.465351,1,1,0.357035
+망치/IMG_2531.HEIC,hammer,hammer,0.859268,1,1,0.182459,hammer,0.394417,1,1,0.227792
+망치/IMG_2519.HEIC,hammer,hammer,0.864900,1,1,0.183203,screwdriver,0.343643,1,0,0.274445
+망치/IMG_2549.HEIC,hammer,hammer,0.593319,1,1,0.187411,hammer,0.271524,1,1,0.231982
+드라이버/드라이버_김지호/IMG_6418.jpeg,screwdriver,screwdriver,0.753124,1,1,0.103047,screwdriver,0.335335,1,1,0.139960
+망치/IMG_2559.HEIC,hammer,hammer,0.882401,1,1,0.188641,pliers,0.354222,1,0,0.230673
+망치/IMG_2539.HEIC,hammer,hammer,0.860269,1,1,0.206933,hammer,0.457480,1,1,0.268356
+망치/IMG_2543.HEIC,hammer,hammer,0.656359,1,1,0.229851,hammer,0.271385,1,1,0.289599
+망치/IMG_2540.HEIC,hammer,hammer,0.825471,1,1,0.228323,screwdriver,0.387608,1,0,0.294837
+망치/IMG_2533.HEIC,hammer,hammer,0.865723,1,1,0.270770,screwdriver,0.439213,1,0,0.349117
+망치/IMG_2513.HEIC,hammer,hammer,0.746420,1,1,0.194087,pliers,0.251906,1,0,0.214883
+망치/IMG_2493.HEIC,hammer,hammer,0.882045,1,1,0.187237,hammer,0.545411,1,1,0.230296
+망치/IMG_2522.HEIC,hammer,hammer,0.843748,1,1,0.190296,screwdriver,0.383510,1,0,0.243165
+망치/IMG_2509.HEIC,hammer,hammer,0.811125,1,1,0.193986,screwdriver,0.249295,1,0,0.263043
+망치/IMG_2521.HEIC,hammer,hammer,0.767901,1,1,0.190664,hammer,0.419521,1,1,0.253749
+망치/IMG_0268.JPG,hammer,wrench,0.612932,1,0,0.088813,pliers,0.101064,1,0,0.132366
+망치/IMG_2490.HEIC,hammer,hammer,0.869949,1,1,0.184208,screwdriver,0.281832,1,0,0.240255
+망치/IMG_2499.HEIC,hammer,hammer,0.909684,1,1,0.186482,screwdriver,0.208216,1,0,0.268639
+망치/IMG_2466.HEIC,hammer,hammer,0.859218,1,1,0.566574,pliers,0.200492,1,0,0.371338
+망치/IMG_0269.JPG,hammer,wrench,0.780233,1,0,0.121459,pliers,0.127822,1,0,0.134696
+망치/IMG_2475.HEIC,hammer,hammer,0.724174,1,1,0.207049,screwdriver,0.412831,1,0,0.251778
+망치/IMG_0255.JPG,hammer,hammer,0.862465,1,1,0.120869,hammer,0.382592,1,1,0.136736
+망치/IMG_0260.JPG,hammer,hammer,0.689977,1,1,0.103651,hammer,0.135014,1,1,0.114354
+망치/IMG_0264.JPG,hammer,wrench,0.449417,1,0,0.096876,hammer,0.322190,1,1,0.111061
+망치/IMG_2470.HEIC,hammer,hammer,0.820561,1,1,0.197723,hammer,0.300869,1,1,0.281186
+망치/IMG_2469.HEIC,hammer,hammer,0.576479,1,1,0.195305,screwdriver,0.337139,1,0,0.259556
+망치/IMG_2512.HEIC,hammer,hammer,0.833681,1,1,0.269133,pliers,0.288261,1,0,0.233623
+망치/IMG_2473.HEIC,hammer,hammer,0.562931,1,1,0.188519,hammer,0.372627,1,1,0.247334
+망치/IMG_2476.HEIC,hammer,hammer,0.821215,1,1,0.194427,screwdriver,0.329954,1,0,0.255855
+망치/IMG_2500.HEIC,hammer,hammer,0.392663,1,1,0.275532,hammer,0.196425,1,1,0.352754
+망치/IMG_0244.JPG,hammer,screwdriver,0.746366,1,0,0.094408,pliers,0.278443,1,0,0.108126
+망치/IMG_0232.JPG,hammer,hammer,0.771877,1,1,0.085472,hammer,0.331248,1,1,0.111302
+망치/IMG_2489.HEIC,hammer,hammer,0.835191,1,1,0.205036,hammer,0.372123,1,1,0.275436
+망치/IMG_2492.HEIC,hammer,hammer,0.545878,1,1,0.189621,hammer,0.530969,1,1,0.250993
+망치/IMG_0226.JPG,hammer,hammer,0.415581,1,1,0.093365,hammer,0.595247,1,1,0.128788
+망치/IMG_0266.JPG,hammer,hammer,0.906201,1,1,0.080424,pliers,0.170444,1,0,0.130970
+망치/IMG_0237.JPG,hammer,hammer,0.578807,1,1,0.078823,pliers,0.228297,1,0,0.128595
+망치/IMG_0263.JPG,hammer,hammer,0.306680,1,1,0.083962,hammer,0.233787,1,1,0.120475
+망치/IMG_0246.JPG,hammer,screwdriver,0.510904,1,0,0.089509,pliers,0.124287,1,0,0.124214
+망치/IMG_0257.JPG,hammer,hammer,0.837395,1,1,0.079312,hammer,0.316656,1,1,0.128377
+망치/IMG_2472.HEIC,hammer,hammer,0.836984,1,1,0.186305,hammer,0.375775,1,1,0.240141
+망치/IMG_0231.JPG,hammer,,0.000000,0,0,0.080787,hammer,0.131245,1,1,0.122629
+망치/IMG_0258.JPG,hammer,hammer,0.907764,1,1,0.084636,hammer,0.506923,1,1,0.130178
+망치/IMG_0220.JPG,hammer,hammer,0.832320,1,1,0.086252,hammer,0.527067,1,1,0.120524
+망치/IMG_0253.JPG,hammer,hammer,0.837856,1,1,0.082907,pliers,0.150137,1,0,0.120933
+망치/IMG_0219.JPG,hammer,hammer,0.890685,1,1,0.078222,hammer,0.435781,1,1,0.122130
+망치/IMG_0238.JPG,hammer,hammer,0.424062,1,1,0.083447,hammer,0.288725,1,1,0.145723
+망치/IMG_2477.HEIC,hammer,hammer,0.864381,1,1,0.186578,hammer,0.473589,1,1,0.243478
+망치/IMG_0222.JPG,hammer,hammer,0.859275,1,1,0.088340,hammer,0.674074,1,1,0.126886
+망치/IMG_0265.JPG,hammer,,0.000000,0,0,0.078157,hammer,0.102034,1,1,0.127866
+망치/IMG_0224.JPG,hammer,hammer,0.762199,1,1,0.080755,hammer,0.437351,1,1,0.121311
+망치/IMG_0234.JPG,hammer,hammer,0.873662,1,1,0.085637,hammer,0.482069,1,1,0.120740
+망치/IMG_0228.JPG,hammer,hammer,0.782399,1,1,0.087191,pliers,0.079508,1,0,0.123499
+망치/IMG_0225.JPG,hammer,hammer,0.394007,1,1,0.084940,hammer,0.429397,1,1,0.118929
+망치/IMG_2491.HEIC,hammer,hammer,0.656006,1,1,0.187237,hammer,0.248254,1,1,0.251844
+망치/IMG_0261.JPG,hammer,hammer,0.546712,1,1,0.094135,hammer,0.066625,1,1,0.134178
+망치/IMG_0230.JPG,hammer,hammer,0.877179,1,1,0.084741,hammer,0.553461,1,1,0.135747
+망치/IMG_0240.JPG,hammer,hammer,0.757591,1,1,0.082489,hammer,0.469559,1,1,0.121796
+망치/IMG_2474.HEIC,hammer,hammer,0.854659,1,1,0.189019,hammer,0.383403,1,1,0.241438
+망치/IMG_2501.HEIC,hammer,hammer,0.873688,1,1,0.193315,pliers,0.210659,1,0,0.389723
+망치/IMG_0241.JPG,hammer,hammer,0.532031,1,1,0.073257,hammer,0.338490,1,1,0.115260
+망치/IMG_0262.JPG,hammer,hammer,0.865333,1,1,0.083891,hammer,0.327300,1,1,0.110790
+망치/IMG_2471.HEIC,hammer,screwdriver,0.551702,1,0,0.195647,screwdriver,0.448704,1,0,0.240909
+망치/IMG_0259.JPG,hammer,hammer,0.815947,1,1,0.088882,hammer,0.539842,1,1,0.105945
+망치/IMG_0248.JPG,hammer,hammer,0.779813,1,1,0.079739,pliers,0.122166,1,0,0.124737
+망치/IMG_0236.JPG,hammer,screwdriver,0.574748,1,0,0.083846,pliers,0.278979,1,0,0.126351
+망치/IMG_0245.JPG,hammer,screwdriver,0.583542,1,0,0.097759,hammer,0.356251,1,1,0.136160
+망치/IMG_0233.JPG,hammer,hammer,0.713246,1,1,0.111637,hammer,0.443925,1,1,0.144898
+망치/IMG_0229.JPG,hammer,hammer,0.647955,1,1,0.111872,hammer,0.237392,1,1,0.141385
+망치/IMG_0227.JPG,hammer,hammer,0.483559,1,1,0.100728,hammer,0.472756,1,1,0.134649
+망치/IMG_0247.JPG,hammer,hammer,0.828828,1,1,0.107503,pliers,0.133377,1,0,0.137214
+망치/IMG_0249.JPG,hammer,hammer,0.814772,1,1,0.103362,hammer,0.226921,1,1,0.111323
+망치/IMG_0251.JPG,hammer,hammer,0.822328,1,1,0.089306,hammer,0.405947,1,1,0.108114
+집게류/IMG_2546.HEIC,pliers,pliers,0.842154,1,1,0.190512,pliers,0.327376,1,1,0.238417
+망치/IMG_0221.JPG,hammer,,0.000000,0,0,0.079683,screwdriver,0.167656,1,0,0.098673
+망치/IMG_0223.JPG,hammer,screwdriver,0.604835,1,0,0.082444,hammer,0.660047,1,1,0.107559
+집게류/IMG_2557.HEIC,pliers,pliers,0.796405,1,1,0.193281,hammer,0.188006,1,0,0.240109
+망치/IMG_0252.JPG,hammer,hammer,0.845289,1,1,0.079696,pliers,0.297694,1,0,0.113476
+집게류/IMG_2545.HEIC,pliers,pliers,0.923898,1,1,0.230354,pliers,0.296802,1,1,0.294178
+망치/IMG_0243.JPG,hammer,hammer,0.501788,1,1,0.119768,hammer,0.431598,1,1,0.171655
+집게류/IMG_2527.HEIC,pliers,pliers,0.548225,1,1,0.179496,pliers,0.171556,1,1,0.220266
+집게류/IMG_2526.HEIC,pliers,pliers,0.806023,1,1,0.183064,pliers,0.313929,1,1,0.214708
+집게류/IMG_2565.HEIC,pliers,pliers,0.918468,1,1,0.206051,pliers,0.499900,1,1,0.315153
+망치/IMG_0239.JPG,hammer,hammer,0.879557,1,1,0.128054,pliers,0.279108,1,0,0.175419
+집게류/IMG_2568.HEIC,pliers,screwdriver,0.632513,1,0,0.178062,pliers,0.366278,1,1,0.222395
+집게류/IMG_2517.HEIC,pliers,hammer,0.498402,1,0,0.199866,pliers,0.291694,1,1,0.225998
+망치/IMG_0254.JPG,hammer,hammer,0.788276,1,1,0.123331,hammer,0.427777,1,1,0.180432
+망치/IMG_0242.JPG,hammer,hammer,0.364527,1,1,0.112999,hammer,0.294615,1,1,0.157055
+집게류/IMG_2544.HEIC,pliers,pliers,0.888155,1,1,0.199940,pliers,0.393088,1,1,0.214860
+집게류/IMG_2518.HEIC,pliers,pliers,0.535340,1,1,0.181824,pliers,0.292409,1,1,0.292221
+망치/IMG_0250.JPG,hammer,hammer,0.450453,1,1,0.118974,hammer,0.307105,1,1,0.139800
+집게류/IMG_2567.HEIC,pliers,pliers,0.914429,1,1,0.179612,pliers,0.436014,1,1,0.224711
+망치/IMG_0235.JPG,hammer,hammer,0.864505,1,1,0.079691,hammer,0.445188,1,1,0.103548
+집게류/IMG_2569.HEIC,pliers,pliers,0.900251,1,1,0.189518,pliers,0.250096,1,1,0.242759
+집게류/IMG_2566.HEIC,pliers,pliers,0.932199,1,1,0.295208,pliers,0.465095,1,1,0.305330
+집게류/IMG_2528.HEIC,pliers,pliers,0.691214,1,1,0.181002,pliers,0.343148,1,1,0.212431
+집게류/IMG_2548.HEIC,pliers,pliers,0.857737,1,1,0.180702,pliers,0.325155,1,1,0.297766
+집게류/IMG_2558.HEIC,pliers,pliers,0.831373,1,1,0.225939,pliers,0.304940,1,1,0.281083
+집게류/IMG_2554.HEIC,pliers,pliers,0.878271,1,1,0.181533,pliers,0.338223,1,1,0.218355
+집게류/IMG_2534.HEIC,pliers,pliers,0.922425,1,1,0.178359,pliers,0.569619,1,1,0.216763
+집게류/IMG_2506.HEIC,pliers,pliers,0.915278,1,1,0.225140,pliers,0.206304,1,1,0.294377
+집게류/IMG_2535.HEIC,pliers,pliers,0.896900,1,1,0.222637,pliers,0.352573,1,1,0.286161
+집게류/IMG_2516.HEIC,pliers,pliers,0.647421,1,1,0.222491,hammer,0.381163,1,0,0.283533
+집게류/IMG_2555.HEIC,pliers,pliers,0.837238,1,1,0.179162,hammer,0.250752,1,0,0.229199
+집게류/IMG_2496.HEIC,pliers,pliers,0.810296,1,1,0.188908,pliers,0.214535,1,1,0.294248
+집게류/IMG_2537.HEIC,pliers,pliers,0.653695,1,1,0.220633,pliers,0.432651,1,1,0.338566
+집게류/IMG_2536.HEIC,pliers,hammer,0.742033,1,0,0.190929,pliers,0.495315,1,1,0.228918
+집게류/IMG_2486.HEIC,pliers,hammer,0.507060,1,0,0.178800,pliers,0.505340,1,1,0.287176
+집게류/IMG_2538.HEIC,pliers,pliers,0.897392,1,1,0.222323,pliers,0.408217,1,1,0.284417
+집게류/IMG_2525.HEIC,pliers,pliers,0.832842,1,1,0.179911,pliers,0.464440,1,1,0.212585
+집게류/IMG_2524.HEIC,pliers,pliers,0.886899,1,1,0.179287,pliers,0.417748,1,1,0.217490
+집게류/IMG_2556.HEIC,pliers,hammer,0.775106,1,0,0.232916,hammer,0.374611,1,0,0.306075
+집게류/IMG_2515.HEIC,pliers,hammer,0.351977,1,0,0.222831,pliers,0.337721,1,1,0.278927
+집게류/IMG_2547.HEIC,pliers,pliers,0.920143,1,1,0.180608,pliers,0.363369,1,1,0.224066
+집게류/IMG_2514.HEIC,pliers,hammer,0.853987,1,0,0.179776,hammer,0.376554,1,0,0.228001
+집게류/IMG_2508.HEIC,pliers,,0.000000,0,0,0.228520,pliers,0.481051,1,1,0.293605
+집게류/IMG_2487.HEIC,pliers,pliers,0.867884,1,1,0.227723,pliers,0.288669,1,1,0.290257
+집게류/IMG_4966.JPG,pliers,screwdriver,0.681397,1,0,0.145884,pliers,0.296060,1,1,0.208185
+집게류/IMG_4968.JPG,pliers,screwdriver,0.776180,1,0,0.141001,pliers,0.279596,1,1,0.197943
+집게류/IMG_2482.HEIC,pliers,pliers,0.914572,1,1,0.183223,pliers,0.268987,1,1,0.234520
+집게류/IMG_2505.HEIC,pliers,hammer,0.365288,1,0,0.179406,screwdriver,0.361736,1,0,0.223301
+집게류/IMG_2498.HEIC,pliers,pliers,0.696959,1,1,0.237539,hammer,0.308929,1,0,0.293276
+집게류/IMG_2494.HEIC,pliers,pliers,0.484565,1,1,0.225170,pliers,0.432689,1,1,0.332650
+집게류/IMG_2504.HEIC,pliers,pliers,0.872250,1,1,0.180221,screwdriver,0.300178,1,0,0.221783
+집게류/IMG_2480.HEIC,pliers,hammer,0.675714,1,0,0.183311,pliers,0.370158,1,1,0.250500
+집게류/IMG_2507.HEIC,pliers,pliers,0.904643,1,1,0.248953,pliers,0.525565,1,1,0.279554
+집게류/IMG_2495.HEIC,pliers,pliers,0.548924,1,1,0.185536,hammer,0.375914,1,0,0.222658
+집게류/IMG_4970.JPG,pliers,hammer,0.568906,1,0,0.104403,pliers,0.252700,1,1,0.140641
+집게류/IMG_4972.JPG,pliers,screwdriver,0.703476,1,0,0.105722,pliers,0.301185,1,1,0.133791
+집게류/IMG_4967.JPG,pliers,wrench,0.838315,1,0,0.105554,pliers,0.380436,1,1,0.139898
+집게류/IMG_2497.HEIC,pliers,screwdriver,0.382159,1,0,0.185144,pliers,0.418548,1,1,0.230897
+집게류/IMG_2485.HEIC,pliers,pliers,0.925765,1,1,0.219418,pliers,0.503954,1,1,0.340987
+집게류/IMG_5001.JPG,pliers,hammer,0.555976,1,0,0.102603,pliers,0.310537,1,1,0.139085
+집게류/IMG_2484.HEIC,pliers,pliers,0.633165,1,1,0.201559,pliers,0.317442,1,1,0.238770
+집게류/IMG_4975.JPG,pliers,hammer,0.722811,1,0,0.109543,pliers,0.299781,1,1,0.129121
+집게류/IMG_2488.HEIC,pliers,screwdriver,0.566321,1,0,0.183775,pliers,0.251881,1,1,0.239098
+집게류/IMG_2483.HEIC,pliers,pliers,0.674304,1,1,0.190467,pliers,0.380691,1,1,0.249790
+집게류/IMG_4969.JPG,pliers,hammer,0.533820,1,0,0.113039,pliers,0.289102,1,1,0.169959
+집게류/IMG_4997.JPG,pliers,,0.000000,0,0,0.106867,pliers,0.260751,1,1,0.169997
+집게류/IMG_4995.JPG,pliers,screwdriver,0.610050,1,0,0.111516,pliers,0.249659,1,1,0.158543
+집게류/IMG_4990.JPG,pliers,screwdriver,0.796667,1,0,0.110888,screwdriver,0.270248,1,0,0.162166
+집게류/IMG_2479.HEIC,pliers,pliers,0.904259,1,1,0.186225,pliers,0.432152,1,1,0.250589
+집게류/IMG_5009.JPG,pliers,screwdriver,0.321739,1,0,0.107947,hammer,0.255305,1,0,0.151751
+집게류/IMG_5007.JPG,pliers,screwdriver,0.365925,1,0,0.108885,screwdriver,0.346785,1,0,0.153116
+집게류/IMG_4996.JPG,pliers,screwdriver,0.479947,1,0,0.122588,pliers,0.233239,1,1,0.157990
+집게류/IMG_4982.JPG,pliers,hammer,0.522891,1,0,0.113427,screwdriver,0.412010,1,0,0.161012
+집게류/IMG_5005.JPG,pliers,screwdriver,0.569792,1,0,0.119371,hammer,0.272944,1,0,0.151551
+집게류/IMG_2481.HEIC,pliers,pliers,0.929650,1,1,0.187497,pliers,0.305766,1,1,0.350190
+집게류/IMG_4999.JPG,pliers,screwdriver,0.503022,1,0,0.101477,pliers,0.287661,1,1,0.132662
+집게류/IMG_4973.JPG,pliers,screwdriver,0.418568,1,0,0.109720,screwdriver,0.181921,1,0,0.138586
+집게류/IMG_2478.HEIC,pliers,pliers,0.812684,1,1,0.188230,pliers,0.208456,1,1,0.228684
+집게류/IMG_4998.JPG,pliers,wrench,0.678431,1,0,0.120026,pliers,0.278250,1,1,0.152876
+집게류/IMG_4993.JPG,pliers,screwdriver,0.798197,1,0,0.110690,screwdriver,0.285009,1,0,0.155059
+집게류/IMG_5006.JPG,pliers,screwdriver,0.584444,1,0,0.108737,screwdriver,0.343899,1,0,0.153415
+집게류/IMG_4989.JPG,pliers,screwdriver,0.776109,1,0,0.105200,screwdriver,0.295162,1,0,0.154095
+집게류/IMG_4994.JPG,pliers,screwdriver,0.740913,1,0,0.108795,screwdriver,0.395527,1,0,0.155667
+집게류/IMG_4974.JPG,pliers,screwdriver,0.379333,1,0,0.108481,pliers,0.228641,1,1,0.155282
+집게류/IMG_4962.JPG,pliers,pliers,0.799516,1,1,0.106770,screwdriver,0.300402,1,0,0.155277
+집게류/IMG_4978.JPG,pliers,hammer,0.351560,1,0,0.111153,pliers,0.329605,1,1,0.151393
+집게류/IMG_4879.HEIC,pliers,hammer,0.900325,1,0,0.187310,pliers,0.219409,1,1,0.250464
+집게류/IMG_4987.JPG,pliers,hammer,0.459969,1,0,0.113444,pliers,0.144181,1,1,0.159507
+집게류/IMG_5008.JPG,pliers,hammer,0.347556,1,0,0.110026,hammer,0.287255,1,0,0.157282
+집게류/IMG_4992.JPG,pliers,screwdriver,0.773290,1,0,0.107359,hammer,0.322434,1,0,0.163281
+집게류/IMG_4971.JPG,pliers,,0.000000,0,0,0.116512,pliers,0.238365,1,1,0.155286
+집게류/IMG_5011.JPG,pliers,hammer,0.286791,1,0,0.105997,screwdriver,0.281349,1,0,0.155377
+집게류/IMG_4988.JPG,pliers,hammer,0.725664,1,0,0.112240,pliers,0.184447,1,1,0.162186
+집게류/IMG_5010.JPG,pliers,screwdriver,0.411277,1,0,0.111807,screwdriver,0.269941,1,0,0.155321
+집게류/IMG_4977.JPG,pliers,wrench,0.550581,1,0,0.108518,pliers,0.204187,1,1,0.169700
+집게류/IMG_5003.JPG,pliers,screwdriver,0.656120,1,0,0.118725,pliers,0.398356,1,1,0.153445
+집게류/IMG_5004.JPG,pliers,hammer,0.561529,1,0,0.110114,hammer,0.312837,1,0,0.157655
+집게류/IMG_4882.HEIC,pliers,screwdriver,0.795258,1,0,0.191693,pliers,0.373536,1,1,0.256473
+집게류/IMG_4874.HEIC,pliers,hammer,0.704107,1,0,0.195614,pliers,0.440966,1,1,0.349230
+집게류/IMG_4870.HEIC,pliers,pliers,0.784039,1,1,0.189873,pliers,0.247883,1,1,0.234101
+집게류/IMG_4869.HEIC,pliers,hammer,0.502120,1,0,0.189797,screwdriver,0.201785,1,0,0.231754
+집게류/IMG_4985.JPG,pliers,hammer,0.678976,1,0,0.113878,screwdriver,0.221862,1,0,0.146066
+집게류/IMG_4976.JPG,pliers,screwdriver,0.570018,1,0,0.107996,pliers,0.265987,1,1,0.155647
+집게류/IMG_4991.JPG,pliers,screwdriver,0.700010,1,0,0.103482,hammer,0.227363,1,0,0.156218
+집게류/IMG_5002.JPG,pliers,screwdriver,0.606752,1,0,0.105082,hammer,0.262268,1,0,0.155844
+집게류/IMG_4965.JPG,pliers,drill,0.322857,1,0,0.104890,pliers,0.373624,1,1,0.151069
+집게류/IMG_4986.JPG,pliers,hammer,0.410474,1,0,0.110585,hammer,0.227885,1,0,0.154104
+집게류/IMG_4873.HEIC,pliers,hammer,0.659558,1,0,0.187876,pliers,0.435198,1,1,0.241004
+집게류/IMG_4880.HEIC,pliers,screwdriver,0.676659,1,0,0.192237,pliers,0.329082,1,1,0.251615
+집게류/IMG_4868.HEIC,pliers,hammer,0.430063,1,0,0.272986,pliers,0.315225,1,1,0.335429
+집게류/IMG_4866.HEIC,pliers,pliers,0.904492,1,1,0.185066,pliers,0.234720,1,1,0.228672
+집게류/IMG_4871.HEIC,pliers,pliers,0.663392,1,1,0.182810,hammer,0.412476,1,0,0.218341
+집게류/IMG_4861.HEIC,pliers,,0.000000,0,0,0.212590,pliers,0.267274,1,1,0.133911
+집게류/IMG_4860.HEIC,pliers,,0.000000,0,0,0.117306,pliers,0.371634,1,1,0.137722
+집게류/IMG_4856.HEIC,pliers,pliers,0.732033,1,1,0.105539,pliers,0.259213,1,1,0.145370
+집게류/IMG_4981.JPG,pliers,screwdriver,0.732387,1,0,0.112995,screwdriver,0.272037,1,0,0.130715
+집게류/IMG_4855.HEIC,pliers,hammer,0.493494,1,0,0.100143,pliers,0.396814,1,1,0.148842
+집게류/IMG_4957.JPG,pliers,pliers,0.462676,1,1,0.107473,pliers,0.393256,1,1,0.156320
+집게류/IMG_4984.JPG,pliers,screwdriver,0.606296,1,0,0.112183,screwdriver,0.419379,1,0,0.167296
+집게류/IMG_4862.HEIC,pliers,wrench,0.497062,1,0,0.107282,screwdriver,0.227054,1,0,0.162846
+집게류/IMG_4859.HEIC,pliers,wrench,0.535028,1,0,0.104909,screwdriver,0.301603,1,0,0.153078
+집게류/IMG_4854.HEIC,pliers,hammer,0.684417,1,0,0.102270,hammer,0.271575,1,0,0.162485
+집게류/IMG_4979.JPG,pliers,screwdriver,0.517461,1,0,0.110512,pliers,0.258657,1,1,0.152986
+집게류/IMG_4960.JPG,pliers,screwdriver,0.712588,1,0,0.107096,hammer,0.280334,1,0,0.151953
+집게류/IMG_4961.JPG,pliers,,0.000000,0,0,0.105457,hammer,0.289084,1,0,0.150477
+집게류/IMG_4980.JPG,pliers,screwdriver,0.874321,1,0,0.110718,screwdriver,0.371047,1,0,0.152269
+집게류/IMG_4959.JPG,pliers,pliers,0.407093,1,1,0.106944,screwdriver,0.299435,1,0,0.152453
+집게류/IMG_4983.JPG,pliers,screwdriver,0.519111,1,0,0.123387,screwdriver,0.319824,1,0,0.152789
+집게류/IMG_4877.HEIC,pliers,hammer,0.746261,1,0,0.129462,pliers,0.406409,1,1,0.181525
+집게류/IMG_4964.JPG,pliers,screwdriver,0.793099,1,0,0.114907,screwdriver,0.393677,1,0,0.160072
+집게류/IMG_4836.HEIC,pliers,pliers,0.812812,1,1,0.190242,pliers,0.298113,1,1,0.230095
+집게류/IMG_4845.HEIC,pliers,pliers,0.768858,1,1,0.229980,pliers,0.539108,1,1,0.285496
+집게류/IMG_4958.JPG,pliers,pliers,0.832984,1,1,0.151799,pliers,0.410314,1,1,0.209389
+집게류/IMG_4878.HEIC,pliers,hammer,0.405315,1,0,0.240175,pliers,0.285115,1,1,0.228028
+집게류/IMG_4881.HEIC,pliers,pliers,0.679796,1,1,0.183281,pliers,0.386400,1,1,0.219146
+집게류/IMG_4875.HEIC,pliers,hammer,0.315197,1,0,0.116828,pliers,0.377696,1,1,0.137798
+집게류/IMG_4876.HEIC,pliers,pliers,0.814413,1,1,0.099123,pliers,0.474784,1,1,0.154110
+집게류/IMG_4956.JPG,pliers,hammer,0.274153,1,0,0.106836,hammer,0.263732,1,0,0.153490
+집게류/IMG_4867.HEIC,pliers,hammer,0.737889,1,0,0.229347,pliers,0.299900,1,1,0.324384
+집게류/IMG_4865.HEIC,pliers,pliers,0.848314,1,1,0.147947,pliers,0.226660,1,1,0.207867
+집게류/IMG_4864.HEIC,pliers,pliers,0.421045,1,1,0.098319,pliers,0.279339,1,1,0.142806
+집게류/IMG_4863.HEIC,pliers,pliers,0.833330,1,1,0.098592,pliers,0.408884,1,1,0.142285
+집게류/IMG_4963.JPG,pliers,screwdriver,0.684739,1,0,0.102488,,0.000000,0,0,0.135163
+집게류/IMG_4858.HEIC,pliers,hammer,0.610415,1,0,0.107964,hammer,0.246216,1,0,0.136155
+집게류/IMG_4857.HEIC,pliers,hammer,0.703259,1,0,0.116318,pliers,0.402964,1,1,0.148898
+집게류/IMG_4850.HEIC,pliers,pliers,0.419622,1,1,0.105164,pliers,0.180632,1,1,0.156660
+집게류/IMG_4820.HEIC,pliers,pliers,0.292055,1,1,0.104784,screwdriver,0.346784,1,0,0.162884
+집게류/IMG_4819.HEIC,pliers,screwdriver,0.306533,1,0,0.233097,pliers,0.254966,1,1,0.319236
+집게류/IMG_4872.HEIC,pliers,hammer,0.686072,1,0,0.227675,pliers,0.347845,1,1,0.305346
+집게류/IMG_4828.HEIC,pliers,hammer,0.564356,1,0,0.227308,pliers,0.145690,1,1,0.294308
+집게류/IMG_4847.HEIC,pliers,hammer,0.263000,1,0,0.146996,pliers,0.442644,1,1,0.171943
+집게류/IMG_4848.HEIC,pliers,pliers,0.855567,1,1,0.097699,pliers,0.507704,1,1,0.132278
+집게류/IMG_4852.HEIC,pliers,pliers,0.731447,1,1,0.115786,pliers,0.338282,1,1,0.133691
+집게류/IMG_4814.heic,pliers,hammer,0.408876,1,0,0.234015,pliers,0.355087,1,1,0.202328
+집게류/IMG_4808.HEIC,pliers,hammer,0.308008,1,0,0.107432,screwdriver,0.235101,1,0,0.161313
+집게류/IMG_4849.HEIC,pliers,pliers,0.732297,1,1,0.105705,pliers,0.495635,1,1,0.160271
+집게류/IMG_4831.HEIC,pliers,pliers,0.877092,1,1,0.197420,pliers,0.232822,1,1,0.276084
+집게류/IMG_4846.HEIC,pliers,pliers,0.915059,1,1,0.235935,pliers,0.455535,1,1,0.305718
+집게류/IMG_4812.HEIC,pliers,pliers,0.623510,1,1,0.146194,pliers,0.431643,1,1,0.204235
+집게류/IMG_4842.HEIC,pliers,pliers,0.889044,1,1,0.186106,pliers,0.349525,1,1,0.228055
+집게류/IMG_4840.HEIC,pliers,pliers,0.665681,1,1,0.100194,pliers,0.281782,1,1,0.136766
+집게류/IMG_4805.HEIC,pliers,pliers,0.804266,1,1,0.103025,screwdriver,0.208151,1,0,0.134024
+집게류/IMG_4802.HEIC,pliers,pliers,0.868107,1,1,0.147548,pliers,0.416352,1,1,0.204969
+집게류/IMG_4797.HEIC,pliers,pliers,0.913527,1,1,0.141095,pliers,0.289627,1,1,0.204202
+집게류/IMG_4823.HEIC,pliers,pliers,0.850699,1,1,0.105766,hammer,0.387975,1,0,0.134044
+집게류/IMG_4801.HEIC,pliers,pliers,0.892151,1,1,0.097386,pliers,0.459619,1,1,0.130396
+집게류/IMG_4806.HEIC,pliers,pliers,0.479089,1,1,0.104950,pliers,0.396029,1,1,0.129000
+집게류/IMG_4837.HEIC,pliers,pliers,0.865794,1,1,0.194991,pliers,0.389715,1,1,0.252653
+집게류/IMG_4841.HEIC,pliers,pliers,0.809946,1,1,0.193300,pliers,0.209784,1,1,0.256913
+집게류/IMG_4835.HEIC,pliers,pliers,0.917135,1,1,0.148750,pliers,0.374729,1,1,0.219582
+집게류/IMG_4839.HEIC,pliers,pliers,0.904908,1,1,0.226401,pliers,0.305264,1,1,0.310765
+집게류/IMG_4824.HEIC,pliers,pliers,0.886670,1,1,0.155476,hammer,0.437839,1,0,0.166503
+집게류/IMG_4809.HEIC,pliers,pliers,0.694150,1,1,0.185071,pliers,0.531119,1,1,0.222141
+집게류/IMG_4844.HEIC,pliers,pliers,0.824693,1,1,0.203497,pliers,0.456413,1,1,0.224558
+집게류/IMG_4843.HEIC,pliers,pliers,0.873436,1,1,0.236301,pliers,0.467127,1,1,0.300775
+집게류/IMG_4838.HEIC,pliers,pliers,0.916703,1,1,0.232799,hammer,0.248958,1,0,0.309255
+집게류/IMG_4833.HEIC,pliers,pliers,0.913279,1,1,0.229217,pliers,0.568442,1,1,0.294229
+집게류/IMG_4829.HEIC,pliers,pliers,0.778842,1,1,0.143463,pliers,0.214429,1,1,0.174054
+집게류/IMG_4822.HEIC,pliers,pliers,0.856913,1,1,0.098769,pliers,0.300939,1,1,0.137703
+집게류/IMG_4821.HEIC,pliers,hammer,0.757842,1,0,0.097910,pliers,0.307315,1,1,0.137265
+집게류/IMG_4825.HEIC,pliers,pliers,0.706480,1,1,0.101224,pliers,0.294806,1,1,0.136632
+집게류/IMG_4803.HEIC,pliers,screwdriver,0.633045,1,0,0.098637,hammer,0.283168,1,0,0.192305
+집게류/IMG_4787.HEIC,pliers,pliers,0.426290,1,1,0.229173,pliers,0.340058,1,1,0.294102
+집게류/IMG_4793.HEIC,pliers,pliers,0.854991,1,1,0.187773,pliers,0.365075,1,1,0.236205
+집게류/IMG_4786.HEIC,pliers,pliers,0.898860,1,1,0.186799,pliers,0.202687,1,1,0.222969
+집게류/IMG_4827.HEIC,pliers,hammer,0.692565,1,0,0.232203,pliers,0.104773,1,1,0.306446
+집게류/IMG_4830.HEIC,pliers,,0.000000,0,0,0.231023,pliers,0.267920,1,1,0.288614
+집게류/IMG_4788.HEIC,pliers,pliers,0.463768,1,1,0.223748,pliers,0.379024,1,1,0.276969
+집게류/IMG_4789.HEIC,pliers,pliers,0.897455,1,1,0.226780,pliers,0.516862,1,1,0.283369
+집게류/IMG_4851.HEIC,pliers,pliers,0.908338,1,1,0.181867,pliers,0.404187,1,1,0.218839
+집게류/IMG_4783.HEIC,pliers,,0.000000,0,0,0.179511,screwdriver,0.180285,1,0,0.223653
+집게류/IMG_4791.HEIC,pliers,pliers,0.274790,1,1,0.232430,pliers,0.573394,1,1,0.304751
+집게류/IMG_4832.HEIC,pliers,pliers,0.495010,1,1,0.223850,pliers,0.625643,1,1,0.287149
+집게류/펜치_김지호/IMG_6423.jpeg,pliers,pliers,0.760796,1,1,0.102107,pliers,0.357924,1,1,0.134866
+집게류/IMG_4818.HEIC,pliers,,0.000000,0,0,0.178020,pliers,0.495330,1,1,0.225761
+집게류/IMG_4813.HEIC,pliers,hammer,0.283260,1,0,0.099503,pliers,0.313224,1,1,0.135970
+집게류/펜치_김지호/IMG_6425.jpeg,pliers,pliers,0.844253,1,1,0.106612,pliers,0.422593,1,1,0.150588
+집게류/펜치_김지호/IMG_6424.jpeg,pliers,pliers,0.400345,1,1,0.103772,pliers,0.399615,1,1,0.160420
+집게류/펜치_김지호/IMG_6427.jpeg,pliers,pliers,0.891636,1,1,0.113580,pliers,0.454470,1,1,0.205141
+집게류/IMG_4816.HEIC,pliers,pliers,0.420818,1,1,0.227255,hammer,0.243493,1,0,0.280577
+집게류/IMG_4810.HEIC,pliers,wrench,0.756732,1,0,0.180413,pliers,0.342212,1,1,0.218783
+집게류/IMG_4807.HEIC,pliers,pliers,0.870633,1,1,0.113522,pliers,0.547083,1,1,0.138895
+집게류/IMG_4800.HEIC,pliers,pliers,0.630128,1,1,0.118252,screwdriver,0.379232,1,0,0.207284
+집게류/펜치_김지호/IMG_6429.jpeg,pliers,pliers,0.763483,1,1,0.149309,pliers,0.367659,1,1,0.199090
+집게류/펜치_김지호/IMG_6438.jpeg,pliers,hammer,0.614849,1,0,0.097892,pliers,0.473491,1,1,0.131958
+집게류/펜치_김지호/IMG_6431.jpeg,pliers,pliers,0.868099,1,1,0.100703,pliers,0.562512,1,1,0.137942
+집게류/펜치_김지호/IMG_6436.jpeg,pliers,hammer,0.731782,1,0,0.114967,pliers,0.260380,1,1,0.130842
+집게류/IMG_4811.HEIC,pliers,pliers,0.387557,1,1,0.178980,pliers,0.355381,1,1,0.293403
+집게류/펜치_김지호/IMG_6433.jpeg,pliers,pliers,0.502340,1,1,0.143373,pliers,0.635333,1,1,0.206204
+집게류/IMG_4804.HEIC,pliers,pliers,0.446427,1,1,0.185294,pliers,0.215972,1,1,0.220209
+집게류/IMG_4796.HEIC,pliers,pliers,0.907619,1,1,0.099281,pliers,0.314171,1,1,0.132855
+집게류/IMG_4795.HEIC,pliers,pliers,0.932742,1,1,0.096842,screwdriver,0.336485,1,0,0.133404
+집게류/IMG_4779.HEIC,pliers,pliers,0.724780,1,1,0.224909,pliers,0.350223,1,1,0.305454
+집게류/펜치_김지호/IMG_6435.jpeg,pliers,pliers,0.911680,1,1,0.147122,pliers,0.309194,1,1,0.206410
+집게류/펜치_김지호/IMG_6422.jpeg,pliers,pliers,0.402357,1,1,0.117207,pliers,0.498788,1,1,0.141375
+집게류/펜치_김지호/IMG_6432.jpeg,pliers,screwdriver,0.592663,1,0,0.098981,pliers,0.408682,1,1,0.136885
+집게류/IMG_4799.HEIC,pliers,pliers,0.532318,1,1,0.097570,pliers,0.325412,1,1,0.139519
+집게류/펜치_김지호/IMG_6444.jpeg,pliers,hammer,0.716607,1,0,0.099537,pliers,0.285148,1,1,0.145430
+집게류/펜치_김지호/IMG_6443.jpeg,pliers,,0.000000,0,0,0.100359,pliers,0.308268,1,1,0.136235
+집게류/IMG_4794.HEIC,pliers,pliers,0.871106,1,1,0.192721,pliers,0.488190,1,1,0.262467
+집게류/IMG_4798.HEIC,pliers,pliers,0.890971,1,1,0.194678,pliers,0.565440,1,1,0.322779
+집게류/IMG_4815.HEIC,pliers,hammer,0.589650,1,0,0.232229,screwdriver,0.218736,1,0,0.302794
+집게류/IMG_4782.HEIC,pliers,pliers,0.406244,1,1,0.244156,pliers,0.300289,1,1,0.282235
+집게류/IMG_4785.HEIC,pliers,pliers,0.687950,1,1,0.230360,pliers,0.376465,1,1,0.304922
+집게류/IMG_4790.HEIC,pliers,pliers,0.926441,1,1,0.231414,pliers,0.505657,1,1,0.296844
+집게류/펜치_김지호/IMG_6430.jpeg,pliers,pliers,0.787666,1,1,0.146309,pliers,0.480713,1,1,0.171847
+집게류/펜치_김지호/IMG_6434.jpeg,pliers,hammer,0.525368,1,0,0.099137,pliers,0.475343,1,1,0.134084
+집게류/펜치_김지호/IMG_6454.jpeg,pliers,pliers,0.422215,1,1,0.100441,pliers,0.517772,1,1,0.133017
+집게류/펜치_김지호/IMG_6458.jpeg,pliers,hammer,0.359996,1,0,0.099336,pliers,0.391133,1,1,0.134164
+집게류/펜치_김지호/IMG_6468.jpeg,pliers,,0.000000,0,0,0.099389,pliers,0.337992,1,1,0.132340
+집게류/IMG_4780.HEIC,pliers,pliers,0.722935,1,1,0.227807,pliers,0.308306,1,1,0.299961
+집게류/IMG_4778.HEIC,pliers,pliers,0.696403,1,1,0.237312,pliers,0.264652,1,1,0.289873
+집게류/펜치_김지호/IMG_6452.jpeg,pliers,hammer,0.876220,1,0,0.098873,pliers,0.412982,1,1,0.134343
+집게류/펜치_김지호/IMG_6439.jpeg,pliers,pliers,0.835805,1,1,0.100153,pliers,0.355562,1,1,0.138909
+집게류/IMG_4792.HEIC,pliers,pliers,0.800422,1,1,0.181779,pliers,0.656896,1,1,0.228175
+집게류/펜치_김지호/IMG_6460.jpeg,pliers,screwdriver,0.386327,1,0,0.101317,pliers,0.395518,1,1,0.157862
+집게류/펜치_김지호/IMG_6456.jpeg,pliers,pliers,0.900243,1,1,0.106484,pliers,0.391521,1,1,0.163424
+집게류/펜치_김지호/IMG_6455.jpeg,pliers,pliers,0.788823,1,1,0.107913,pliers,0.524602,1,1,0.161057
+집게류/펜치_김지호/IMG_6446.jpeg,pliers,pliers,0.884885,1,1,0.111460,pliers,0.236601,1,1,0.164056
+집게류/펜치_김지호/IMG_6450.jpeg,pliers,hammer,0.828037,1,0,0.106759,pliers,0.314128,1,1,0.163408
+집게류/펜치_김지호/IMG_6445.jpeg,pliers,pliers,0.514926,1,1,0.110539,pliers,0.279382,1,1,0.158392
+집게류/펜치_김지호/IMG_6441.jpeg,pliers,hammer,0.817892,1,0,0.111412,pliers,0.401913,1,1,0.209799
+집게류/펜치_김지호/IMG_6449.jpeg,pliers,,0.000000,0,0,0.141259,pliers,0.332080,1,1,0.202753
+집게류/펜치_김지호/IMG_6471.jpeg,pliers,pliers,0.802955,1,1,0.116260,pliers,0.682573,1,1,0.136845
+집게류/펜치_김지호/IMG_6465.jpeg,pliers,hammer,0.749630,1,0,0.110814,screwdriver,0.322930,1,0,0.143479
+드라이버/드라이버_이건우/iCloud 사진/IMG_7950.JPEG,screwdriver,screwdriver,0.834049,1,1,0.190790,screwdriver,0.191133,1,1,0.231691
+집게류/펜치_김지호/IMG_6426.jpeg,pliers,hammer,0.794198,1,0,0.102197,pliers,0.356986,1,1,0.133783
+집게류/펜치_김지호/IMG_6428.jpeg,pliers,screwdriver,0.474969,1,0,0.098227,pliers,0.484693,1,1,0.209739
+집게류/펜치_김지호/IMG_6448.jpeg,pliers,hammer,0.722729,1,0,0.138224,pliers,0.470167,1,1,0.194856
+집게류/펜치_김지호/IMG_6442.jpeg,pliers,pliers,0.864805,1,1,0.100895,pliers,0.354656,1,1,0.130047
+집게류/펜치_김지호/IMG_6453.jpeg,pliers,hammer,0.811525,1,0,0.104356,pliers,0.274601,1,1,0.129372
+집게류/펜치_김지호/IMG_6457.jpeg,pliers,pliers,0.784704,1,1,0.103112,pliers,0.334353,1,1,0.128546
+집게류/펜치_김지호/IMG_6469.jpeg,pliers,hammer,0.292144,1,0,0.100161,pliers,0.447122,1,1,0.130469
+집게류/펜치_김지호/IMG_6459.jpeg,pliers,pliers,0.729382,1,1,0.102080,pliers,0.524116,1,1,0.128861
+집게류/펜치_김지호/IMG_6463.jpeg,pliers,pliers,0.363491,1,1,0.102428,pliers,0.375038,1,1,0.147878
+집게류/펜치_김지호/IMG_6466.jpeg,pliers,pliers,0.870787,1,1,0.106366,pliers,0.628702,1,1,0.151481
+드라이버/드라이버_이건우/iCloud 사진/IMG_7951.JPEG,screwdriver,screwdriver,0.830026,1,1,0.192632,screwdriver,0.160897,1,1,0.251517
+드라이버/드라이버_이건우/iCloud 사진/IMG_7993.JPG,screwdriver,screwdriver,0.911273,1,1,0.231083,screwdriver,0.284997,1,1,0.292678
+드라이버/드라이버_이건우/iCloud 사진/IMG_7969.JPG,screwdriver,screwdriver,0.855350,1,1,0.228681,screwdriver,0.373962,1,1,0.310091
+드라이버/드라이버_이건우/iCloud 사진/IMG_7952.JPEG,screwdriver,screwdriver,0.816256,1,1,0.237699,screwdriver,0.233983,1,1,0.289043
+집게류/펜치_김지호/IMG_6440.jpeg,pliers,pliers,0.850051,1,1,0.145591,pliers,0.460066,1,1,0.206744
+집게류/펜치_김지호/IMG_6461.jpeg,pliers,pliers,0.787626,1,1,0.143916,pliers,0.401395,1,1,0.200754
+집게류/펜치_김지호/IMG_6437.jpeg,pliers,pliers,0.664375,1,1,0.098455,pliers,0.242613,1,1,0.130963
+집게류/펜치_김지호/IMG_6451.jpeg,pliers,pliers,0.847634,1,1,0.101360,pliers,0.355675,1,1,0.130986
+집게류/펜치_김지호/IMG_6467.jpeg,pliers,hammer,0.295886,1,0,0.100309,pliers,0.334270,1,1,0.132566
+집게류/펜치_김지호/IMG_6470.jpeg,pliers,pliers,0.567854,1,1,0.099691,pliers,0.351817,1,1,0.131240
+드라이버/드라이버_이건우/iCloud 사진/IMG_7957.JPEG,screwdriver,screwdriver,0.831461,1,1,0.186405,hammer,0.446371,1,0,0.222709
+드라이버/드라이버_이건우/iCloud 사진/IMG_7973.JPG,screwdriver,screwdriver,0.327384,1,1,0.195163,screwdriver,0.223688,1,1,0.236510
+드라이버/드라이버_이건우/iCloud 사진/IMG_7984.JPG,screwdriver,screwdriver,0.775888,1,1,0.193513,screwdriver,0.515178,1,1,0.245913
+드라이버/드라이버_이건우/iCloud 사진/IMG_7964.JPG,screwdriver,screwdriver,0.892718,1,1,0.197368,screwdriver,0.315474,1,1,0.265938
+드라이버/드라이버_이건우/iCloud 사진/IMG_7955.JPEG,screwdriver,screwdriver,0.858019,1,1,0.336300,screwdriver,0.330792,1,1,0.232466
+드라이버/드라이버_이건우/iCloud 사진/IMG_7962.JPEG,screwdriver,screwdriver,0.858106,1,1,0.315572,screwdriver,0.445332,1,1,0.281226
+집게류/펜치_김지호/IMG_6447.jpeg,pliers,pliers,0.741907,1,1,0.124164,pliers,0.516990,1,1,0.164761
+드라이버/드라이버_이건우/iCloud 사진/IMG_8001.JPG,screwdriver,screwdriver,0.725656,1,1,0.192464,screwdriver,0.443621,1,1,0.267402
+드라이버/드라이버_이건우/iCloud 사진/IMG_7975.JPG,screwdriver,screwdriver,0.833265,1,1,0.321771,screwdriver,0.498055,1,1,0.349050
+집게류/펜치_김지호/IMG_6464.jpeg,pliers,pliers,0.678481,1,1,0.136157,pliers,0.307399,1,1,0.150801
+드라이버/드라이버_이건우/iCloud 사진/IMG_7963.JPG,screwdriver,screwdriver,0.820654,1,1,0.195840,screwdriver,0.273395,1,1,0.251218
+집게류/IMG_4781.HEIC,pliers,,0.000000,0,0,0.189468,pliers,0.326608,1,1,0.236754
+드라이버/드라이버_이건우/iCloud 사진/IMG_7982.JPG,screwdriver,screwdriver,0.677231,1,1,0.213910,hammer,0.115807,1,0,0.262854
+드라이버/드라이버_이건우/iCloud 사진/IMG_7965.JPEG,screwdriver,screwdriver,0.926017,1,1,0.199090,screwdriver,0.269098,1,1,0.241545
+드라이버/드라이버_이건우/iCloud 사진/IMG_7970.JPG,screwdriver,screwdriver,0.885762,1,1,0.190921,hammer,0.252498,1,0,0.253218
+드라이버/드라이버_이건우/iCloud 사진/IMG_7991.JPG,screwdriver,screwdriver,0.841750,1,1,0.195972,screwdriver,0.625762,1,1,0.261259
+드라이버/드라이버_이건우/iCloud 사진/IMG_7974.JPG,screwdriver,screwdriver,0.830889,1,1,0.261391,screwdriver,0.555572,1,1,0.324588
+드라이버/드라이버_이건우/iCloud 사진/IMG_7978.JPG,screwdriver,screwdriver,0.887248,1,1,0.188873,screwdriver,0.435042,1,1,0.227805
+드라이버/드라이버_이건우/iCloud 사진/IMG_7981.JPG,screwdriver,drill,0.482888,1,0,0.189075,pliers,0.170568,1,0,0.227700
+드라이버/드라이버_이건우/iCloud 사진/IMG_7996.JPG,screwdriver,screwdriver,0.876626,1,1,0.187833,screwdriver,0.420314,1,1,0.229087
+드라이버/드라이버_이건우/iCloud 사진/IMG_7995.JPG,screwdriver,screwdriver,0.811282,1,1,0.192938,screwdriver,0.261801,1,1,0.249828
+집게류/펜치_김지호/IMG_6462.jpeg,pliers,pliers,0.662480,1,1,0.118861,pliers,0.515893,1,1,0.167326
+드라이버/드라이버_이건우/iCloud 사진/IMG_8002.JPG,screwdriver,screwdriver,0.744687,1,1,0.192075,hammer,0.223514,1,0,0.238497
+드라이버/드라이버_이건우/iCloud 사진/IMG_7976.JPG,screwdriver,hammer,0.676514,1,0,0.189421,screwdriver,0.242822,1,1,0.245873
+드라이버/드라이버_이건우/iCloud 사진/IMG_7985.JPG,screwdriver,screwdriver,0.881049,1,1,0.234819,screwdriver,0.520220,1,1,0.355288
+드라이버/드라이버_이건우/iCloud 사진/IMG_7989.JPG,screwdriver,screwdriver,0.725865,1,1,0.221814,screwdriver,0.278956,1,1,0.279839
+드라이버/드라이버_이건우/iCloud 사진/IMG_7986.JPG,screwdriver,screwdriver,0.764327,1,1,0.213758,screwdriver,0.520482,1,1,0.418669
+드라이버/드라이버_이건우/iCloud 사진/IMG_7967.JPG,screwdriver,screwdriver,0.832597,1,1,0.213580,screwdriver,0.503379,1,1,0.233264
+드라이버/드라이버_이건우/iCloud 사진/IMG_7979.JPG,screwdriver,screwdriver,0.844505,1,1,0.191912,hammer,0.223446,1,0,0.224071
+드라이버/드라이버_이건우/iCloud 사진/IMG_7968.JPG,screwdriver,screwdriver,0.869220,1,1,0.195274,screwdriver,0.385468,1,1,0.274591
+드라이버/드라이버_이건우/iCloud 사진/IMG_7953.JPG,screwdriver,screwdriver,0.858118,1,1,0.203628,screwdriver,0.181607,1,1,0.256654
+집게류/펜치_이건우/IMG_8025.JPG,pliers,pliers,0.458732,1,1,0.204855,pliers,0.215528,1,1,0.260621
+집게류/펜치_이건우/IMG_8044.JPG,pliers,pliers,0.751480,1,1,0.200528,pliers,0.483965,1,1,0.265747
+드라이버/드라이버_이건우/iCloud 사진/IMG_7966.JPEG,screwdriver,screwdriver,0.821571,1,1,0.200934,screwdriver,0.441118,1,1,0.245935
+드라이버/드라이버_이건우/iCloud 사진/IMG_7998.JPG,screwdriver,screwdriver,0.901322,1,1,0.198329,screwdriver,0.244991,1,1,0.247078
+드라이버/드라이버_이건우/iCloud 사진/IMG_7971.JPG,screwdriver,screwdriver,0.906471,1,1,0.201041,hammer,0.308392,1,0,0.286710
+드라이버/드라이버_이건우/iCloud 사진/IMG_7958.JPEG,screwdriver,screwdriver,0.844395,1,1,0.251940,screwdriver,0.120113,1,1,0.327650
+드라이버/드라이버_이건우/iCloud 사진/IMG_7961.JPEG,screwdriver,screwdriver,0.905294,1,1,0.248926,hammer,0.254958,1,0,0.295058
+드라이버/드라이버_이건우/iCloud 사진/IMG_7987.JPG,screwdriver,screwdriver,0.775395,1,1,0.239897,screwdriver,0.374626,1,1,0.298341
+드라이버/드라이버_이건우/iCloud 사진/IMG_7980.JPG,screwdriver,screwdriver,0.751196,1,1,0.189460,screwdriver,0.447687,1,1,0.233600
+집게류/펜치_이건우/IMG_8022.JPG,pliers,pliers,0.390793,1,1,0.190672,hammer,0.277038,1,0,0.220961
+집게류/펜치_이건우/IMG_8012.JPG,pliers,pliers,0.390222,1,1,0.187037,pliers,0.382355,1,1,0.230221
+집게류/펜치_이건우/IMG_8047.JPG,pliers,screwdriver,0.780771,1,0,0.199866,pliers,0.231478,1,1,0.250499
+드라이버/드라이버_이건우/iCloud 사진/IMG_7997.JPG,screwdriver,screwdriver,0.896503,1,1,0.212446,screwdriver,0.303798,1,1,0.266646
+집게류/펜치_이건우/IMG_8027.JPG,pliers,pliers,0.930245,1,1,0.197727,pliers,0.310404,1,1,0.257728
+집게류/펜치_이건우/IMG_8043.JPG,pliers,screwdriver,0.360323,1,0,0.201035,pliers,0.261579,1,1,0.267652
+집게류/펜치_이건우/IMG_8052.JPG,pliers,,0.000000,0,0,0.222438,screwdriver,0.203462,1,0,0.332857
+집게류/펜치_이건우/IMG_8021.JPG,pliers,pliers,0.681358,1,1,0.183602,pliers,0.511116,1,1,0.207783
+드라이버/드라이버_이건우/iCloud 사진/IMG_7999.JPG,screwdriver,screwdriver,0.736817,1,1,0.185349,screwdriver,0.392382,1,1,0.221084
+드라이버/드라이버_이건우/iCloud 사진/IMG_7977.JPG,screwdriver,screwdriver,0.832227,1,1,0.188001,screwdriver,0.252919,1,1,0.214888
+집게류/펜치_이건우/IMG_8029.JPG,pliers,pliers,0.857875,1,1,0.195493,pliers,0.255881,1,1,0.230919
+집게류/펜치_이건우/IMG_8013.JPG,pliers,pliers,0.388257,1,1,0.194435,pliers,0.471001,1,1,0.255543
+드라이버/드라이버_이건우/iCloud 사진/IMG_7992.JPG,screwdriver,screwdriver,0.869916,1,1,0.195321,screwdriver,0.416987,1,1,0.247843
+드라이버/드라이버_이건우/iCloud 사진/IMG_7994.JPG,screwdriver,screwdriver,0.815502,1,1,0.218473,screwdriver,0.228593,1,1,0.314067
+집게류/펜치_이건우/IMG_8018.JPG,pliers,pliers,0.803293,1,1,0.237286,pliers,0.308392,1,1,0.308069
+드라이버/드라이버_이건우/iCloud 사진/IMG_7983.JPG,screwdriver,screwdriver,0.822530,1,1,0.255520,screwdriver,0.350269,1,1,0.327262
+집게류/펜치_이건우/IMG_8017.JPG,pliers,pliers,0.911828,1,1,0.228390,pliers,0.613241,1,1,0.296324
+드라이버/드라이버_이건우/iCloud 사진/IMG_7990.JPG,screwdriver,screwdriver,0.843769,1,1,0.182227,screwdriver,0.565595,1,1,0.217763
+드라이버/드라이버_이건우/iCloud 사진/IMG_7960.JPEG,screwdriver,screwdriver,0.879550,1,1,0.187559,pliers,0.290954,1,0,0.230580
+드라이버/드라이버_이건우/iCloud 사진/IMG_7954.JPG,screwdriver,screwdriver,0.878164,1,1,0.211135,screwdriver,0.117399,1,1,0.219539
+드라이버/드라이버_이건우/iCloud 사진/IMG_7972.JPG,screwdriver,screwdriver,0.784139,1,1,0.194107,screwdriver,0.207646,1,1,0.237932
+집게류/펜치_이건우/IMG_8023.JPG,pliers,pliers,0.783124,1,1,0.191839,pliers,0.402410,1,1,0.245118
+집게류/펜치_이건우/IMG_8031.JPG,pliers,pliers,0.761620,1,1,0.195982,pliers,0.316502,1,1,0.263778
+집게류/펜치_이건우/IMG_8039.JPG,pliers,pliers,0.780117,1,1,0.200333,pliers,0.266859,1,1,0.266387
+집게류/펜치_이건우/IMG_8014.JPG,pliers,pliers,0.889491,1,1,0.202345,pliers,0.379822,1,1,0.306891
+집게류/펜치_이건우/IMG_8008.JPG,pliers,pliers,0.889612,1,1,0.247166,pliers,0.385388,1,1,0.325657
+집게류/펜치_이건우/IMG_8032.JPG,pliers,pliers,0.841769,1,1,0.232641,pliers,0.298803,1,1,0.302313
+집게류/펜치_이건우/IMG_8015.JPG,pliers,,0.000000,0,0,0.239332,screwdriver,0.142607,1,0,0.313402
+집게류/펜치_이건우/IMG_8033.JPG,pliers,pliers,0.777600,1,1,0.185133,screwdriver,0.318503,1,0,0.222813
+집게류/펜치_이건우/IMG_8016.JPG,pliers,screwdriver,0.613320,1,0,0.185848,pliers,0.266746,1,1,0.230894
+집게류/펜치_이건우/IMG_8009.JPG,pliers,pliers,0.894823,1,1,0.185488,pliers,0.298653,1,1,0.218401
+집게류/펜치_이건우/IMG_8026.JPG,pliers,pliers,0.898993,1,1,0.194468,pliers,0.262300,1,1,0.245777
+집게류/펜치_이건우/IMG_8036.JPG,pliers,pliers,0.556605,1,1,0.221113,pliers,0.320053,1,1,0.312271
+집게류/펜치_이건우/IMG_8011.JPG,pliers,pliers,0.848616,1,1,0.232458,pliers,0.389277,1,1,0.295887
+드라이버/드라이버_이건우/iCloud 사진/IMG_7988.JPG,screwdriver,screwdriver,0.745366,1,1,0.243681,screwdriver,0.187832,1,1,0.293610
+집게류/펜치_이건우/IMG_8005.JPG,pliers,pliers,0.804540,1,1,0.184592,pliers,0.244485,1,1,0.212823
+집게류/펜치_이건우/IMG_8024.JPG,pliers,pliers,0.919604,1,1,0.182288,screwdriver,0.348621,1,0,0.218162
+집게류/펜치_이건우/IMG_8007.JPG,pliers,pliers,0.826377,1,1,0.183193,screwdriver,0.304930,1,0,0.216746
+집게류/펜치_이건우/IMG_8003.JPG,pliers,pliers,0.903511,1,1,0.236967,pliers,0.495353,1,1,0.295461
+집게류/펜치_이건우/IMG_8045.JPG,pliers,pliers,0.874793,1,1,0.232138,pliers,0.326982,1,1,0.295524
+집게류/펜치_이건우/IMG_8034.JPG,pliers,pliers,0.821391,1,1,0.233017,pliers,0.344411,1,1,0.302353
+집게류/펜치_이건우/IMG_8019.JPG,pliers,pliers,0.819500,1,1,0.231427,pliers,0.374701,1,1,0.299239
+집게류/펜치_이건우/IMG_8049.JPG,pliers,,0.000000,0,0,0.186216,hammer,0.164163,1,0,0.215746
+집게류/펜치_이건우/IMG_8030.JPG,pliers,pliers,0.746159,1,1,0.186467,pliers,0.222751,1,1,0.214692
+집게류/펜치_이건우/IMG_8042.JPG,pliers,screwdriver,0.679961,1,0,0.184329,pliers,0.422520,1,1,0.217645
+집게류/펜치_이건우/IMG_8048.JPG,pliers,,0.000000,0,0,0.190668,screwdriver,0.339478,1,0,0.248891
+집게류/펜치_이건우/IMG_8004.JPG,pliers,pliers,0.876125,1,1,0.195720,pliers,0.341913,1,1,0.248553
+집게류/펜치_이건우/IMG_8010.JPG,pliers,pliers,0.879990,1,1,0.192957,pliers,0.159083,1,1,0.258053
+집게류/펜치_이건우/IMG_8051.JPG,pliers,screwdriver,0.848631,1,0,0.197729,screwdriver,0.210497,1,0,0.267663
+집게류/펜치_이건우/IMG_8028.JPG,pliers,pliers,0.932822,1,1,0.215449,screwdriver,0.277344,1,0,0.351352
+집게류/펜치_이건우/IMG_8006.JPG,pliers,pliers,0.813337,1,1,0.182920,pliers,0.430703,1,1,0.213981
+집게류/펜치_이건우/IMG_8037.JPG,pliers,pliers,0.910240,1,1,0.207502,pliers,0.246205,1,1,0.212328
+집게류/펜치_이건우/IMG_8041.JPG,pliers,pliers,0.838528,1,1,0.188681,pliers,0.405861,1,1,0.209526
+집게류/펜치_이건우/IMG_8050.JPG,pliers,hammer,0.260594,1,0,0.191039,pliers,0.387821,1,1,0.238683
+집게류/펜치_이건우/IMG_8020.JPG,pliers,pliers,0.724077,1,1,0.189769,hammer,0.567316,1,0,0.246719
+집게류/펜치_이건우/IMG_8040.JPG,pliers,pliers,0.889545,1,1,0.191507,hammer,0.333726,1,0,0.255433
+집게류/펜치_이건우/IMG_8035.JPG,pliers,screwdriver,0.571290,1,0,0.199582,hammer,0.365349,1,0,0.265365
+집게류/펜치_이건우/IMG_8038.JPG,pliers,pliers,0.919401,1,1,0.197032,pliers,0.308182,1,1,0.309291
+집게류/펜치_이건우/IMG_8046.JPG,pliers,hammer,0.843277,1,0,0.230427,screwdriver,0.383382,1,0,0.299348

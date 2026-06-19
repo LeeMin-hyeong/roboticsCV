@@ -1,0 +1,7 @@
+﻿file,true_class,yolo_pred,yolo_conf,yolo_found,yolo_correct,yolo_time_sec,owl_vit_pred,owl_vit_conf,owl_vit_found,owl_vit_correct,owl_vit_time_sec,owlv2_pred,owlv2_conf,owlv2_found,owlv2_correct,owlv2_time_sec,grounding_dino_pred,grounding_dino_conf,grounding_dino_found,grounding_dino_correct,grounding_dino_time_sec
+드라이버/드라이버_김지호/IMG_6371.jpeg,screwdriver,screwdriver,0.900400,1,1,0.676709,screwdriver,0.495010,1,1,0.200072,screwdriver,0.778668,1,1,1.191391,,0.431501,0,0,0.586322
+드라이버/드라이버_김지호/IMG_6385.jpeg,screwdriver,screwdriver,0.782841,1,1,0.183519,screwdriver,0.535405,1,1,0.199871,screwdriver,0.650092,1,1,0.739416,,0.389717,0,0,0.341333
+망치/IMG_2564.HEIC,hammer,hammer,0.441952,1,1,0.205800,hammer,0.307712,1,1,0.253699,hammer,0.584779,1,1,1.551310,hammer,0.420543,1,1,0.418083
+망치/IMG_2552.HEIC,hammer,hammer,0.663025,1,1,0.208861,hammer,0.259353,1,1,0.247951,pliers,0.576396,1,0,1.444249,,0.317571,0,0,0.386816
+집게류/IMG_2546.HEIC,pliers,pliers,0.842154,1,1,0.200547,pliers,0.327376,1,1,0.261299,pliers,0.649111,1,1,1.418777,,0.387702,0,0,0.369137
+집게류/IMG_2557.HEIC,pliers,pliers,0.796405,1,1,0.197182,hammer,0.188006,1,0,0.225994,pliers,0.769771,1,1,1.325433,,0.399467,0,0,0.361143

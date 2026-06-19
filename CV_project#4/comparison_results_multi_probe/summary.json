@@ -1,0 +1,134 @@
+{
+  "total_images": 6,
+  "models": {
+    "yolo": {
+      "correct": 6,
+      "total": 6,
+      "accuracy": 1.0,
+      "coverage": 1.0,
+      "avg_time_sec": 0.27876966666666664
+    },
+    "owl_vit": {
+      "correct": 5,
+      "total": 6,
+      "accuracy": 0.8333333333333334,
+      "coverage": 1.0,
+      "avg_time_sec": 0.23148100000000002
+    },
+    "owlv2": {
+      "correct": 5,
+      "total": 6,
+      "accuracy": 0.8333333333333334,
+      "coverage": 1.0,
+      "avg_time_sec": 1.2784293333333332
+    },
+    "grounding_dino": {
+      "correct": 1,
+      "total": 6,
+      "accuracy": 0.16666666666666666,
+      "coverage": 0.16666666666666666,
+      "avg_time_sec": 0.41047233333333333
+    }
+  },
+  "by_class": {
+    "hammer": {
+      "count": 2,
+      "models": {
+        "yolo": {
+          "correct": 2,
+          "total": 2,
+          "accuracy": 1.0,
+          "coverage": 1.0,
+          "avg_time_sec": 0.2073305
+        },
+        "owl_vit": {
+          "correct": 2,
+          "total": 2,
+          "accuracy": 1.0,
+          "coverage": 1.0,
+          "avg_time_sec": 0.250825
+        },
+        "owlv2": {
+          "correct": 1,
+          "total": 2,
+          "accuracy": 0.5,
+          "coverage": 1.0,
+          "avg_time_sec": 1.4977795
+        },
+        "grounding_dino": {
+          "correct": 1,
+          "total": 2,
+          "accuracy": 0.5,
+          "coverage": 0.5,
+          "avg_time_sec": 0.4024495
+        }
+      }
+    },
+    "pliers": {
+      "count": 2,
+      "models": {
+        "yolo": {
+          "correct": 2,
+          "total": 2,
+          "accuracy": 1.0,
+          "coverage": 1.0,
+          "avg_time_sec": 0.1988645
+        },
+        "owl_vit": {
+          "correct": 1,
+          "total": 2,
+          "accuracy": 0.5,
+          "coverage": 1.0,
+          "avg_time_sec": 0.2436465
+        },
+        "owlv2": {
+          "correct": 2,
+          "total": 2,
+          "accuracy": 1.0,
+          "coverage": 1.0,
+          "avg_time_sec": 1.372105
+        },
+        "grounding_dino": {
+          "correct": 0,
+          "total": 2,
+          "accuracy": 0.0,
+          "coverage": 0.0,
+          "avg_time_sec": 0.36514
+        }
+      }
+    },
+    "screwdriver": {
+      "count": 2,
+      "models": {
+        "yolo": {
+          "correct": 2,
+          "total": 2,
+          "accuracy": 1.0,
+          "coverage": 1.0,
+          "avg_time_sec": 0.430114
+        },
+        "owl_vit": {
+          "correct": 2,
+          "total": 2,
+          "accuracy": 1.0,
+          "coverage": 1.0,
+          "avg_time_sec": 0.1999715
+        },
+        "owlv2": {
+          "correct": 2,
+          "total": 2,
+          "accuracy": 1.0,
+          "coverage": 1.0,
+          "avg_time_sec": 0.9654035000000001
+        },
+        "grounding_dino": {
+          "correct": 0,
+          "total": 2,
+          "accuracy": 0.0,
+          "coverage": 0.0,
+          "avg_time_sec": 0.4638275
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,10 @@
+﻿file,true_class,yolo_pred,yolo_conf,yolo_found,yolo_correct,yolo_time_sec,foundation_pred,foundation_conf,foundation_found,foundation_correct,foundation_time_sec
+드라이버/드라이버_김지호/IMG_6371.jpeg,screwdriver,screwdriver,0.900400,1,1,0.684723,screwdriver,0.495010,1,1,0.253782
+드라이버/드라이버_김지호/IMG_6385.jpeg,screwdriver,screwdriver,0.782841,1,1,0.173279,screwdriver,0.535405,1,1,0.138168
+드라이버/드라이버_김지호/IMG_6390.jpeg,screwdriver,screwdriver,0.882271,1,1,0.107202,screwdriver,0.580956,1,1,0.132396
+망치/IMG_2564.HEIC,hammer,hammer,0.441952,1,1,0.220075,hammer,0.307712,1,1,0.281751
+망치/IMG_2552.HEIC,hammer,hammer,0.663025,1,1,0.243379,hammer,0.259353,1,1,0.293276
+망치/IMG_2532.HEIC,hammer,hammer,0.868159,1,1,0.200681,screwdriver,0.324231,1,0,0.295807
+집게류/IMG_2546.HEIC,pliers,pliers,0.842154,1,1,0.187850,pliers,0.327376,1,1,0.282738
+집게류/IMG_2557.HEIC,pliers,pliers,0.796405,1,1,0.187394,hammer,0.188006,1,0,0.266218
+집게류/IMG_2545.HEIC,pliers,pliers,0.923898,1,1,0.300852,pliers,0.296802,1,1,0.247655

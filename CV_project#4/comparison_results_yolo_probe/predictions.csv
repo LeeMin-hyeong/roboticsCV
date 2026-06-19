@@ -1,0 +1,16 @@
+﻿file,true_class,yolo_pred,yolo_conf,yolo_found,yolo_correct,yolo_time_sec,foundation_pred,foundation_conf,foundation_found,foundation_correct,foundation_time_sec
+드라이버/드라이버_김지호/IMG_6371.jpeg,screwdriver,screwdriver,0.900400,1,1,0.745739,,0.000000,0,0,0.000000
+드라이버/드라이버_김지호/IMG_6385.jpeg,screwdriver,screwdriver,0.782841,1,1,0.173925,,0.000000,0,0,0.000000
+드라이버/드라이버_김지호/IMG_6390.jpeg,screwdriver,screwdriver,0.882271,1,1,0.102908,,0.000000,0,0,0.000000
+드라이버/드라이버_김지호/IMG_6391.jpeg,screwdriver,screwdriver,0.879412,1,1,0.105160,,0.000000,0,0,0.000000
+드라이버/드라이버_김지호/IMG_6375.jpeg,screwdriver,screwdriver,0.829670,1,1,0.105536,,0.000000,0,0,0.000000
+망치/IMG_0267.JPG,hammer,hammer,0.833522,1,1,0.074267,,0.000000,0,0,0.000000
+망치/IMG_0268.JPG,hammer,wrench,0.612932,1,0,0.075807,,0.000000,0,0,0.000000
+망치/IMG_0269.JPG,hammer,wrench,0.780233,1,0,0.070586,,0.000000,0,0,0.000000
+망치/IMG_0255.JPG,hammer,hammer,0.862465,1,1,0.072870,,0.000000,0,0,0.000000
+망치/IMG_0260.JPG,hammer,hammer,0.689977,1,1,0.074412,,0.000000,0,0,0.000000
+집게류/IMG_4966.JPG,pliers,screwdriver,0.681397,1,0,0.225654,,0.000000,0,0,0.000000
+집게류/IMG_4968.JPG,pliers,screwdriver,0.776180,1,0,0.229010,,0.000000,0,0,0.000000
+집게류/IMG_4970.JPG,pliers,hammer,0.568906,1,0,0.152088,,0.000000,0,0,0.000000
+집게류/IMG_4972.JPG,pliers,screwdriver,0.703476,1,0,0.138656,,0.000000,0,0,0.000000
+집게류/IMG_4967.JPG,pliers,wrench,0.838315,1,0,0.124354,,0.000000,0,0,0.000000

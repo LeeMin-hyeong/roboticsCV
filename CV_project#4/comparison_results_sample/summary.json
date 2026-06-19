@@ -1,0 +1,70 @@
+{
+  "total_images": 9,
+  "yolo": {
+    "correct": 9,
+    "total": 9,
+    "accuracy": 1.0,
+    "coverage": 1.0,
+    "avg_time_sec": 0.25615944444444444
+  },
+  "foundation": {
+    "correct": 7,
+    "total": 9,
+    "accuracy": 0.7777777777777778,
+    "coverage": 1.0,
+    "avg_time_sec": 0.24353233333333332
+  },
+  "by_class": {
+    "hammer": {
+      "count": 3,
+      "yolo": {
+        "correct": 3,
+        "total": 3,
+        "accuracy": 1.0,
+        "coverage": 1.0,
+        "avg_time_sec": 0.22137833333333334
+      },
+      "foundation": {
+        "correct": 2,
+        "total": 3,
+        "accuracy": 0.6666666666666666,
+        "coverage": 1.0,
+        "avg_time_sec": 0.290278
+      }
+    },
+    "pliers": {
+      "count": 3,
+      "yolo": {
+        "correct": 3,
+        "total": 3,
+        "accuracy": 1.0,
+        "coverage": 1.0,
+        "avg_time_sec": 0.22536533333333333
+      },
+      "foundation": {
+        "correct": 2,
+        "total": 3,
+        "accuracy": 0.6666666666666666,
+        "coverage": 1.0,
+        "avg_time_sec": 0.26553699999999997
+      }
+    },
+    "screwdriver": {
+      "count": 3,
+      "yolo": {
+        "correct": 3,
+        "total": 3,
+        "accuracy": 1.0,
+        "coverage": 1.0,
+        "avg_time_sec": 0.32173466666666667
+      },
+      "foundation": {
+        "correct": 3,
+        "total": 3,
+        "accuracy": 1.0,
+        "coverage": 1.0,
+        "avg_time_sec": 0.174782
+      }
+    }
+  }
+}

@@ -1,0 +1,52 @@
+[
+  {
+    "file": "망치/IMG_2564.HEIC",
+    "reason": "No module named 'pi_heif'",
+    "heif_registered": false
+  },
+  {
+    "file": "망치/IMG_2552.HEIC",
+    "reason": "No module named 'pi_heif'",
+    "heif_registered": false
+  },
+  {
+    "file": "망치/IMG_2532.HEIC",
+    "reason": "No module named 'pi_heif'",
+    "heif_registered": false
+  },
+  {
+    "file": "망치/IMG_2560.HEIC",
+    "reason": "No module named 'pi_heif'",
+    "heif_registered": false
+  },
+  {
+    "file": "망치/IMG_2563.HEIC",
+    "reason": "No module named 'pi_heif'",
+    "heif_registered": false
+  },
+  {
+    "file": "집게류/IMG_2546.HEIC",
+    "reason": "No module named 'pi_heif'",
+    "heif_registered": false
+  },
+  {
+    "file": "집게류/IMG_2557.HEIC",
+    "reason": "No module named 'pi_heif'",
+    "heif_registered": false
+  },
+  {
+    "file": "집게류/IMG_2545.HEIC",
+    "reason": "No module named 'pi_heif'",
+    "heif_registered": false
+  },
+  {
+    "file": "집게류/IMG_2527.HEIC",
+    "reason": "No module named 'pi_heif'",
+    "heif_registered": false
+  },
+  {
+    "file": "집게류/IMG_2526.HEIC",
+    "reason": "No module named 'pi_heif'",
+    "heif_registered": false
+  }
+]
